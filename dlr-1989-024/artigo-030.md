@@ -1,7 +1,5 @@
-## Capítulo VI
-## Pessoal dos serviços da Assembleia Legislativa Regional
-## Secção I
-## Disposições gerais
+## Subsecção IV
+## Divisão de Documentação e Informação Bibliográfica
 # Artigo 30.º
 ### Competências
 À Divisão de Documentação e Informação Bibliográfica compete:

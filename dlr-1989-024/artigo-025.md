@@ -1,5 +1,3 @@
-## Subsecção III
-## Divisão Administrativa e Financeira
 # Artigo 25.º
 ### Competências
 Compete à Divisão de Apoio Parlamentar:
