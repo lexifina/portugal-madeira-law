@@ -1,0 +1,4 @@
+# Artigo 7.º
+### Cessão de posições contratuais e transferência de outras posições jurídicas
+1 - São transferidas, por este diploma, a posição ocupada pela Região, pelo Governo Regional ou por serviços públicos de âmbito regional em contratos e, bem assim, as posições em situações jurídicas decorrentes de actos unilaterais da Administração, aceites por pessoas jurídicas privadas que visem a implantação dos parques empresariais identificados neste diploma, a favor da Madeira Parques Empresariais.
+2 - Cabe à Madeira Parques Empresariais satisfazer todos os encargos com a aquisição, a aquisição prometida, o arrendamento ou outros que visem a implantação dos parques empresariais objecto desta concessão de serviço público cujas posições forem transferidas, nos termos deste artigo ou por negociação particular.
