@@ -1,0 +1,4 @@
+# Artigo 3.º
+### Sucessão
+1 - A IHM, E. P. E., sucede automática e globalmente ao Instituto de Habitação da Região Autónoma da Madeira e continua a personalidade jurídica deste, conservando, sem prejuízo de ressalva ou exclusão expressa neste diploma, a universalidade dos seus direitos e obrigações, incluindo os relativos aos bens de domínio público que lhe estão afectos ou sob sua administração à data da transformação.
+2 - No que se refere aos contratos celebrados pelo Instituto de Habitação da Região Autónoma da Madeira em data anterior à da transformação operada pelo presente diploma, e em cujas posições contratuais a IHM, E. P. E., suceda por efeito de tal transformação, não poderá o presente diploma ser considerado como um facto fundamentador de uma situação de alteração das circunstâncias para efeitos de tais contratos.

@@ -1,0 +1,6 @@
+# Artigo 14.º
+### Instrumentos de gestão previsional e de controlo de gestão
+1 - A gestão económica e financeira da IHM, E. P. E., é disciplinada pelos instrumentos de gestão previsional previstos na lei e, designadamente, por:
+a) Planos de actividade e financeiros, anuais e plurianuais, os quais devem estabelecer a estratégia a seguir pela empresa, sendo reformulados sempre que as circunstâncias o justifiquem, incluindo o programa de investimentos e respectivas fontes de financiamento;
+b) Relatórios trimestrais de execução orçamental a elaborar e a enviar aos membros do Governo Regional que detenham a tutela dos sectores das finanças e da habitação, nas condições que vierem a ser estabelecidas por despacho conjunto dos mesmos.
+2 - Os planos financeiros devem prever, em relação aos períodos a que respeitam, a evolução das receitas e despesas, os investimentos a realizar e as fontes de financiamento a que se pretende recorrer e devem ser elaborados com respeito pelas directrizes globais definidas pelo Governo Regional e, quando for caso disso, pelos contratos-programa celebrados, sendo remetidos aos membros do Governo Regional que detenham a tutela dos sectores das finanças e da habitação para aprovação, acompanhados de parecer do órgão de fiscalização da IHM, E. P. E., até 30 de Novembro de cada ano.

@@ -1,0 +1,4 @@
+# Artigo 5.º
+### Missões de interesse público
+1 - Podem ser cometidas pelo Governo Regional à IHM, E. P. E., especiais obrigações de serviço público no âmbito da promoção de programas habitacionais de interesse social e de outras iniciativas no domínio da habitação social, bem como na gestão e conservação do património imobiliário e habitacional que lhe seja afecto e no apoio a instituições públicas e privadas no domínio da habitação social.
+2 - Tendo em conta as missões de interesse público de que a IHM, E. P. E., fique encarregue, poderão ser-lhe atribuídas reduções e isenções de taxas, bem como subsídios, apoios financeiros e indemnizações compensatórias, nomeadamente através da celebração de contratos-programa, nos termos previstos no regime jurídico das empresas encarregues da gestão de serviços de interesse económico geral constante do Decreto-Lei n.º 558/99, de 17 de Dezembro.
