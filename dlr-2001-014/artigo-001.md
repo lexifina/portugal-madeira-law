@@ -1,6 +1,6 @@
 # Artigo 1.º
 Os artigos 3.º e 4.º do Decreto Legislativo Regional n.º 5/2000/M, de 28 de Fevereiro, passam a ter a seguinte redacção:
-«Artigo 1.º
+«Artigo 3.º
 Investimento elegível
 1 - Para efeitos do disposto no artigo anterior, considera-se elegível o investimento em activo imobilizado corpóreo concretizado na Região Autónoma da Madeira que seja afecto à exploração pelo sujeito passivo e que tenha sido adquirido em estado novo, com excepção de:
 a) ...
