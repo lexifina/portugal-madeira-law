@@ -1,3 +1,5 @@
+## Secção IV
+## Serviço de Relações Públicas
 # Artigo 33.º
 ### Âmbito funcional
 O Serviço de Relações Públicas está especialmente encarregado de apoiar e dinamizar as relações externas da Assembleia na dependência directa do Presidente e do secretário-geral da Assembleia Legislativa Regional, competindo-lhe, nomeadamente:
