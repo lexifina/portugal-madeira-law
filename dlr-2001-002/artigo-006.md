@@ -1,3 +1,3 @@
 # Artigo 6.º
-### Produção de efeitos
-O presente diploma produz efeitos a partir do dia 1 de Janeiro de 2001.
+### Implementação
+O Governo Regional, por intermédio da Secretaria Regional do Plano e Finanças, diligenciará junto da Secretaria de Estado dos Assuntos Fiscais do Ministério das Finanças a colaboração necessária ao nível administrativo e informático, tendo em vista a entrada em vigor das medidas constantes do presente diploma.

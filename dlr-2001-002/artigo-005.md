@@ -1,3 +1,3 @@
 # Artigo 5.º
-### Implementação
-O Governo Regional, por intermédio da Secretaria Regional do Plano e Finanças, diligenciará junto da Secretaria de Estado dos Assuntos Fiscais do Ministério das Finanças a colaboração necessária ao nível administrativo e informático, tendo em vista a entrada em vigor das medidas constantes do presente diploma.
+### Pagamento especial por conta
+As reduções de taxa de IRC em vigor na Região Autónoma da Madeira serão aplicadas à percentagem prevista na fórmula de cálculo para o apuramento do pagamento especial por conta, bem como aos limites máximos e mínimos fixados nos termos do n.º 2 do artigo 98.º do Código do IRC.
