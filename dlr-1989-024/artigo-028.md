@@ -1,9 +1,10 @@
 # Artigo 28.º
-### Competências
-À Divisão Administrativa e Financeira compete assegurar:
-a) A gestão dos recursos humanos, realizando as acções relacionadas com o recrutamento, selecção, avaliação, promoção e formação do pessoal;
-b) A elaboração das propostas de orçamento e do relatório e conta;
-c) A execução do orçamento;
-d) A gestão e manutenção das instalações, dos equipamentos e do parque automóvel;
-e) O aprovisionamento e a aquisição de bens e serviços;
-f) A análise organizacional e o tratamento automático da informação.
+### Competência
+Compete ao Departamento Financeiro:
+a) Elaborar as propostas de orçamento e do relatório e conta de acordo com as orientações expressas pelo Conselho de Administração;
+b) Dar execução ao orçamento;
+c) Processar as remunerações e outros abonos;
+d) Assegurar o aprovisionamento e aquisição de bens e serviços;
+e) Conferir, controlar e processar as despesas;
+f) Elaborar o inventário geral dos bens, mantendo-o actualizado;
+g) Velar pelo cumprimento de serviços relativos à conservação do património.
