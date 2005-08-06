@@ -1,5 +1,5 @@
-## Subsecção III
-## Divisão Administrativa e Financeira
+## Subsecção VI
+## Departamento Financeiro
 # Artigo 27.º
 ### Atribuições
-A Divisão Administrativa e Financeira é a unidade orgânica especialmente encarregada da gestão dos recursos humanos, financeiros e patrimoniais, bem como das funções administrativa e de informática.
+O Departamento Financeiro é a unidade orgânica encarregada de executar as orientações que lhe forem determinadas pelo Secretário-Geral em matéria de gestão orçamental e patrimonial.
