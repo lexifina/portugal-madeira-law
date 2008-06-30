@@ -1,3 +1,3 @@
 # Artigo 2.º
 ### Natureza
-O Sistema Regional de Saúde é o conjunto articulado de todos os recursos humanos, financeiros e materiais de natureza pública, privada ou mista que a Região reúne para assegurar o direito à protecção da saúde da população, em especial a promoção e a prestação de cuidados de saúde aos utentes, de acordo com as suas necessidades.
+O Sistema Regional de Saúde visa a efectivação do direito à protecção da saúde, e é constituído pelo Serviço Regional de Saúde e por todas as entidades privadas e por todos os profissionais em regime liberal que acordem com este a prestação de cuidados de saúde.

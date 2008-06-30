@@ -6,6 +6,6 @@
 a) A função de promoção da saúde e de prestação de cuidados;
 b) A função reguladora;
 c) A função financiadora.
-2 - A função de promoção da saúde e de prestação de cuidados é exercida pelo Serviço Regional de Saúde e por todas as entidades públicas e privadas legalmente habilitadas para o efeito, compreendendo, igualmente, a implementação e o desenvolvimento de actividades de investigação no domínio da saúde.
+2 - A função de promoção da saúde e de prestação de cuidados é exercida pelo Serviço Regional de Saúde e pelas entidades a que se refere o artigo 2.º, incluindo a implementação e o desenvolvimento de actividades de investigação no domínio da saúde.
 3 - A função reguladora é exercida pelo Governo Regional, através da secretaria regional responsável pela área da saúde, competindo-lhe, em especial, o planeamento estratégico, a orientação, a regulação técnico-normativa, a inspecção e a avaliação do Sistema.
 4 - A função financiadora é exercida pelas secretarias regionais responsáveis pelas áreas da saúde e das finanças e por todas as entidades às quais, por lei ou por contrato, incumba o pagamento de prestações de saúde.
