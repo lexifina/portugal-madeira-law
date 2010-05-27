@@ -2,7 +2,7 @@
 ### Órgãos
 São órgãos do SRPC, IP-RAM:
 a) O presidente;
-b) Os vice-presidentes;
+b) O vice-presidente;
 c) O fiscal único;
 d) A Inspecção Regional de Bombeiros;
 e) O conselho consultivo;

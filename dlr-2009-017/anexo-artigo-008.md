@@ -1,7 +1,7 @@
 # Artigo 8.º
 ### Inspecção Regional de Bombeiros
 1 - A Inspecção Regional de Bombeiros é o órgão do SRPC, IP-RAM, ao qual compete coordenar, acompanhar e fiscalizar, a nível regional, a actividade dos corpos de bombeiros no domínio da protecção civil e do socorro.
-2 - A Inspecção Regional de Bombeiros é dirigida por um inspector regional de Bombeiros, abreviadamente designado por IRB, coadjuvado por um inspector regional-adjunto, abreviadamente designado por IRAB, cargos de direcção intermédia de primeiro e segundo grau, respectivamente.
+2 - A Inspecção Regional de Bombeiros é dirigida pelo inspector regional de bombeiros, abreviadamente designado por IRB, cargo de direcção intermédia de 1.º grau.
 3 - Compete em especial ao inspector regional de Bombeiros:
 a) Dar parecer sobre propostas de criação de novos corpos de bombeiros voluntários, mistos e privativos e suas secções;
 b) Propor a fixação e delimitação das áreas de actuação própria dos corpos de bombeiros, de forma a ser integrada em directiva operacional;
