@@ -9,4 +9,4 @@ c) A identificação das respectivas atribuições;
 d) A identificação do tipo de organização interna;
 e) A dotação de lugares de direcção superior e de direcção intermédia do grau 1;
 f) O estatuto remuneratório dos chefes de equipa multidisciplinar, se aplicável.
-2 - A aprovação e alteração dos quadros de pessoal são feitas por portaria conjunta do membro do Governo Regional da tutela e dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública.
+2 - (Revogado).
