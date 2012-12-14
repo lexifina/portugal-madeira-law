@@ -2,7 +2,7 @@
 ## Gestão financeira e patrimonial
 # Artigo 13.º
 ### Receitas
-Constituem receitas do IDR:
+Constituem receitas do IDR, IP-RAM:
 a) As comparticipações, dotações, subsídios e compensações financeiras que lhe forem atribuídas pelo Estado, pela RAM ou por quaisquer outras entidades públicas;
 b) O produto da alienação de bens próprios e da constituição de direitos sobre eles;
 c) Os rendimentos de bens próprios e os provenientes da sua actividade;
