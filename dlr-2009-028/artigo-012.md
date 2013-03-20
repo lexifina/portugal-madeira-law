@@ -1,7 +1,7 @@
 # Artigo 12.º
 ### Pronúncia de entidades públicas
-1 - Para além da entidade coordenadora, nos procedimentos previstos no presente diploma podem pronunciar-se, nos termos das respectivas atribuições e competências legalmente previstas, as seguintes entidades públicas:
-a) Direcção Regional do Ambiente (DRAmb);
+1 - Para além da entidade coordenadora, nos procedimentos previstos no presente diploma podem pronunciar-se, nos termos das respetivas atribuições e competências legalmente previstas, as seguintes entidades públicas:
+a) Direção Regional do Ordenamento do Território e Ambiente (DROTA);
 b) Serviço Regional de Protecção Civil (SRPC);
 c) Direcção Regional do Trabalho (DRTrab);
 d) Instituto de Administração da Saúde e Assuntos Sociais (IASAS, IP-RAM);

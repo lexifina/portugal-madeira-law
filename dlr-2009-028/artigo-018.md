@@ -1,6 +1,6 @@
 # Artigo 18.º
 ### Saneamento e apreciação liminar
-1 - Se a verificação do pedido de autorização e respectivos elementos instrutórios revelar a sua não conformidade com os condicionamentos legais e regulamentares aplicáveis, a entidade coordenadora profere, no prazo de 10 dias contados a partir da data do pedido de autorização:
+1 - Se a verificação do pedido de autorização e respetivos elementos instrutórios revelar a sua não conformidade com os condicionamentos legais e regulamentares aplicáveis, a entidade coordenadora profere, no prazo de 20 dias contados a partir da data do pedido de autorização:
 a) Despacho de convite ao aperfeiçoamento, no qual especifica em concreto os esclarecimentos, alterações ou aditamentos necessários à boa instrução do processo;
 b) Despacho de indeferimento liminar, com a consequente extinção do procedimento, se a não conformidade com os condicionamentos legais e regulamentares for insusceptível de suprimento ou correcção.
 2 - Decorrido o prazo previsto no número anterior sem que ocorra convite ao aperfeiçoamento, é remetido ao requerente, certidão donde conste a data de apresentação do pedido de autorização e a menção expressa à sua regular instrução.

@@ -17,7 +17,7 @@ l) Averbamento da alteração da denominação social do estabelecimento industr
 m) Desselagem de máquinas, aparelhos e demais equipamentos;
 n) Vistorias para verificação do cumprimento das medidas impostas aquando da desactivação definitiva do estabelecimento industrial;
 o) Vistorias de controlo das condições impostas aos estabelecimentos que obtiveram a exclusão do regime de prevenção e controlo integrados da poluição;
-p) Apreciação dos pedidos de regularização de estabelecimento industrial.
+p) [Revogada];
 2 - O montante das taxas previstas no número anterior para os actos relativos aos estabelecimentos industriais é fixado nos termos do anexo V do presente diploma, do qual faz parte integrante, o qual inclui as regras para o seu cálculo e actualização, com base na aplicação de factores multiplicativos sobre uma taxa base.
 3 - O pagamento das taxas é efectuado no momento da apresentação do respectivo pedido.
 4 - As despesas a realizar com colheitas de amostras, ensaios laboratoriais ou quaisquer outras avaliações necessárias para apreciação das condições do exercício da actividade de um estabelecimento constituem encargo das entidades que as tenham promovido, salvo quando decorram de obrigações legais ou da verificação de inobservância das prescrições técnicas obrigatórias, caso em que os encargos são suportados pelo requerente.
