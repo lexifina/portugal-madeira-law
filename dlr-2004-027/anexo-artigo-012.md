@@ -1,4 +1,7 @@
 # Artigo 12.º
 ### Fiscal único
-1 - A fiscalização da IHM, E. P. E., compete a um fiscal único, que deve ser revisor oficial de contas ou sociedade de revisores oficiais de contas.
-2 - O fiscal único é designado pelo Conselho do Governo Regional por um período de três anos, contando-se como completo o ano civil em que tiver sido designado.
+1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e boa gestão financeira da IHM, EPERAM.
+2 - O fiscal único é nomeado por despacho conjunto dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, obrigatoriamente de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas, por um período de três anos, apenas renovável uma vez.
+3 - O fiscal único tem sempre um suplente, que deve ser igualmente revisor oficial de contas ou sociedade de revisores oficiais de contas.
+4 - Cessando o mandato, o fiscal único manter-se-á em exercício de funções até à nomeação do substituto.
+5 - A remuneração do fiscal único é fixada por despacho conjunto dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais.
