@@ -1,6 +1,6 @@
 # Artigo 2.º
 ### Taxas
-1 - A taxa do imposto sobre o rendimento das pessoas colectivas, prevista no n.º 1 do artigo 87.º do Código do IRC, para vigorar na Região Autónoma da Madeira, é de 25%.
+1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do Código do IRC, para vigorar na Região Autónoma da Madeira, é de 23%.
 2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:
 a) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;
 b) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;
