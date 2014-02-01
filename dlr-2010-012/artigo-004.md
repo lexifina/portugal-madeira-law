@@ -1,7 +1,7 @@
 # Artigo 4.º
 ### Deveres dos gestores públicos
 São deveres dos gestores públicos e, em especial, dos que exerçam funções executivas:
-a) Dar cumprimento às orientações estratégicas a que se refere o artigo anterior;
+a) Dar cumprimento às orientações e recomendações a que se refere o artigo anterior;
 b) Prosseguir a realização dos objectivos da empresa definidos em assembleia geral ou, quando existam, em contratos de gestão;
 c) Orientar a respectiva actuação de acordo com o plano estratégico da empresa;
 d) Contribuir activamente para que a empresa possa alcançar os seus objectivos, designadamente acompanhando, verificando e controlando a evolução das actividades e dos negócios da empresa em todas as suas componentes;
