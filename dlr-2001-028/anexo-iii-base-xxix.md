@@ -6,3 +6,4 @@ b) Ver respeitado o equilíbrio financeiro do contrato, tal como nele é definid
 c) Fruir os bens afectos à concessão;
 d) Realizar as operações de financiamento que sejam necessárias para o cumprimento das suas obrigações, no âmbito do contrato;
 e) Onerar as acções representativas do capital social como garantia da angariação dos meios financeiros necessários ao cumprimento dos objectivos da concessão.
+f) Promover a cobrança coerciva de taxas, rendas ou quaisquer rendimentos provenientes da sua atividade nos termos do disposto no artigo 13.º-A dos Estatutos da MPE, S.A..

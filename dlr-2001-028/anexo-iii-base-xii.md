@@ -7,7 +7,7 @@ c) Manter em funcionamento, em condições de qualidade e continuidade, o servi�
 d) Pagar à Região Autónoma da Madeira os valores que o contrato de concessão especifique, antecipe ou preveja;
 e) Infra-estruturar todos os parques empresariais e parques industriais existentes, suportando os custos de funcionamento, incluindo os fornecimentos e o abastecimento público, em termos atractivos para as empresas que aí se instalarem;
 f) Respeitar as normas de construção e de segurança referentes às edificações e aos trabalhos ou obras cuja execução se revele necessária para infra-estruturar ou manter em funcionamento os parques empresariais;
-g) Suportar todos os custos de investimento e de funcionamento, de modo que os parques empresariais possam cumprir a sua função;
+g) Suportar todos os custos de investimento e de funcionamento, de modo que os parques empresariais possam cumprir a sua função, sem prejuízo do disposto na alínea e) da Base XI;
 h) Respeitar o conjunto de normas legais e regulamentares em vigor e que tenham relação, directa ou indirecta, com a sua actividade;
 i) Manter um cadastro actualizado dos bens afectos à concessão e das relações jurídicas estabelecidas para o seu cumprimento e fornecê-lo à concedente, sempre que tal lhe seja solicitado;
 j) Elaborar um relatório anual do estado da concessão, nomeadamente para entrega à concedente, de onde constem as indicações necessárias quanto à qualidade do serviço público prestado, os dados relativos ao cadastro e a situação concreta quanto às obrigações de constituir seguros e de liquidar os respectivos prémios;

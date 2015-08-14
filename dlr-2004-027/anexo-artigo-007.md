@@ -18,4 +18,5 @@ n) Submeter à aprovação da tutela os actos que nos termos dá lei ou dos esta
 o) Representar a empresa em juízo ou fora dele, activa e passivamente, propor e seguir quaisquer acções, confessá-las ou delas desistir, transigir ou comprometer-se em arbitragem;
 p) Constituir mandatários com os poderes que julgar convenientes;
 q) Deliberar sobre a participação da empresa no capital de outras empresas ou sociedades.
+r) Promover a cobrança coerciva de taxas, tarifas, rendas, ou de quaisquer outros rendimentos provenientes da sua atividade nos termos do disposto no artigo 14.º-A.
 3 - A competência do conselho de administração para a prática de actos administrativos define-se de acordo com as regras de direito público.
