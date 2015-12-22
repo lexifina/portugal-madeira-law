@@ -1,5 +1,5 @@
 # Artigo 7.º
-### Sistema de planeamento e de gestão
+### Sistema de planeamento e ciclo de gestão
 1 - O SIADAP-RAM articula-se com o sistema de planeamento de cada departamento do Governo Regional, constituindo um instrumento de aferição do cumprimento dos respectivos objectivos estratégicos, baseado em indicadores de medida dos resultados a obter pelos serviços e pressupondo a coordenação entre todos eles e aquele que, em cada departamento governamental, exerce atribuições em matéria de planeamento, estratégia e avaliação.
 2 - No caso de departamento governamental que não possua serviço com as atribuições referidas no número anterior, deverá o membro do Governo Regional designar, por despacho, a quem caberá tal função, a qual, preferencialmente, deverá ser exercida por serviços do seu Gabinete.
 3 - O SIADAP-RAM articula-se ainda, com o ciclo de gestão de cada serviço da administração pública regional, que abrange as seguintes fases:

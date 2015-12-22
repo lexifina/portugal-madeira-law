@@ -1,6 +1,6 @@
 # Artigo 10.º
 ### Parâmetros de avaliação
-1 - A avaliação do desempenho dos serviços realiza-se atendendo a parâmetros de entre os seguintes:
+1 - A avaliação do desempenho realiza-se com base nos seguintes parâmetros:
 a) «Objectivos de eficácia», entendida como medida em que um serviço atinge os seus objectivos e obtém ou ultrapassa os resultados esperados;
 b) «Objectivos de eficiência», enquanto relação entre os bens produzidos e serviços prestados e os recursos utilizados;
 c) «Objectivos de qualidade», traduzida como o conjunto de propriedades e características de bens ou serviços, que lhes conferem aptidão para satisfazer necessidades explícitas ou implícitas dos utilizadores.

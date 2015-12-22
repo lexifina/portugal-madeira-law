@@ -2,7 +2,7 @@
 ## Processo de avaliação
 # Artigo 57.º
 ### Fases
-O processo de avaliação comporta as seguintes fases:
+O processo de avaliação dos trabalhadores comporta as seguintes fases:
 a) Planeamento do processo de avaliação e definição de objectivos e resultados a atingir;
 b) Realização da auto-avaliação e da avaliação;
 c) Harmonização das propostas de avaliação;
