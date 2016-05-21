@@ -1,5 +1,6 @@
-## Secção II
-## Serviços de apoio
 # Artigo 20.º
-### Serviços
-No ACES funciona, na dependência direta do Coordenador Geral, a unidade de apoio à gestão.
+### Presidente
+Compete especialmente ao presidente do Conselho Clínico e de Saúde:
+a) Assegurar em continuidade as atividades decorrentes das competências do Conselho Clínico e de Saúde;
+b) Convocar as reuniões do conselho e dirigir as mesmas;
+c) Coordenar as atividades do conselho.

@@ -1,3 +1,5 @@
+## Capítulo V
+## Unidades de Saúde Familiar
 # Artigo 26.º
-### Adaptação de competências
-As referências, bem como as competências atribuídas ao Ministro da Saúde, no diploma a que se refere o artigo anterior, entendem-se reportadas, na Região Autónoma da Madeira, ao Secretário Regional da Saúde.
+### Regime jurídico
+O regime jurídico das Unidades de Saúde Familiar é o constante do Decreto-Lei n.º 298/2007, de 22 de agosto, retificado pela Declaração de Retificação n.º 81/2007, de 12 de setembro, com as especificidades constantes dos artigos seguintes.

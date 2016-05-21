@@ -1,3 +1,3 @@
 # Artigo 31.º
-### Afetação funcional
-Quando um elemento da equipa multiprofissional da USF não estiver em exercício de funções no centro de saúde em que a USF está integrada, cabe ao coordenador geral do ACES dinamizar o procedimento necessário à respetiva afetação funcional.
+### Período de funcionamento
+O alargamento e a redução do período de funcionamento das Unidades de Saúde Familiar deve ser avaliado anualmente pelo IASAÚDE,IP-RAM, de molde a averiguar a pertinência da sua manutenção.

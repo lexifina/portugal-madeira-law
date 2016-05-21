@@ -1,5 +1,5 @@
-## Capítulo V
-## Unidades de Saúde Familiar
 # Artigo 25.º
-### Regime jurídico
-O regime jurídico das Unidades de Saúde Familiar é o constante do Decreto-Lei n.º 298/2007, de 22 de agosto, retificado pela Declaração de Retificação n.º 81/2007, de 12 de setembro, com as especificidades constantes dos artigos seguintes.
+### Apoio administrativo e apoio geral
+1 - Cada centro de saúde dispõe de serviços de apoio administrativo e apoio geral, aos quais compete, designadamente, coordenar a recolha de dados para atribuição do cartão de utente do Serviço Regional de Saúde, a organização e atualização de ficheiros e arquivos administrativos, bem como colaborar em ações de simplificação administrativa e de melhoria da qualidade de atendimento.
+2 - Os serviços de apoio administrativo e de apoio geral articulam a sua ação com os serviços de apoio logístico do SESARAM, E. P. E., através da unidade de apoio à gestão.
+3 - A estrutura e competências dos serviços de apoio administrativo e apoio geral constam do Regulamento Interno do SESARAM, E. P. E.

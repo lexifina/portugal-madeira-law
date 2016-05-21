@@ -1,3 +1,3 @@
 # Artigo 34.º
-### Monitorização e avaliação
-A monitorização e a avaliação das Unidades de Saúde Familiar incumbe ao IASAÚDE,IP-RAM.
+### Condições de atribuição de incentivos
+As condições e critérios para a atribuição de incentivos são regulados por portaria conjunta dos Secretários Regionais responsáveis pelas áreas das finanças e da saúde, tendo por referência a melhoria de produtividade, da eficiência, da efetividade e da qualidade dos cuidados prestados.

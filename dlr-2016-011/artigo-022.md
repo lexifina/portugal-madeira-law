@@ -1,18 +1,12 @@
-## Capítulo IV
-## Direção dos centros de saúde e serviços de apoio
 # Artigo 22.º
-### Direção dos centros de saúde
-1 - Ao Diretor do centro de saúde compete, designadamente:
-a) Representar o centro de saúde;
-b) Assegurar o funcionamento eficiente do centro de saúde e o cumprimento dos objetivos programados, promovendo e incentivando a participação dos profissionais na gestão e a intercooperação com as diferentes unidades funcionais e a articulação funcional com os serviços assistenciais hospitalares;
-c) Assegurar a qualidade dos serviços prestados e a sua melhoria contínua, controlando e avaliando sistematicamente o desempenho do centro de saúde;
-d) Coordenar a elaboração dos planos plurianuais e anuais de atividades do centro de saúde, para aprovação superior;
-e) Elaborar o relatório anual de atividades;
-f) Promover a divulgação pública, pelos meios adequados, inclusive em sítio na Internet, de informações sobre os serviços prestados no centro de saúde, dos planos e relatórios de atividades e de indicadores de satisfação dos utentes e dos profissionais;
-g) Gerir com rigor e eficiência os recursos humanos, patrimoniais e tecnológicos afetos ao centro de saúde, em articulação com o Coordenador Geral;
-h) Coordenar as necessidades de formação específica dos funcionários do centro de saúde e propor a frequência das ações de formação consideradas adequadas ao suprimento das referidas necessidades;
-i) Proceder ao controlo efetivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos funcionários do centro de saúde;
-j) Autorizar a passagem de certidões de documentos arquivados no centro de saúde, bem como a restituição de documentos aos interessados;
-k) Zelar pela manutenção das instalações e equipamentos em utilização no centro de saúde, solicitando a intervenção dos serviços de apoio logístico do SESARAM, E. P. E., quando necessário;
-l) Outras que lhe sejam delegadas ou subdelegadas pelo Coordenador Geral.
-2 - Sem prejuízo das competências dos titulares dos cargos de direção ou chefia integrados em carreiras, todos os trabalhadores do centro de saúde dependem hierarquicamente do Diretor.
+### Unidade de apoio à gestão
+1 - A unidade de apoio à gestão presta apoio técnico e administrativo ao Coordenador Geral, ao Conselho Clínico e de Saúde e aos centros de saúde e unidades funcionais, nas atividades não assistenciais, cabendo-lhe, designadamente:
+a) Prestar apoio técnico e administrativo em todos os domínios da gestão corrente e funcional do ACES;
+b) Colaborar na elaboração dos planos de atividade e acompanhar a respetiva execução;
+c) Acompanhar a gestão dos recursos humanos, dos equipamentos e das instalações do ACES e garantir o controlo de consumos;
+d) Monitorizar e disponibilizar informação sobre faturação e prescrição;
+e) Assegurar, em articulação com os serviços de instalações e equipamentos do SESARAM, E. P. E., uma adequada e eficaz manutenção preventiva de instalações, equipamentos e materiais;
+f) Apoiar a coordenação dos serviços de segurança, apoio e vigilância aos centros de saúde e suas unidades funcionais.
+2 - A unidade de apoio à gestão exerce as suas funções em articulação funcional com os serviços de apoio logístico do SESARAM, E. P. E.
+3 - O responsável pela unidade de apoio à gestão, será designado pelo conselho de administração do SESARAM, E. P. E., sob proposta do Coordenador Geral, por um período de três anos, em regime de comissão de serviço do Código de Trabalho, nos termos dos Estatutos aprovados pelo Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, alterado pelo Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, de entre licenciados com formação preferencial nas áreas de economia, gestão ou administração e experiência na área da saúde, cessando a comissão com a cessação de funções do Coordenador Geral.
+4 - O responsável pela unidade de apoio à gestão é remunerado com um acréscimo de 10 % a incidir sobre a remuneração mensal ilíquida estabelecida para a respetiva categoria.

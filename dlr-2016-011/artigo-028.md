@@ -1,4 +1,3 @@
 # Artigo 28.º
-### Compromisso assistencial
-1 - O compromisso assistencial das Unidades de Saúde Familiar do ACES é constituído pela prestação de cuidados de saúde incluídos na carteira de serviços.
-2 - A carteira básica de serviços e os princípios da carteira adicional são fixados por despacho do Secretário Regional da Saúde.
+### Classificação das USF
+A lista de critérios e a metodologia que permite classificar as Unidades de Saúde Familiar em três modelos de desenvolvimento é aprovada por portaria do Secretário Regional da Saúde, sob proposta do Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM (IASAÚDE, IP-RAM).
