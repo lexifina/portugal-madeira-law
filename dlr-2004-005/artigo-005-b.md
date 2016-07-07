@@ -1,0 +1,9 @@
+# Artigo 5.º-B
+### Designação em regime de substituição
+1 - Os cargos dirigentes podem ser exercidos em regime de substituição nos casos de ausência ou impedimento do respetivo titular quando se preveja que estes condicionalismos persistam por mais de 60 dias ou em caso de vacatura do lugar.
+2 - A designação em regime de substituição para o exercício de cargos de direção superior e de direção intermédia é feita, respetivamente, nos termos do disposto nos n.os 1 e 6 do artigo 5.º e no n.º 13 do artigo 4.º-A, devendo ser observados todos os requisitos legais exigidos para o provimento do cargo, com exceção do procedimento concursal.
+3 - A substituição cessa na data em que o titular retome funções ou passados 90 dias sobre a data da vacatura do lugar, salvo se estiver em curso procedimento tendente à designação de novo titular, caso em que a nomeação em substituição se mantém até ao provimento do respetivo cargo, não podendo, porém, ultrapassar o prazo de 45 dias após a entrega pelo júri da proposta de designação ao respetivo membro do Governo.
+4 - A substituição pode ainda cessar, a qualquer momento, por decisão da entidade competente ou a pedido do substituto, logo que deferido.
+5 - Os prazos referidos no n.º 3 são interrompidos na data da convocação das eleições para a Assembleia Legislativa da Madeira ou da demissão do Governo Regional, retomando-se com a investidura parlamentar do novo Governo.
+6 - O período de substituição conta, para todos os efeitos legais, como tempo de serviço prestado no cargo anteriormente ocupado, bem como no lugar de origem.
+7 - O substituto tem direito à totalidade das remunerações e demais abonos e regalias atribuídos pelo exercício do cargo do substituído, independentemente da libertação das respetivas verbas por este, sendo os encargos suportados pelas correspondentes dotações orçamentais.

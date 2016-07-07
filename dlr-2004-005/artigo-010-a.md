@@ -1,0 +1,3 @@
+# Artigo 10.º-A
+### Formação profissional específica
+Os cursos de formação específica de dirigentes podem ser assegurados pelo serviço com competência em matéria de formação profissional dos trabalhadores em funções públicas da administração regional e obedecer às áreas de competência, condições de acesso e demais regulamentação, conforme portaria dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública, sem prejuízo do previsto nos n.os 2 e 3 do artigo 12.º da Lei n.º 2/2004, de 15 de janeiro, na redação conferida pela Lei n.º 64/2011, de 22 de dezembro.

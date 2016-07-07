@@ -1,0 +1,5 @@
+# Artigo 5.º-A
+### Cessação e suspensão da comissão de serviço dos dirigentes superiores
+1 - Para além das demais situações legalmente previstas, a comissão de serviço dos dirigentes superiores cessa pela mudança de Governo Regional, podendo a mesma vir a ser confirmada no prazo máximo de 45 dias após a posse do membro do Governo Regional competente, e por seu despacho, abrangendo o período de tempo que faltar para o termo do triénio que se encontre a decorrer.
+2 - A comissão de serviço dos titulares de cargos de direção superior de 2.º grau suspende-se sempre que estes sejam nomeados para cargos dirigentes cuja comissão de serviço possa cessar pela mudança de Governo Regional, sem prejuízo da aplicação do disposto no artigo 26.º-A da Lei n.º 2/2004, de 15 de janeiro, na redação conferida pela Lei n.º 64/2011, de 22 de dezembro.
+3 - O disposto no artigo 26.º da Lei n.º 2/2004, de 15 de janeiro, na redação conferida pela Lei n.º 51/2005, de 30 de agosto, não é aplicável, em qualquer caso, à cessação de comissão de serviço dos dirigentes superiores.
