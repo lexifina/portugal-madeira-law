@@ -1,0 +1,3 @@
+# Artigo 1.º
+### Objeto
+O presente diploma procede à segunda alteração ao Decreto Legislativo Regional n.º 5/2004/M, de 22 de abril, alterado pelo Decreto Legislativo Regional n.º 27/2006/M, de 14 de julho, que adapta à administração regional autónoma da Madeira a Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 64/2011, de 22 de dezembro, 68/2013, de 29 de agosto, e 128/2015, de 3 de setembro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado.
