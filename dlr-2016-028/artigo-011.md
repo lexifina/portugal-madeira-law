@@ -1,0 +1,10 @@
+# Artigo 11.º
+### Graduação dos candidatos opositores aos grupos de recrutamento de educação e ensino
+1 - A graduação dos docentes para a docência é determinada pelo resultado da soma dos valores obtidos, nos termos das alíneas seguintes:
+a) A classificação profissional, obtida de acordo com a legislação em vigor à data da sua obtenção, expressa na escala de 0 a 20 e com o número de casas decimais igual ao constante no documento comprovativo da referida classificação;
+b) O resultado da divisão por 365, com arredondamento às milésimas, da soma:
+i) Do número de dias de serviço docente ou equiparado, contado a partir do dia 1 de setembro do ano civil em que o docente obteve qualificação profissional para o grupo de recrutamento a que é opositor até ao dia 31 de agosto do ano imediatamente anterior ao da data de abertura do concurso;
+ii) Com o número de dias de serviço docente ou equiparado prestado anteriormente à obtenção da qualificação profissional, ponderado pelo fator 0,5, com arredondamento às milésimas.
+2 - Para efeitos do disposto no presente artigo, considera-se tempo de serviço o prestado como educador de infância ou professor dos ensinos básico e secundário, sem prejuízo do disposto no artigo 42.º do Estatuto, bem como o tempo de serviço prestado no ensino superior público, independentemente do ciclo ou nível de ensino a que se pretenda aceder.
+3 - Para efeitos de aplicação do presente artigo, é contado como tempo de serviço o prestado como docente em regime de contrato de trabalho a termo resolutivo, ainda que não satisfaça a verificação do requisito do tempo mínimo exigido para a avaliação de desempenho.
+4 - Para efeitos da graduação profissional dos candidatos opositores ao grupo de recrutamento de educação e ensino especial, é aplicável o disposto no presente artigo, bem como nos artigos 12.º e 13.º, relevando para a classificação profissional a obtida pelo docente no curso de formação especializada que o qualifica para o ensino de crianças e jovens com deficiência ou com outras necessidades educativas especiais.

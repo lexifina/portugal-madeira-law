@@ -1,0 +1,4 @@
+# Artigo 18.º
+### Aceitação
+1 - Os candidatos colocados na sequência de concurso interno ou externo, devem manifestar a aceitação da colocação, no prazo de cinco dias úteis, junto do órgão de administração e gestão do estabelecimento de educação ou de ensino onde foram colocados, e no caso dos candidatos opositores aos grupos de recrutamento das instituições de educação especial, a que se refere o n.º 2 do artigo 1.º, na direção regional responsável pela área da educação especial, mediante declaração datada e assinada.
+2 - Os candidatos colocados na sequência dos restantes concursos devem aceitar a colocação junto das entidades referidas no n.º 1, no prazo de quarenta e oito horas, correspondentes aos dois primeiros dias úteis seguintes à publicitação da lista de colocação, com exceção dos candidatos à contratação nos termos do n.º 6 do artigo 43.º e n.º 8 do artigo 44.º
