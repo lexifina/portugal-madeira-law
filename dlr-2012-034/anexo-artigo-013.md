@@ -9,7 +9,7 @@ e) Os encargos com a liquidação de benefícios por conta de organismos estrang
 f) Os encargos com a avaliação das incapacidades no âmbito do serviço de verificação de incapacidades;
 g) Os encargos de administração;
 h) As despesas e transferências de capital, designadamente investimentos do ISSM, IP-RAM, e financiamento de investimentos realizados através das IPSS e de outras instituições que exerçam atividades na área da segurança social;
-i) As transferências para o Instituto de Gestão Financeira da Segurança Social, I. P., designadamente a título de excedente de execução orçamental;
+i) As transferências para o Instituto de Gestão Financeira da Segurança Social, IP, designadamente a título de excedente de execução orçamental, no âmbito das dotações integradas no Orçamento da Segurança Social;
 j) Outras despesas que sejam afetas a entidades do sistema de segurança social, cuja execução na RAM caiba ou seja atribuída ao ISSM, IP-RAM;
 k) Os encargos com ações de formação profissional promovidas pelo ISSM, IP-RAM;
 l) Outras despesas previstas ou permitidas legalmente.
