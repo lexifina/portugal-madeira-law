@@ -1,0 +1,5 @@
+# Artigo 14.º
+### Fiscalização
+1 - Sem prejuízo da obrigação de reporte prevista no artigo anterior, as entidades beneficiárias do programa de apoio à comunicação social privada estão sujeitas a ações de fiscalização, por parte do departamento do Governo Regional com a competência em matéria de comunicação social, em matéria de finanças ou ainda por entidade idónea por estas designada.
+2 - As entidades beneficiárias dos apoios previstos no presente diploma devem fornecer todos os elementos que lhes sejam solicitados pelos serviços com competência para o controlo e fiscalização, bem como facultar o acesso dos agentes fiscalizadores às respetivas instalações, equipamentos, documentos de prestação de contas e outros elementos necessários ao exercício da sua atividade.
+3 - A recusa de prestação de informações ou a prestação de falsas declarações acarretam a nulidade do contrato, a consequente devolução dos montantes percebidos e a impossibilidade de apresentar candidaturas no âmbito do presente regime.
