@@ -1,5 +1,3 @@
-## Capítulo III
-## Órgãos, competências e funcionamento
 ## Secção I
 ## Conselho Diretivo
 # Artigo 7.º
