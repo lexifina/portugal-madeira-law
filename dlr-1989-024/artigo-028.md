@@ -1,10 +1,11 @@
+## Subsecção II
+## Gabinete da Presidência
 # Artigo 28.º
-### Competência
-Compete ao Departamento Financeiro:
-a) Elaborar as propostas de orçamento e do relatório e conta de acordo com as orientações expressas pelo Conselho de Administração;
-b) Dar execução ao orçamento;
-c) Assegurar o pagamento de todos os subsídios, subvenções, remunerações e quaisquer abonos processados pelo Departamento de Expediente e Pessoal;
-d) Assegurar o aprovisionamento e aquisição de bens e serviços;
-e) Conferir, controlar e processar as despesas;
-f) Elaborar o inventário geral dos bens, mantendo-o actualizado;
-g) Velar pelo cumprimento de serviços relativos à conservação do património.
+### Âmbito funcional
+1 - O Gabinete da Presidência é responsável pelo protocolo institucional da Assembleia Legislativa da Região Autónoma da Madeira e funciona na dependência do Presidente da Assembleia Legislativa.
+2 - Compete-lhe, nomeadamente:
+a) Assegurar todo o serviço de protocolo e receção da Assembleia Legislativa;
+b) Prestar apoio às delegações parlamentares nas missões oficiais, quer na Região quer no País e no estrangeiro;
+c) Planear e colaborar na realização de solenidades, comemorações e visitas à Assembleia Legislativa.
+3 - O Gabinete é constituído por pessoal designado para o efeito por despacho do Presidente.
+4 - O apoio administrativo a este Gabinete é assegurado pela Secretaria-Geral.

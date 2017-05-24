@@ -1,5 +1,4 @@
-## Secção IV
-## Conselho de Administração
 # Artigo 13.º
-### Definição e composição
-O Conselho de Administração é um órgão de gestão, constituído pelo secretário-geral da Assembleia Legislativa Regional e por dois membros de adequada idoneidade e qualificação, a nomear pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho Consultivo.
+### Apoio aos vice-presidentes da Assembleia Legislativa Regional
+1 - Os Vice-Presidentes da Assembleia Legislativa Regional podem ser apoiados por um adjunto ou secretário pessoal e um motorista de sua livre escolha, nomeação e exoneração, que serão portadores de um cartão de identidade, conforme anexo II do presente diploma.
+2 - Ao pessoal referido no número anterior é aplicável o disposto no artigo 11.º do presente diploma.

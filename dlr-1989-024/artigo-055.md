@@ -1,3 +1,4 @@
 # Artigo 55.º
-### Regime duodecimal
-Compete ao Presidente da Assembleia Legislativa Regional, mediante proposta do Conselho de Administração, autorizar a dispensa do regime duodecimal de qualquer das dotações orçamentais da Assembleia, bem como a antecipação, total ou parcial, dos respectivos duodécimos.
+### Remunerações
+1 - As remunerações do director de serviços ou equiparado e do chefe de divisão são as estabelecidas na lei.
+2 - Ao pessoal dirigente podem ser abonadas despesas de representação em montantes a fixar por despacho do Presidente da Assembleia Legislativa Regional e mediante parecer do Conselho de Administração.
