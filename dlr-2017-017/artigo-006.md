@@ -1,0 +1,9 @@
+# Artigo 6.º
+### Formação
+1 - A formação dos inspetores das carreiras especiais da inspeção de pescas e de agricultura da RAM é o processo global, coerente e integrado, através do qual os inspetores adquirem e desenvolvem capacidades e competências para o exercício da sua atividade profissional, e do qual resulta a adoção de atitudes e comportamentos adequados e adaptados aos conteúdos funcionais das respetivas categorias, abrangendo componentes de natureza técnica, científica, cultural e de aptidão física.
+2 - Aos inspetores é assegurada, para além da formação inicial específica referida no artigo anterior, a continuidade da frequência de ações de formação profissional necessárias e adequadas à prossecução dos objetivos de controlo, inspeção, execução e auditoria, incluindo, no âmbito da Política Comum das Pescas, as ministradas pelos órgãos e serviços da Autoridade Nacional de Pesca.
+3 - A formação inspetiva integra as seguintes vertentes:
+a) Cursos que habilitam os inspetores com os conhecimentos técnicos necessários ao exercício de funções de nível e responsabilidades mais elevados;
+b) Cursos de especialização, que correspondem à formação que visa conferir, desenvolver ou aprofundar conhecimentos e aptidões profissionais relativamente a determinada área técnica ou área de saber e que habilitam ao exercício de funções especializadas;
+c) Formação para atualização de conhecimentos, que correspondem às restantes ações formativas a que os inspetores estão sujeitos e que visam a valorização profissional e pessoal através de um permanente acompanhamento de conhecimentos e competências.
+4 - A formação referida no presente artigo consta dos planos a aprovar, por despacho conjunto, dos Secretários Regionais que tutelam a área da administração pública e da agricultura e pescas.
