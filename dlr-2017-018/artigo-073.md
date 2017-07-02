@@ -1,0 +1,7 @@
+# Artigo 73.º
+### Ratificação
+1 - A ratificação pelo Governo Regional de plano diretor municipal é excecional e implica a revogação ou a alteração das disposições constantes do programa regional, dos programas setoriais, ou dos programas especiais em causa, e dos respetivos elementos documentais, de modo a que traduzam a atualização da disciplina vigente.
+2 - Recebida a proposta de ratificação, o membro do Governo Regional responsável pela área do ordenamento do território solicita à entidade competente pela elaboração do programa territorial em causa parecer fundamentado, a emitir no prazo de 15 dias, que inclui a identificação das disposições inerentes a cada programa, a publicar no ato de ratificação referido no número seguinte.
+3 - A ratificação do plano diretor municipal deve adotar a forma prevista para a aprovação do programa regional, setorial ou especial.
+4 - A ratificação pelo Governo Regional de plano de urbanização ou de pormenor é excecional e tem como efeito a revogação das normas do plano diretor municipal, determinando a correspondente alteração dos elementos documentais afetados, escritos ou desenhados, por forma a que traduzam a atualização da disciplina vigente.
+5 - A ratificação de plano de urbanização ou de pormenor é efetuada por resolução do Conselho de Governo, e ocorre a solicitação da câmara municipal quando ocorrer a incompatibilidade com o plano diretor municipal.

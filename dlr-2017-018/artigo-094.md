@@ -1,0 +1,9 @@
+# Artigo 94.º
+### Alteração por adaptação
+1 - A alteração por adaptação dos programas e dos planos territoriais decorre:
+a) Da entrada em vigor de leis ou regulamentos;
+b) Da entrada em vigor de outros programas e planos territoriais com que devam ser compatíveis ou conformes;
+c) Do disposto no n.º 7 do artigo 52.º
+2 - A alteração por adaptação dos programas e dos planos territoriais não pode envolver uma decisão autónoma de planeamento e limita-se a transpor o conteúdo do ato legislativo ou regulamentar ou do programa ou plano territorial que determinou a alteração.
+3 - A alteração por adaptação depende de mera declaração da entidade responsável pela elaboração do programa ou do plano, consoante os casos, a qual deve ser emitida no prazo de 60 dias, através da alteração dos elementos que integram ou acompanham o instrumento de gestão territorial a alterar, na parte ou partes relevantes, aplicando-se o disposto no capítulo viii.
+4 - A declaração referida no número anterior é transmitida previamente ao órgão competente pela aprovação do programa ou plano, quando este seja diferente do órgão responsável pela respetiva elaboração, sendo depois transmitida à direção regional com a tutela do ordenamento do território e remetida para publicação e depósito, nos termos previstos no presente diploma.

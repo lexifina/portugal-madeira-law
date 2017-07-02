@@ -1,0 +1,7 @@
+# Artigo 47.º
+### Participação
+1 - Concluída a elaboração do programa setorial ou especial e emitidos os pareceres previstos nos artigos anteriores ou decorridos os prazos fixados, a entidade responsável pela respetiva elaboração procede à abertura de um período de discussão pública da proposta de programa, através de aviso a publicar, com a antecedência de 5 dias, no Jornal Oficial da Região Autónoma da Madeira e a divulgar através do respetivo sítio na Internet, da plataforma regional de informação territorial e de um jornal diário regional.
+2 - Durante o período de discussão pública, que não pode ser inferior a 20 dias, a proposta de programa, os pareceres emitidos ou a ata da conferência procedimental são divulgados no sítio na Internet da entidade responsável pela sua elaboração e podem ser consultados na respetiva sede, bem como na sede dos municípios abrangidos.
+3 - Sempre que o programa se encontre sujeito a avaliação ambiental, a entidade responsável pela elaboração do programa divulga o respetivo relatório ambiental, juntamente com os documentos referidos no número anterior.
+4 - A discussão pública consiste na recolha de observações e de sugestões, sobre as soluções da proposta de programa.
+5 - Findo o período de discussão pública, a entidade responsável pela elaboração do programa pondera e divulga os respetivos resultados, através do respetivo sítio na Internet, da plataforma regional de informação territorial e de um jornal diário regional e elabora a versão final da proposta de programa para aprovação.
