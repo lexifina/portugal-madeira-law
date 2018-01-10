@@ -1,0 +1,13 @@
+# Artigo 18.º
+### Derrama regional
+1 - Mantém-se em vigor para a Região Autónoma da Madeira, o regime da derrama regional, aprovada pelos artigos 3.º a 6.º do Decreto Legislativo Regional n.º 14/2010/M, de 5 de agosto, na redação republicada pelo Decreto Legislativo Regional n.º 5-A/2014/M, de 23 de julho, com a alteração prevista no número seguinte.
+2 - O artigo 4.º do Decreto Legislativo Regional n.º 14/2010/M, de 5 de agosto, passa a ter a seguinte redação:
+«Artigo 4.º
+[...]
+1 - ...
+(ver documento original)
+2 - ...
+a) ...
+b) Quando superior a (euro) 35 000 000, é dividido em três partes: uma, igual a (euros) 6 000 000, à qual se aplica a taxa de 3 %, outra, igual a (euro) 27 500 000, à qual se aplica a taxa de 5 %, e outra igual ao lucro tributável que exceda (euro) 35 000 000, à qual se aplica a taxa de 9 %
+3 - ...
+4 - ...»

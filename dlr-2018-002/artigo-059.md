@@ -1,0 +1,26 @@
+# Artigo 59.º
+### Alteração ao Decreto Legislativo Regional n.º 28/2006/M, de 19 de julho
+Os artigos 4.º, 40.º, 43.º e 50.º do Decreto Legislativo Regional n.º 28/2006/M, de 19 de julho, na sua atual redação passam a ter a seguinte redação:
+«Artigo 4.º
+[...]
+1 - O recrutamento para o cargo de diretor de serviços, cargo de direção intermédia de 1.º grau, é feito de entre os funcionários que possuam os requisitos previstos no estatuto do pessoal dirigente e de entre funcionários pertencentes às carreiras do GAT, integrados na categoria do grau 4, nível 2, ou de grau superior.
+2 - ...
+Artigo 40.º
+[...]
+Constituem despesas do FET-M:
+a) ...
+b) ...
+c) O pagamento das apólices de seguro de responsabilidade civil profissional dos trabalhadores da AT-RAM, para cobertura do risco inerente ao desempenho de funções dirigentes ou de chefia, bem como funções de conceção, administração, inspeção e justiça tributária, ou funções de conceção, implementação e exploração de sistemas informáticos;
+d) ...
+Artigo 43.º
+[...]
+1 - ...
+a) Dois representantes da entidade regional com a tutela das finanças, a nomear por despacho do respetivo membro do governo;
+b) Dois trabalhadores em funções na AT-RAM, sob proposta do conselho de administração do FET-RAM, a nomear por despacho do respetivo membro do governo.
+2 - ...
+Artigo 50.º
+[...]
+1 - ...
+2 - ...
+3 - O disposto no número anterior aplica-se, ainda, aos trabalhadores da AT-RAM que prestem serviço no gabinete do membro do governo com a tutela das finanças, em regime de mobilidade ou comissão de serviço
+4 - ...»

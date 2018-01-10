@@ -1,0 +1,7 @@
+# Artigo 22.º
+### Saldos de gerência
+1 - Os saldos de gerência de receitas próprias na posse dos serviços e fundos autónomos devem ser entregues até 30 de abril de 2019 nos cofres da Tesouraria do Governo Regional da Madeira e constituem receita da Região, ainda que em prejuízo dos respetivos diplomas orgânicos.
+2 - Em situações devidamente justificadas, pode o membro do Governo Regional responsável pela área das finanças autorizar a dispensa da entrega dos respetivos saldos de gerência, devendo, para tal, o pedido de dispensa ser efetuado até ao dia 28 de fevereiro de 2019, nos termos a definir no decreto regulamentar regional de execução orçamental.
+3 - Verificadas as condições previstas no número anterior, pode ainda o membro do Governo Regional responsável pela área das finanças, mediante pedido fundamentado pelo serviço requerente, afetar as receitas provenientes de saldos de gerência de serviços e fundos autónomos, legalmente consignadas a fins específicos, a outros fins de interesse público.
+4 - Os saldos de gerência das entidades integradas no universo das administrações públicas em contas nacionais devem ser prioritariamente afetos ao pagamento das dívidas de anos anteriores, não lhes sendo aplicável o disposto nos números anteriores.
+5 - O previsto no número anterior prevalece sobre todas as disposições legais, gerais ou especiais que disponham em sentido contrário.
