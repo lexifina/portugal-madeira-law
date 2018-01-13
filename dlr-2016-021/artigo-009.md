@@ -11,4 +11,4 @@ g) Suspender ou cancelar as licenças, autorizações e certificações concedid
 h) Ordenar a cessação de atividades, a imobilização de equipamentos ou o encerramento de instalações até que deixe de se verificar a situação de incumprimento ou infração;
 i) Solicitar a colaboração das autoridades policiais para impor o cumprimento das normas e determinações que por razões de segurança devam ter execução imediata, no âmbito de atos de gestão pública;
 j) Aplicar as demais sanções previstas na lei.
-2 - O presidente pode delegar competências, com ou sem poderes de subdelegação, no vice-presidente ou em pessoal com funções de direção no IFCN, IP-RAM.
+2 - O presidente pode delegar competências, com ou sem poderes de subdelegação, nos vogais ou no pessoal com funções de direção no IFCN, IP-RAM.

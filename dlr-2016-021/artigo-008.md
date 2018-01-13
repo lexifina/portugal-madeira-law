@@ -19,3 +19,4 @@ c) Gerir o património do IFCN, IP-RAM, podendo adquirir, alienar ou onerar bens
 d) Adquirir, alienar ou onerar bens imóveis, nos termos da lei e após autorização conjunta do Secretário Regional das Finanças e da Administração Pública e do membro do governo da tutela;
 e) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;
 f) Exercer os demais poderes previstos na lei, nos estatutos ou que lhe tenham sido delegados;
+3 - O IFCN, IP-RAM é representado, designadamente, em juízo ou na prática de atos jurídicos, pelo presidente do conselho diretivo, por dois dos seus membros, ou por mandatários especialmente designados.
