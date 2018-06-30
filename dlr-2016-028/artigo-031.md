@@ -1,6 +1,8 @@
 # Artigo 31.º
 ### Procedimento de colocação
-1 - As necessidades temporárias, estruturadas em horários completos ou incompletos, são recolhidas pela direção regional responsável pela área da administração e gestão das organizações escolares, mediante proposta do órgão de gestão da escola.
+1 - As necessidades temporárias estruturadas em horários, completos ou incompletos, são recolhidas pela direção regional responsável pela área da administração e gestão das organizações escolares, mediante proposta do órgão de gestão das escolas básicas e secundárias, do delegado escolar no caso das escolas do 1.º ciclo do ensino básico não integradas e do diretor regional responsável pela área da educação quando se trate de uma instituição de educação especial.
 2 - O procedimento de recolha das necessidades temporárias é definido pelo diretor regional referido no número anterior, de forma a garantir a utilização eficiente dos recursos humanos docentes.
 3 - O preenchimento dos horários é realizado através de colocação dos docentes referidos nas alíneas do artigo anterior, segundo a ordem nele indicada e é efetuada pela direção regional responsável pela área da administração e gestão das organizações escolares.
 4 - As necessidades que persistam após a colocação referida no número anterior são satisfeitas pela colocação de docentes, pela ordem indicada no artigo anterior.
+5 - Os mapas com a requisição de horários são publicitados na página eletrónica da respetiva escola ou serviço, contendo a assinatura do responsável e a data de elaboração, devendo os mesmos ser atualizados, sempre que se justificar, com a indicação dos motivos que originaram a sua alteração.
+6 - A requisição de horários pelos órgãos de gestão das escolas com autonomia administrativa pressupõe a verificação prévia da regularidade financeira do respetivo encargo, designadamente a existência de cabimento orçamental.

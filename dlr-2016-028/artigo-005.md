@@ -12,9 +12,11 @@ c) Concurso externo.
 5 - As necessidades temporárias, não supridas pelos concursos referidos nos números anteriores ou que ocorram após a sua abertura, são satisfeitas, sequencialmente, através dos seguintes concursos:
 a) Concurso de afetação;
 b) Mobilidade interna;
-c) Contratação;
-d) Oferta pública.
+c) Contratação inicial;
+d) Reserva de recrutamento;
+e) Oferta pública.
 6 - O concurso de afetação visa a colocação de docentes dos quadros de zona pedagógica, numa determinada escola.
-7 - A mobilidade interna destina-se a docentes dos quadros de escola que pretendam exercer transitoriamente funções docentes noutra escola.
-8 - O concurso de contratação e as ofertas públicas de emprego visam suprir necessidades transitórias não satisfeitas pelos demais concursos, através da celebração de contrato de trabalho a termo resolutivo.
-9 - Os docentes colocados através dos concursos referidos nas alíneas a) e c) do n.º 5, nas situações em que se afigura necessário assegurar os serviços da educação especial, as atividades de enriquecimento curricular ou a disciplina de inglês no 1.º ciclo do ensino básico, podem completar o horário numa ou mais escolas, devendo a vaga ser disponibilizada na escola com maior componente letiva, a qual será responsável pela remuneração.
+7 - A mobilidade interna destina-se a docentes de quadro de escola aos quais não seja possível atribuir pelo menos 6 horas de componente letiva ou que pretendam exercer transitoriamente funções docentes noutra escola.
+8 - O concurso de contratação inicial e as ofertas públicas de emprego visam suprir necessidades transitórias não satisfeitas pelos demais concursos, através da celebração de contrato de trabalho a termo resolutivo.
+9 - Nas situações em que se afigure necessário assegurar os serviços da educação especial, as atividades de enriquecimento curricular ou a disciplina de inglês no 1.º ciclo do ensino básico, podem completar o horário numa ou mais escolas, devendo a vaga ser disponibilizada na escola com maior componente letiva, a qual será responsável pela remuneração.
+10 - O disposto no número anterior é aplicável aos docentes dos demais níveis de ensino, em casos excecionais e devidamente fundamentados, designadamente quando não seja possível assegurar o cumprimento da componente letiva numa única escola, mediante a anuência do próprio, quando se trate de um docente do quadro de escola.

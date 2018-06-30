@@ -1,10 +1,13 @@
 # Artigo 44.º
 ### Oferta de emprego
 1 - As necessidades residuais de pessoal docente que não puderem ser supridas nos termos dos artigos anteriores, as respeitantes a horários incompletos e as resultantes de duas não aceitações consecutivas referentes ao mesmo horário, são-no por contratação resultante de oferta de emprego.
-2 - Compete à direção regional responsável pela área da administração e gestão das organizações escolares, mediante proposta fundamentada do órgão de gestão da escola, proceder a uma oferta de emprego, que tem como destinatários os indivíduos possuidores, no momento dessa oferta, dos requisitos gerais, especiais e habilitacionais exigidos para o exercício da função docente, nos termos do artigo 25.º do Estatuto.
-3 - Na ordenação dos candidatos é aplicável o disposto no artigo 13.º
-4 - Excecionalmente a oferta de emprego poderá ter como destinatários indivíduos não possuidores de habilitação profissional.
-5 - A oferta de emprego pode destinar-se à satisfação de necessidades de uma ou mais escolas, tendo em conta as necessidades do sistema educativo regional, até ao limite da componente letiva aplicável.
-6 - As ofertas públicas de emprego são publicitadas na página eletrónica da direção regional referida no n.º 2, pelo prazo de três dias úteis a contar do dia seguinte à respetiva publicação.
-7 - Considerando a urgência do procedimento, não há lugar a audiência de interessados.
-8 - Em matéria de aceitação de colocação e de apresentação é aplicável o disposto nos n.os 6 a 10 do artigo 43.º
+2 - Compete à direção regional responsável pela área da administração e gestão das organizações escolares, mediante proposta fundamentada do órgão de gestão da escola, autorizar a abertura de oferta de emprego, que tem como destinatários os indivíduos possuidores, no momento dessa oferta, dos requisitos gerais, especiais e habilitacionais exigidos para o exercício da função docente, nos termos do artigo 25.º do Estatuto.
+3 - O procedimento previsto no presente artigo é desencadeado pela direção regional responsável pela área da administração e gestão das organizações escolares, com exceção das ofertas de emprego para escolas profissionais públicas e institutos com autonomia administrativa e financeira, as quais são abertas pelos responsáveis máximos das respetivas entidades, sem prejuízo da autorização prévia referida no número anterior.
+4 - Na ordenação dos candidatos é aplicável o disposto no artigo 13.º
+5 - Excecionalmente a oferta de emprego poderá ter como destinatários indivíduos não possuidores de habilitação profissional.
+6 - Consideram-se ainda abrangidas pelo presente artigo, as necessidades dos serviços a prestar por formadores ou técnicos especializados, nas áreas de natureza profissional, tecnológica, vocacional ou artística dos ensinos básico e secundário que não se enquadrem nos grupos de recrutamento existentes.
+7 - A oferta de emprego pode destinar-se à satisfação de necessidades de uma ou mais escolas, tendo em conta as necessidades do sistema educativo regional, até ao limite da componente letiva aplicável.
+8 - As ofertas públicas de emprego são publicitadas na página eletrónica da direção regional responsável pela área da administração e gestão das organizações escolares e, nas situações referidas na parte final do n.º 3, na página eletrónica da respetiva escola ou serviço, pelo prazo de três dias úteis a contar do dia seguinte à respetiva publicação.
+9 - Considerando a urgência do procedimento, não há lugar à publicação prévia de listas de candidatos admitidos e excluídos, nem audiência de interessados.
+10 - Da colocação pode ser interposto recurso hierárquico, sem efeito suspensivo, a apresentar no prazo de cinco dias úteis ao membro do Governo Regional competente.
+11 - Em matéria de aceitação de colocação e de apresentação é aplicável o disposto no n.º 6 do artigo 9.º e nos n.os 10 a 14 do artigo 43.º
