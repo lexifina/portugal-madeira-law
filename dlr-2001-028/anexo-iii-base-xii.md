@@ -10,7 +10,7 @@ f) Respeitar as normas de construção e de segurança referentes às edificaç�
 g) Suportar todos os custos de investimento e de funcionamento, de modo que os parques empresariais possam cumprir a sua função, sem prejuízo do disposto na alínea e) da Base XI;
 h) Respeitar o conjunto de normas legais e regulamentares em vigor e que tenham relação, directa ou indirecta, com a sua actividade;
 i) Manter um cadastro actualizado dos bens afectos à concessão e das relações jurídicas estabelecidas para o seu cumprimento e fornecê-lo à concedente, sempre que tal lhe seja solicitado;
-j) Elaborar um relatório anual do estado da concessão, nomeadamente para entrega à concedente, de onde constem as indicações necessárias quanto à qualidade do serviço público prestado, os dados relativos ao cadastro e a situação concreta quanto às obrigações de constituir seguros e de liquidar os respectivos prémios;
+j) (Revogada)
 k) Assegurar o cumprimento das disposições legais e regulamentares que incidem sobre a concessão pelos utentes dos parques empresariais, sem prejuízo da responsabilidade que sobre estes directamente recaia;
 l) Promover, nacional e internacionalmente, os parques empresariais de que exerça a gestão, no âmbito do desenvolvimento da Região Autónoma da Madeira:
 m) Procurar financiamentos, nos mercados nacional e internacional, em termos mais competitivos do que os que se encontram, actualmente, disponíveis para a expansão das suas actividades.
