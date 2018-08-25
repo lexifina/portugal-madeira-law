@@ -1,0 +1,7 @@
+# Artigo 12.º
+### Duração de trabalho
+1 - Os trabalhadores da carreira de técnico de espaços verdes estão sujeitos ao regime de duração de trabalho constante da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, 18/2016, de 20 de junho, 42/2016, de 28 de dezembro, 25/2017, de 30 de maio, 70/2017, de 14 de agosto, e 73/2017, de 16 de agosto.
+2 - São considerados dias normais de trabalho todos os dias da semana, incluindo sábados, domingos e feriados.
+3 - As situações de trabalho suplementar, de descanso semanal, obrigatório ou complementar, bem como a fixação do horário de trabalho, são definidas na programação de serviço a estabelecer mensalmente pelo serviço a cujo mapa de pessoal estão afetos, devendo esta ser afixada, no mínimo, com uma semana de antecedência, e, pelo menos, uma vez por mês, fazer-se coincidir aqueles dias de descanso com o sábado e o domingo.
+4 - A programação a que se refere o número anterior pode ser alterada em casos excecionais, devendo ser comunicada aos interessados com a antecedência mínima de uma semana, salvo situações de manifesta impossibilidade de cumprimento desse prazo.
+5 - Sempre que o horário de trabalho coincida no todo ou em parte com o período de trabalho noturno, a remuneração respetiva é acrescida nos montantes e condições fixados nos termos da Lei Geral do Trabalho em Funções Públicas.
