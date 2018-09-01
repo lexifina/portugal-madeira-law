@@ -1,0 +1,3 @@
+# Artigo 32.º
+### Comunicações em caso de sobrevigência de acordo coletivo de trabalho
+Sempre que alguma das partes de acordo coletivo de trabalho respeitante à administração regional autónoma da Madeira pretenda acionar a arbitragem necessária a que se refere o n.º 4 do artigo 375.º do anexo da Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, 84/2015, 18/2016, 42/2016, 25/2017, 70/2017 e 73/2017, respetivamente, de 31 de dezembro, de 7 de agosto, de 20 de junho, de 28 de dezembro, de 30 de maio, de 14 de agosto e de 16 de agosto, tal depende de comunicação à parte que se lhe contrapõe na negociação e ao serviço da administração regional autónoma da Madeira com competência em matéria de Administração Pública.

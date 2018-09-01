@@ -1,0 +1,6 @@
+# Artigo 16.º
+### Publicitação de procedimentos concursais e métodos de seleção
+1 - A publicitação dos procedimentos concursais destinados ao recrutamento de trabalhadores para os órgãos e serviços da administração regional autónoma da Madeira é feita, obrigatoriamente e de forma integral, na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, e por extrato, pelos seguintes meios:
+a) Na página eletrónica da entidade responsável pela realização do concurso, a partir do dia seguinte à publicação no Jornal Oficial;
+b) Na BEP-RAM, até ao 2.º dia após a publicação no Jornal Oficial, como determina a alínea a) do n.º 4 do artigo 9.º do Decreto Regulamentar Regional n.º 10/2013/M, de 28 de junho.
+2 - Nos procedimentos concursais para constituição de vínculos de emprego público por tempo indeterminado, destinados aos órgãos e serviços da administração regional autónoma da Madeira são métodos de seleção obrigatórios, consoante os casos, os constantes das alíneas a) dos n.os 1 e 2 do artigo 36.º do anexo da Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, 84/2015, 18/2016, 42/2016, 25/2017, 70/2017 e 73/2017, respetivamente, de 31 de dezembro, de 7 de agosto, de 20 de junho, de 28 de dezembro, de 30 de maio, de 14 de agosto e de 16 de agosto.

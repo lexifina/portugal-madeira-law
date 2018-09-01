@@ -1,0 +1,6 @@
+# Artigo 24.º
+### Rendibilização de recursos humanos em caso de extinção de serviços
+1 - Na situação de extinção de serviços públicos, os respetivos trabalhadores inseridos em SCGRH e no quadro interdepartamental regional, mantêm-se naqueles sistemas, sendo afetados aos serviços abrangidos pelos mesmos, de acordo com as suas necessidades e perfil, conforme os respetivos regimes de afetação aplicáveis.
+2 - Os serviços objeto de extinção publicam na BEP-RAM as listas de pessoal, para efeitos de apoio à mobilidade voluntária a que se refere a alínea e) do n.º 1 do artigo 5.º do Decreto Regulamentar Regional n.º 10/2013/M, de 28 de junho, nos termos previstos nesse diploma.
+3 - Nenhum serviço pode iniciar qualquer procedimento para recrutamento de trabalhadores que não se insiram no seu mapa de pessoal, enquanto não se encontrar esgotada a possibilidade de recorrer aos que constem da lista do serviço em extinção publicitada na BEP-RAM, que correspondam ao perfil definido.
+4 - Havendo vários trabalhadores do serviço em extinção, constantes da lista publicitada na BEP-RAM que correspondam ao perfil necessário ao recrutamento, os serviços podem, se assim o entenderem conveniente, aplicar o processo de seleção sumário referido no artigo 19.º do presente diploma.

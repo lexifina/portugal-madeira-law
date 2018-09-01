@@ -1,0 +1,7 @@
+# Artigo 11.º
+### Articulação do quadro interdepartamental regional, sistema centralizado de gestão e mapas de pessoal
+1 - O quadro interdepartamental regional articula-se com o SCGRH a que se refere o artigo 6.º e seguintes do presente diploma e com os mapas de pessoal dos serviços e organismos da administração regional.
+2 - Os trabalhadores integrados no quadro interdepartamental regional podem ser afetos, com a concordância do membro do Governo Regional de que dependa o serviço de origem do trabalhador, a qualquer órgão ou serviço da administração regional, direta ou indireta ou a outra entidade que possua trabalhadores integrados naquele, sem prejuízo do disposto no artigo 95.º do anexo da Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, 84/2015, 18/2016, 42/2016, 25/2017, 70/2017 e 73/2017, respetivamente, de 31 de dezembro, de 7 de agosto, de 20 de junho, de 28 de dezembro, de 30 de maio, de 14 de agosto e de 16 de agosto.
+3 - Sem prejuízo do recurso à mobilidade, as necessidades de preenchimento de postos de trabalho dos mapas de pessoal dos serviços, faz-se através do quadro interdepartamental regional, sempre que não se mostre viável a satisfação daquelas necessidades através da afetação de pessoal integrado no SCGRH do próprio departamento governamental.
+4 - A afetação do trabalhador determina sempre a transferência de verba correspondente ao seu posto de trabalho.
+5 - A gestão do quadro interdepartamental regional é da competência do membro do Governo Regional responsável pela Administração Pública.

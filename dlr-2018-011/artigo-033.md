@@ -1,0 +1,4 @@
+# Artigo 33.º
+### Depósito de acordo coletivo de trabalho
+1 - O acordo coletivo de trabalho celebrado por entidades da administração regional autónoma da Madeira, bem como a respetiva revogação, é entregue, para depósito, no serviço da administração regional com competência em matéria de Administração Pública, acompanhado de uma versão em formato eletrónico, obedecendo em tudo o mais ao disposto nas disposições reguladoras do procedimento de depósito constantes dos artigos 368.º e 369.º do anexo da Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, 84/2015, 18/2016, 42/2016 e 25/2017, respetivamente, de 31 de dezembro, de 7 de agosto, de 20 de junho, de 28 de dezembro e de 30 de maio.
+2 - O depósito e publicação de deliberação da comissão paritária, quando tomada por unanimidade, obedece ao disposto no número anterior e na alínea a) do artigo 31.º do presente diploma.
