@@ -1,0 +1,6 @@
+# Artigo 22.º
+### Formulários eletrónicos
+1 - As versões eletrónicas de formulários, impressos ou outros documentos em papel, necessários para instrução ou impulso de qualquer procedimento administrativo em algum dos serviços e organismos mencionados no artigo 2.º, têm o mesmo valor que as correspondentes versões em papel, independentemente da sua submissão por via eletrónica ou presencial.
+2 - As versões eletrónicas referidas no número anterior podem ser objeto de impressão para posterior apresentação presencial.
+3 - Compete a cada um dos serviços e organismos mencionados no artigo 2.º garantir, através do respetivo sítio na Internet, a disponibilização ao público, bem como a sua atualização, dos formulários, impressos ou outros documentos previstos no presente artigo, devendo a sua publicitação na Internet ocorrer na mesma data em que são disponibilizados os modelos físicos equivalentes.
+4 - É obrigatoriamente criada ou atualizada a correspondente versão eletrónica dos documentos mencionados no n.º 1 do presente artigo que sejam criados ou reformulados após a entrada em vigor do presente diploma, por qualquer dos serviços e organismos mencionados no artigo 2.º, a qual deverá ser disponibilizada no portal do Governo Regional e, quando aplicável, no sítio do organismo responsável pela sua elaboração e tramitação.

@@ -1,0 +1,5 @@
+# Artigo 4.º
+### Serviço digital como regra
+1 - Os serviços públicos devem, sempre que a sua natureza a isso não se oponha, para além do atendimento presencial, ser preferencialmente prestados de forma digital, através da sua progressiva disponibilização na Internet.
+2 - De forma a garantir que a prestação digital de serviços públicos não implica a exclusão de quem não saiba ou não possa utilizar os serviços públicos disponibilizados online, é garantido que, na Loja do Cidadão da Madeira, no Posto de Atendimento ao Cidadão (PAC) Porto Santo, no Espaço Cidadão, nos Balcões SRAP e, ainda, nos balcões físicos de todos organismos do Governo Regional, será prestada a assistência necessária para garantir que os utilizadores desses serviços conseguem concretizá-los por via eletrónica, recorrendo-se, se necessário, ao atendimento digital assistido, nos termos do artigo 20.º
+3 - Os atos praticados por um cidadão ou agente económico nos sítios na Internet dos organismos abrangidos pelo presente diploma presumem-se ser da sua autoria, dispensando-se a sua assinatura, sempre que sejam utilizados os meios de autenticação previstos no presente diploma.

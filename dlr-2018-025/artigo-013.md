@@ -1,0 +1,4 @@
+# Artigo 13.º
+### Certificação de atributos profissionais
+1 - Compete ao departamento do Governo Regional com a tutela da administração pública criar as condições necessárias para que o Jornal Oficial da Região Autónoma da Madeira (JORAM) possa assumir, na Região Autónoma da Madeira, o papel de fornecedor de atributos profissionais aos cargos de direção e chefia dos organismos abrangidos pelo presente diploma, por transposição do papel equivalente atribuído ao Diário da República pelo artigo 10.º do Decreto-Lei n.º 83/2016, de 16 de dezembro.
+2 - Para cumprimento do disposto no número anterior, o membro do Governo Regional que tutelar o setor da administração pública, ou outro dirigente por ele designado, deverá celebrar com a Agência para a Modernização Administrativa, I. P., na qualidade de entidade responsável pelo Sistema de Certificação de Atributos Profissionais, o protocolo necessário à implementação da certificação de atributos.

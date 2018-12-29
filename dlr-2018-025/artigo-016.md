@@ -1,0 +1,9 @@
+# Artigo 16.º
+### Correio eletrónico e redes sociais
+1 - Todos os serviços e organismos mencionados no artigo 2.º possuem, em regra, um endereço de correio eletrónico subordinado ao domínio madeira.gov.pt, fornecido e configurado através do organismo com competências na área da informática.
+2 - Os serviços e organismos do Governo Regional abrangidos pelo presente diploma podem criar páginas oficiais nas redes sociais, como forma de divulgação da sua atividade e/ou como meio alternativo de atendimento e prestação de esclarecimentos aos cidadãos e agentes económicos.
+3 - Os serviços e organismos do Governo Regional abrangidos pelo presente diploma comprometem-se a utilizar nas suas comunicações internas, preferencialmente, o correio eletrónico, bem como a efetuar o arquivo em suporte digital de toda a correspondência oficial trocada por esta via.
+4 - A correspondência eletrónica trocada entre os serviços e organismos mencionados no artigo 2.º, de acordo com os trâmites referidos no número anterior, tem o mesmo valor e grau de vinculação que a correspondência trocada em suporte de papel.
+5 - Caso surjam divergências de redação entre documentos transmitidos simultaneamente em papel e eletronicamente, prevalecerá a redação constante deste último suporte.
+6 - Os serviços e organismos abrangidos pelo presente diploma deverão publicitar, pelos meios que considerem adequados, o seu endereço de correio eletrónico oficial e outros elementos de contacto, designadamente nos seus modelos de papel timbrado, página web e redes sociais.
+7 - Os elementos mencionados no número anterior, bem como outros elementos identificativos de cada serviço ou organismo, deverão constar do portal do Governo Regional, na área relativa ao Portal de dados abertos, cabendo a cada um dos organismos a responsabilidade da sua atualização, utilizando as ferramentas de gestão de conteúdos fornecidas para o efeito pelo próprio portal.

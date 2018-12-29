@@ -1,0 +1,7 @@
+# Artigo 17.º
+### Serviços do GRe
+1 - O Governo Regional compromete-se a dinamizar a produção de conteúdos e a prestação de serviços públicos de natureza transacional e colocá-los acessíveis no portal SIMplifica, na Internet.
+2 - Sempre que, fruto de constrangimentos legais ou administrativos, não se revele possível a prestação de serviços eletrónicos, devem os serviços e organismos abrangidos pelo presente diploma disponibilizar nos seus sítios toda a informação de suporte à instrução e tramitação dos serviços por eles prestados de forma presencial.
+3 - Considera-se incluída na parte final do número anterior, designadamente, a existência no sítio de versões eletrónicas dos formulários ou documentos necessários à instrução do pedido, informação sobre legislação de suporte, documentos que o acompanhem, prazos legais associados à tramitação do pedido, órgãos administrativos responsáveis pela sua decisão e aprovação e respetivos contactos.
+4 - Os serviços públicos prestados por via eletrónica através do portal do GRe têm o mesmo valor probatório e certeza jurídica do que as equivalentes versões prestadas presencialmente por cada um dos organismos públicos que os tutelam.
+5 - Associada à prestação de serviços através do portal SIMplifica, o Governo Regional compromete-se a dinamizar um sistema de alertas, notificações e comunicações com os utilizadores desses serviços, designadamente email e/ou SMS, por forma a garantir o acompanhamento eficaz da sua prestação.
