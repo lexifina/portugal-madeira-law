@@ -1,0 +1,13 @@
+# Artigo 3.º
+### Regras de atribuição de pontos
+1 - Entre os anos de 2004 e 2014, inclusive, são atribuídos, independentemente do vínculo e da existência de avaliação, um ponto e meio, com exceção das seguintes situações:
+a) Se a avaliação atribuída tiver sido negativa, é atribuído um ponto negativo;
+b) Se em consequência de requerimento de avaliação por ponderação curricular nos anos de 2004 a 2007, inclusive, tiverem sido atribuídos pontos em número superior a um ponto e meio, é essa a pontuação que releva nesse período.
+2 - A partir de 2015 e até à alteração dos Estatutos do SESARAM, E. P. E., a qual acomode a estrutura hierárquica determinada para a aplicação do SIADAP aos trabalhadores integrados nas carreiras de enfermagem, é atribuído um ponto por cada ano, por não aplicabilidade do sistema de avaliação.
+3 - A atribuição de pontos efetuada nos termos dos números anteriores não permite que seja solicitada, em sua substituição, avaliação por ponderação curricular.
+4 - A alteração de posição remuneratória, designadamente, por mudança de categoria, determina o reinício da contagem dos pontos, pelo que os pontos anteriormente acumulados não produzem efeitos, com exceção do previsto nos n.os 5 e 6 do presente artigo.
+5 - Exceciona-se do previsto no número anterior, a mudança para a categoria de enfermeiro graduado, nas situações em que a mesma ocorreu por imposição legal, de forma automática e oficiosa, e não por procedimento concursal.
+6 - O reposicionamento remuneratório ocorrido em virtude da transição para a carreira especial de enfermagem, prevista no artigo 5.º do Decreto-Lei n.º 122/2010, de 11 de novembro, na sua redação atual, e da transição para a carreira de enfermagem prevista na cláusula 3.ª do Acordo de Empresa publicado no JORAM, 3.ª série, n.º 24, de 16 de dezembro de 2015, não é considerado, para os devidos efeitos legais, como alteração da posição remuneratória, mas sim como um reconhecimento da habilitação académica e correspondente remuneração, pelo que se mantém a contabilização dos pontos acumulados antes da transição.
+7 - Para efeitos de atribuição de pontos ao abrigo do presente diploma, em cada ano, é exigido um período mínimo de serviço efetivo equivalente a seis meses.
+8 - Apenas não são consideradas como serviço efetivo as ausências superiores a seis meses por motivo de licença sem remuneração ou por cedência ou qualquer outra forma de mobilidade com suspensão de vínculo.
+9 - Exceciona-se do previsto no n.º 7 do presente artigo, o ano de ingresso, de acesso ou do início de funções do trabalhador enfermeiro, o qual é contabilizado para efeitos de atribuição de pontos, isto é, independentemente do tempo de serviço efetivo prestado no respetivo ano.
