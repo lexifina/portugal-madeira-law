@@ -8,7 +8,5 @@ a) Gestão de água de abastecimento público em regime de alta, incluindo capta
 b) Gestão de água de abastecimento público em regime de baixa, incluindo captação, transporte, tratamento, armazenagem e distribuição ao consumidor final;
 c) Gestão de água para regadio em regime de alta e de baixa, incluindo captação, transporte, armazenamento e distribuição ao consumidor final;
 d) Gestão de águas residuais urbanas em regime de alta, incluindo tratamento e ou envio a destino final;
-e) Gestão de águas residuais urbanas em regime de baixa, incluindo drenagem de águas pluviais nas situações de partilha de coletores;
-f) Monitorização e controlo da qualidade da água;
-g) Gestão de resíduos em regime de alta, incluindo tratamento, triagem e valorização de resíduos sólidos com aproveitamento energético e envio a destino final;
-h) Gestão de resíduos em regime de baixa, incluindo recolha seletiva e indiferenciada e transferência de recicláveis.
+e) Gestão de resíduos em regime de alta, incluindo as operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;
+f) Gestão de resíduos em regime de baixa, incluindo recolha seletiva e indiferenciada.

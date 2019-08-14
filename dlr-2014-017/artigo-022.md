@@ -8,7 +8,7 @@ b) O uso indevido dos bens concessionados à ARM, S.A.;
 c) O furto dos bens concessionados à ARM, S.A.;
 d) O impedimento de acesso a quaisquer infraestruturas concessionadas à ARM, S.A., incluindo serventias;
 e) O incumprimento da obrigação de ligação dos sistemas prediais de distribuição de águas e de drenagem de águas residuais aos sistemas públicos, quando tal resulte do disposto na legislação e regulamentação vigente;
-f) A execução de ligações aos sistemas públicos de abastecimento de águas e de drenagem de águas residuais ou alteração das existentes sem a respetiva autorização da concessionária;
+f) A execução de ligações aos sistemas públicos de abastecimento de águas, de drenagem de águas residuais e de águas para regadio ou alteração das existentes sem a respetiva autorização da concessionária;
 g) A instalação de sistemas prediais de distribuição de águas e de drenagem de águas residuais sem observância das regras e condicionantes legais e regulamentares aplicáveis;
 h) A violação dos equipamentos de contagem, bem como o emprego de qualquer meio capaz de influir no funcionamento ou marcação dos mesmos ou o emprego de qualquer meio fraudulento para impedir a sua função;
 i) A utilização indevida ou não autorizada de bocas de rega ou órgãos de combate a incêndio;
@@ -23,6 +23,8 @@ q) O lançamento nas sarjetas e sumidouros de quaisquer detritos, águas de lava
 r) A entrega de resíduos nas instalações da ARM, S.A. em violação à legislação e às normas regulamentares vigentes;
 s) A desconformidade entre os resíduos entregues nas instalações da ARM, S.A. e os declarados nas guias de acompanhamento, bem como a desconformidade entre o tipo de resíduo e a proveniência dos mesmos (produtores);
 t) A colocação de resíduos em equipamentos de deposição, em violação com as normas regulamentares e legais vigentes;
-u) O impedimento de que funcionários da ARM, S.A., devidamente identificados, exerçam as respetivas funções de fiscalização e de medição;
-v) O não cumprimento das condições constantes das licenças e ou impedimento à respetiva fiscalização.
+u) O abandono de resíduos fora dos equipamentos de deposição nos respetivos pontos de recolha, em violação das normas regulamentares e legais vigentes;
+v) A alteração do posicionamento dos contentores de recolha de resíduos para fora dos respetivos pontos de recolha;
+w) O impedimento de que funcionários da ARM, S.A., devidamente identificados, exerçam as respetivas funções de fiscalização e de medição;
+x) O não cumprimento das condições constantes das licenças e ou impedimento à respetiva fiscalização.
 2 - A tentativa e a negligência são puníveis até metade dos montantes máximos previstos no n.º 1 do presente artigo.

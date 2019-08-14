@@ -5,8 +5,8 @@ a) Captação e produção, transporte, tratamento, e distribuição de água pa
 b) Captação, transporte, armazenamento e distribuição de água para regadio;
 c) Construção e exploração de aproveitamentos hidro e termo energéticos;
 d) Drenagem de águas residuais urbanas, incluindo a recolha de águas pluviais nas situações de coletores unitários, tratamento e envio de efluentes a destino final;
-e) Recolha seletiva e indiferenciada de resíduos, transferência e triagem de recicláveis;
-f) Tratamento, valorização e envio a destino final de resíduos;
+e) Recolha seletiva e indiferenciada de resíduos;
+f) Operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;
 g) Caracterização e quantificação de resíduos;
 h) Caracterização, monitorização e controlo da qualidade da água;
 i) Planificação, conceção, construção, extensão, reparação, renovação, manutenção e melhoria das infraestruturas e equipamentos necessários ao desenvolvimento das atividades compreendidas no sistema de águas e de resíduos, de acordo com a evolução das exigências técnicas e no respeito pelos parâmetros ambientais e sanitários aplicáveis;
