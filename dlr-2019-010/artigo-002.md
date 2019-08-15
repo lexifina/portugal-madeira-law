@@ -9,8 +9,10 @@ a) [...]
 b) [...]
 c) [...]
 d) [...]
-e) Gestão de resíduos em regime de alta, incluindo as operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;
-f) Gestão de resíduos em regime de baixa, incluindo recolha seletiva e indiferenciada.
+e) [...]
+f) [...]
+g) Gestão de resíduos em regime de alta, incluindo as operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;
+h) Gestão de resíduos em regime de baixa, incluindo recolha seletiva e indiferenciada.
 Artigo 4.º
 [...]
 [...]
