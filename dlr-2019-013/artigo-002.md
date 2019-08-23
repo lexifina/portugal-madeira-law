@@ -1,3 +1,3 @@
 # Artigo 2.º
 ### Transição de pessoal
-Os profissionais afetos à área de exercício de saúde pública pertencente ao mapa de pessoal do Instituto de Administração da Saúde, IP-RAM, transitam automaticamente para o mapa de pessoal do SESARAM, E. P. E., mantendo o mesmo vínculo, carreira, categoria e índice remuneratório.
+Os médicos da especialidade de saúde pública, os enfermeiros de saúde pública e de saúde comunitária, os técnicos de saúde ambiental e outros profissionais afetos à área de exercício profissional de saúde pública, pertencentes ao mapa de pessoal do Instituto de Administração da Saúde, IP-RAM, podem transitar, através de lista nominativa aprovada pelo Secretário Regional de Saúde e Proteção Civil, para o mapa de pessoal do SESARAM, E. P. E., mantendo o vínculo de contrato de trabalho em funções públicas, a respetiva carreira, categoria e índice remuneratório.
