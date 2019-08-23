@@ -1,0 +1,6 @@
+# Artigo 3.º
+### Regime da prestação do trabalho médico nos serviços de urgência e de atendimento permanente do SESARAM, E. P. E.
+1 - A realização de trabalho suplementar no âmbito do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., não está sujeita a limites máximos quando seja necessária ao funcionamento de serviços de urgência e de atendimento permanente, não podendo os trabalhadores médicos realizarem mais de 48 horas por semana, incluindo trabalho suplementar, num período de referência de seis meses.
+2 - O pagamento da prestação do trabalho médico prestado nos serviços de urgência e de atendimento permanente do SESARAM, E. P. E., e as condições da sua atribuição são definidos por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças, da administração pública e da saúde.
+3 - A emissão do despacho conjunto referido no número anterior será precedido de consulta aos respetivos parceiros sociais.
+4 - O regime previsto no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer normas gerais, especiais ou excecionais em contrário, e, bem assim, sobre instrumentos de regulamentação coletiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado por estes.
