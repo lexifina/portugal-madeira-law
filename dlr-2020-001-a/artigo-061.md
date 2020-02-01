@@ -1,0 +1,13 @@
+# Artigo 61.º
+### Aditamento ao Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto
+É aditado ao Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, o artigo 21.º-A, com a seguinte redação:
+«Artigo 21.º-A
+Consolidação da cedência de interesse público
+1 - Sem prejuízo do disposto no n.º 9 do artigo 99.º da LTFP, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua atual redação, os trabalhadores em cedência de interesse público podem consolidar o seu vínculo laboral, de forma definitiva, na entidade cessionária, seja ela empregador público da administração direta ou indireta da Região Autónoma da Madeira, entidade pública empresarial ou uma empresa pública do setor empresarial da Região Autónoma da Madeira integrada nas administrações públicas em contas nacionais, desde que cumpridos os seguintes requisitos cumulativos:
+a) Exista o acordo de todos os outorgantes do acordo de cedência;
+b) Exista dotação orçamental;
+c) Exista o parecer favorável do membro do Governo Regional que tutela a área das finanças e da administração pública;
+d) A cedência de interesse público tenha perdurado por um prazo mínimo e ininterrupto não inferior a 4 anos.
+2 - A consolidação referida no número anterior será concretizada por despacho conjunto do membro do Governo Regional que tutela a área das finanças e da administração pública e do que tutela o organismo cessionário, determinando, igualmente, a conversão automática do vínculo de origem do trabalhador para vínculo laboral aplicável no organismo cessionário e, ainda, o reconhecimento da sua antiguidade no organismo cedente, mediante a atribuição de 1 ponto por cada ano completo de serviço.
+3 - São irrelevantes, para efeitos da alínea d) do n.º 1, as interrupções de serviço que a lei equipara a prestação efetiva de serviço, bem como as interrupções de serviço que não excedam 5 % da totalidade do período temporal exigido para a consolidação.
+4 - Na consolidação da cedência prevista nos números anteriores o trabalhador mantém a remuneração que vinha auferindo no decurso da cedência, ficando posicionado no nível da tabela remuneratória única equivalente a tal remuneração ou, na falta de equivalência, no nível virtual criado para o efeito, ou ainda, quando a sua remuneração for inferior à que resultaria da aplicação das regras mínimas de posicionamento remuneratório resultante de procedimento concursal, na posição remuneratória aplicável por força dessas regras na carreira em que for integrado.»

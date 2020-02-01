@@ -1,0 +1,5 @@
+# Artigo 25.º
+### Reporte de informação por parte das entidades públicas que integram o universo das administrações públicas em contas nacionais
+1 - Os serviços e fundos autónomos e as demais entidades públicas que integram o universo das administrações públicas em contas nacionais, devem remeter à Direção Regional do Orçamento e Tesouro, nos moldes e nos prazos definidos por esta, os dados referentes à execução orçamental e a informação sobre fundos disponíveis, compromissos, passivos, contas a pagar e pagamentos em atraso.
+2 - Devem igualmente ser remetidos ao Instituto de Desenvolvimento Regional, IP-RAM, todos os elementos necessários à avaliação da execução material e física do PIDDAR, nos moldes e nos prazos definidos por aquele instituto.
+3 - O relatório da execução orçamental, as demonstrações financeiras previsionais para o ano em curso e seguinte, assim como o balancete analítico trimestral, devem ser entregues nas condições e prazos a fixar no decreto regulamentar regional de execução orçamental.

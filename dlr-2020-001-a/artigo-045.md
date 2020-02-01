@@ -1,0 +1,6 @@
+# Artigo 45.º
+### Prorrogação da Mobilidade
+1 - As situações de mobilidade e de cedência de interesse público existentes à data de entrada em vigor da presente lei, cujo limite de duração máxima ocorra durante o ano de 2020, podem ser excecionalmente prorrogadas até 31 de dezembro de 2020, independentemente de quaisquer formalidades, exceto a sua comunicação ao membro do Governo Regional responsável pela área das finanças e da administração pública.
+2 - A prorrogação excecional prevista no número anterior é ainda aplicável às situações de mobilidade ou cedência, cujo termo ocorre a 31 de dezembro de 2019.
+3 - Para efeitos do disposto no presente artigo, considera-se que a mobilidade e a cedência de interesse público só não serão prorrogadas se existir manifestação expressa que contrarie essa prorrogação automática, quer dos organismos envolvidos quer do trabalhador, nos casos em que o seu acordo foi necessário para a respetiva constituição.
+4 - Sem prejuízo do disposto no número anterior, os órgãos e serviços que beneficiem do disposto nos números anteriores devem, em momento anterior ao processo de preparação da proposta de orçamento de 2021, definir as intenções de cessação de mobilidade ou de cedências de interesse público e comunicar as mesmas aos respetivos serviços de origem.

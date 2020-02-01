@@ -1,0 +1,4 @@
+# Artigo 35.º
+### Apoio humanitário
+1 - O Governo Regional, na medida do estritamente necessário e por motivos de urgência imperiosa, resultantes de calamidades naturais ou de outros acontecimentos extraordinários, pode atribuir auxílios públicos de natureza humanitária, destinados a prestar apoio a ações de reconstrução e recuperação de infraestruturas, atividades económicas e sociais, bem como às respetivas populações afetadas, incluindo as comunidades emigrantes madeirenses, cuja atribuição segue o disposto nos n.os 9 a 12 do artigo 33.º
+2 - Para efeitos do número anterior, o Governo Regional fica autorizado a dotar o orçamento das verbas necessárias à execução destes apoios e, se necessário, proceder às alterações orçamentais que forem indispensáveis, conforme previsto na alínea d), do n.º 2 do artigo 21.º
