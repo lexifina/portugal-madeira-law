@@ -5,5 +5,5 @@ O artigo 50.º constante do anexo aprovado pelo Decreto Legislativo Regional n.�
 [...]
 1 - [...].
 2 - [...].
-3 - O disposto no número anterior aplica-se ainda aos trabalhadores da AT-RAM que, em regime de comissão de serviço, exerçam funções no departamento do Governo Regional com a tutela das finanças.
+3 - O disposto no número anterior aplica-se ainda aos trabalhadores da AT-RAM que, em regime de mobilidade ou comissão de serviço, exerçam funções no departamento do Governo Regional com a tutela das finanças.
 4 - [...].»
