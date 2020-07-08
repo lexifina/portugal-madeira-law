@@ -1,0 +1,9 @@
+## Secção II
+## Produção
+# Artigo 21.º
+### Condições de produção e armazenamento
+1 - As instalações de produção, armazenamento, conservação e preparação para a comercialização seja de sidra, de vinagre de sidra, de vinagre de maçã, devem ser mantidas em boas condições de higiene, sendo que todos os equipamentos utilizados devem apresentar características próprias para a preservação da qualidade e a garantia da segurança alimentar dos produtos que estejam em causa.
+2 - Todo e qualquer recipiente destinado ao armazenamento e conservação seja de sidra, de vinagre de sidra, de vinagre de maçã, para efeitos de rastreabilidade, deve possuir numeração distinta e estar dotado de meios de identificação da respetiva capacidade, em caracteres nítidos, legíveis e indeléveis e, sempre que possível, dispor de escala de nível graduada ou outra forma de medição ou de registo da sua capacidade total e da ocupada.
+3 - O produtor que acumule a produção de sidra, de vinagre de sidra, de vinagre de maçã, de um ou mais destes produtos, com a de produtos vínicos, de bebidas espirituosas de origem não vínica, bem como de bebidas fermentadas de outros frutos ou produtos diferentes da maçã, da pera ou do mosto concentrado destes frutos, deve dispor de instalações ou espaços de utilização distinta que assegurem uma adequada separação física dos produtos de cada atividade.
+4 - Na produção de sidra, de vinagre de sidra e de vinagre de maçã devem ser respeitadas as boas práticas e as boas condições de higiene e segurança alimentar aplicáveis aos produtos que estejam em causa.
+5 - Na produção de sidra natural, de vinagre de sidra natural e de vinagre de maçã, no mínimo, devem ser respeitadas as disposições do manual de boas práticas relativo à produção tradicional de sidra, de vinagre de sidra e de vinagre de maçã, a ser aprovado por despacho do Secretário Regional responsável pela área da agricultura.

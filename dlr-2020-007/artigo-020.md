@@ -1,0 +1,5 @@
+# Artigo 20.º
+### Produção comunitária
+1 - A produção de sidra natural, de vinagre de sidra natural, de vinagre de maçã, de um ou mais destes produtos, pode decorrer numa instalação comunitária pertencente a uma entidade pública ou privada que, mediante um contrato ou qualquer outro título que legitime o seu uso, faculta a mais do que um produtor as condições e os recursos adequados à laboração, armazenamento e preparação para a comercialização das suas produções.
+2 - Um produtor utilizador de uma instalação como a referida no número anterior, é jurídica e economicamente independente dos demais e, como tal, responsável pelo cumprimento das obrigações legais aplicáveis às respetivas produções.
+3 - A entidade que tutele uma instalação como a referida no n.º 1, deve proceder previamente ao licenciamento desta nos termos previstos no artigo 18.º, dispor das condições de laboração, armazenamento e preparação para a comercialização previstas no artigo seguinte, e manter um sistema de rastreabilidade como o previsto no artigo 22.º para as produções de cada um dos produtores que as utilizem.

@@ -1,0 +1,31 @@
+## Secção III
+## Rotulagem de sidra e de vinagre
+# Artigo 25.º
+### Rotulagem de sidra pré-embalada
+1 - Na rotulagem de sidra para colocação no mercado como produto pré-embalado em recipiente conforme com o previsto no n.º 1 do artigo anterior, são obrigatórias as seguintes menções:
+a) A denominação legal de venda: que deve ser «Sidra», ou uma das menções constantes do artigo 5.º, a qual não pode ser substituída por uma denominação protegida por direitos de propriedade intelectual, uma marca comercial ou uma denominação de fantasia, mais considerando que:
+i) No caso da sidra aromatizada pode ser completada com a indicação do ou dos ingredientes adicionados, com a menção «sidra com sumo de [...]» ou «sidra aromatizada com [...]»;
+b) Os ingredientes alergénios: quando, independentemente do seu título alcoométrico volúmico adquirido, na produção tenham sido utilizados ingredientes ou auxiliares tecnológicos que, de acordo com a legislação em vigor, provenham de substâncias ou produtos que provoquem alergias ou intolerâncias, e que possam estar presentes no produto acabado, designadamente a indicação da presença de:
+i) Dióxido de enxofre (sulfitos), através da expressão «contém: 'sulfitos' ou 'dióxido de enxofre'», sempre que estes produtos tenham sido utilizados na produção das sidras e estejam presentes em concentrações superiores a 10 mg/l, expressos em SO(índice 2);
+ii) Ovo, sempre que auxiliar tecnológico à base deste produto tenha sido utilizado na clarificação da sidra, através das expressões:
+«contém: 'ovo', 'proteína de ovo', 'produto de ovo', 'lisozima de ovo' ou 'albumina de ovo'»;
+iii) Leite, sempre que auxiliar tecnológico à base deste produto tenha sido utilizado na clarificação da sidra, através das expressões:
+«contém: 'leite', 'produtos de leite', 'caseína de leite' ou 'proteína de leite'»;
+c) A quantidade líquida: que corresponde ao volume nominal expresso em litros, centilitros ou mililitros e expressa em algarismos, acompanhados da unidade de medida utilizada, ou do símbolo da unidade de medida utilizada legalmente previsto;
+d) O título alcoométrico volúmico adquirido, determinado a 20ºC: que corresponde ao modo de apresentação do teor alcoólico e que deve ser indicado por um número que contenha, no máximo, uma casa decimal e ser seguido do símbolo «% vol.», podendo este ser antecedido do termo «álcool» ou da abreviatura «alc»;
+e) A indicação do lote: precedida da letra maiúscula «L», salvo no caso em que se distinga claramente das outras indicações de rotulagem, podendo figurar fora do rótulo principal onde constam as outras menções obrigatórias, por exemplo na gargantilha, cápsula ou diretamente no recipiente;
+f) A indicação do país de origem ou local de proveniência: na medida em que a sua omissão seja suscetível de induzir em erro o consumidor quanto ao país ou ao local de proveniência real do produto;
+g) Identificação do responsável pela colocação no mercado: o nome, a firma ou a denominação social e a morada do produtor, embalador, ou outra entidade responsável pela colocação do produto no mercado.
+2 - As menções obrigatórias previstas no número anterior devem cumprir as disposições que lhes sejam aplicáveis na legislação nacional e da UE em vigor em matéria de prestação de informação aos consumidores, ser inscritas na embalagem num local em evidência, visível, legível e indelével, como ainda escritas com um tamanho mínimo de letra de 1,2 mm, ou seja, um tipo de letra onde a «altura de x» seja igual ou superior a 1,2 mm.
+3 - No caso de sidra com um teor alcoólico superior a 1,2 % vol., as menções obrigatórias previstas nas alíneas a), c) e d) do n.º 1 devem constar no mesmo campo visual, isto é, todas as superfícies de uma embalagem que possam ser lidas a partir de um único ângulo de visão.
+4 - As tolerâncias negativa e positiva aplicáveis à sidra relativamente à indicação do título alcoométrico volúmico referido na alínea d) do n.º 1 e expressas em valores absolutos são de 1 % vol.
+5 - As tolerâncias referidas no número anterior aplicam-se sem prejuízo das tolerâncias resultantes do método de análise utilizado para a determinação do título alcoométrico.
+6 - Sempre que o país de origem ou o local de proveniência do ingrediente primário da sidra não corresponda aos da menção obrigatória prevista na alínea f) do n.º 1, deve igualmente ser indicado o país de origem, ou o local de proveniência, do ingrediente primário em causa ou, em alternativa, deve ser indicado que o país de origem, ou o local de proveniência do ingrediente primário, é diferente do país de origem e local de proveniência do produto indicado na rotulagem.
+7 - Cumulativamente ao estabelecido no n.º 1, numa base voluntária e para uma melhor caracterização da sidra em causa, podem ser incluídas na rotulagem as seguintes menções não obrigatórias:
+a) A lista de ingredientes e uma forma de declaração nutricional, pelo menos, com a indicação do valor energético no caso de sidra que apresente um teor alcoólico superior a 1,2 % vol.;
+b) A data de durabilidade mínima, no caso da sidra natural.
+8 - Quando existentes, as menções referidas no número anterior devem cumprir as disposições que lhes sejam aplicáveis na legislação nacional e da UE em vigor em matéria de prestação de informação aos consumidores.
+9 - Quando numa sidra com teor alcoólico superior a 1,2 % vol. voluntariamente seja apresentada a lista de ingredientes, se nestes se inclui qualquer um dos ingredientes alergénios referidos na alínea b) do n.º 1, a sua indicação deve ser realçada por uma grafia que a distinga claramente da dos restantes ingredientes, por exemplo, através dos caracteres, do estilo ou da cor de fundo.
+10 - Na rotulagem de sidra natural para colocação no mercado pré-embalada, pode ainda ser incluída:
+a) Uma menção relativa à idade do produto, sem prejuízo do estabelecido na alínea e) do n.º 1, através da indicação do ano de colheita dos frutos utilizados na sua produção, quando seja possível comprovar que pelo menos 80 % do volume da bebida seja proveniente da transformação de frutos colhidos no ano em causa;
+b) Uma menção relativa à variedade de maçã/pero que especificamente tenha sido utilizada na sua produção, quando seja possível comprovar que pelo menos 80 % do volume da bebida seja proveniente da transformação da variedade de maçã/pero em causa.

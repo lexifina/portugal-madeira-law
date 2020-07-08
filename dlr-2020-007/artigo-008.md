@@ -1,0 +1,5 @@
+# Artigo 8.º
+### Aditivos, aromas e auxiliares tecnológicos
+1 - Na produção de sidra, podem ser utilizados os aditivos alimentares, incluindo os corantes e edulcorantes, aprovados para géneros alimentícios e os autorizados especificamente para a produção de sidra e perada, na Norma NP 1199 e na regulamentação da UE aplicável.
+2 - Na produção de sidra natural aromatizada, para além dos aditivos alimentares referenciados no número anterior, são também admitidos ingredientes e produtos aromatizantes como sejam frutos, produtos hortícolas ou plantas aromáticas, os respetivos sumos concentrados ou os seus extratos, as substâncias aromatizantes naturais e os aromas aprovados no âmbito da regulamentação da UE relativa a estas matérias.
+3 - Na produção de sidra, são ainda admitidos como auxiliares tecnológicos os produtos aprovados pela regulamentação da UE para as práticas enológicas dos vinhos, bem como as leveduras secas ativadas, as bactérias lácticas selecionadas e os ativadores das fermentações alcoólica e maloláctica que respeitam as prescrições do Códex Enológico Internacional publicado pela Organização Internacional do Vinho e da Vinha (OIV).
