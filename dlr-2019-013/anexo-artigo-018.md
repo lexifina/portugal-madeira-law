@@ -7,7 +7,7 @@ b) Articular com o diretor clínico a compatibilização dos planos de ação do
 c) Contribuir para a definição das políticas ou diretivas de formação e investigação em enfermagem;
 d) Definir padrões de cuidados de enfermagem e indicadores de avaliação dos cuidados de enfermagem prestados;
 e) Proceder à gestão geral dos serviços de enfermagem e elaborar propostas de admissão e de mobilidade dos enfermeiros;
-f) Promover e acompanhar o processo de avaliação do pessoal de enfermagem;
+f) Definir e coordenar o processo de avaliação de desempenho dos trabalhadores enfermeiros;
 g) Propor a criação de um sistema efetivo de classificação de utentes que permita determinar necessidades em cuidados de enfermagem e zelar pela sua manutenção, bem como a utilização do ratio de enfermeiro de família para afetação de recursos de enfermagem;
 h) Elaborar estudos para determinação de custos e benefícios no âmbito dos cuidados de enfermagem;
 i) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da atividade de enfermagem, designadamente de índole técnica e deontológica, e com a formação dos enfermeiros;

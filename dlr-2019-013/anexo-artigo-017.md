@@ -21,3 +21,5 @@ l) Assegurar uma gestão integrada, em articulação com a Direção de Enfermag
 5 - O diretor clínico cessa funções com a cessação de funções do presidente do conselho de administração do SESARAM, E. P. E.
 6 - O diretor clínico será coadjuvado por adjuntos, em termos a definir em regulamento interno.
 7 - O diretor clínico pode delegar as competências a que se refere o n.º 2 nos seus adjuntos, com faculdade de subdelegação.
+8 - O exercício do cargo de diretor clínico não impede a continuidade das funções inerentes à respetiva categoria da carreira médica, mas prevalece sobre a mesma.
+9 - No caso previsto no número anterior, o diretor clínico pode, em caso de manifesta necessidade de funcionamento do serviço, prestar trabalho suplementar, prevenção e de chamada, que são remunerados pela categoria de origem da carreira médica, e sem prejuízo de quaisquer subsídios previstos para o exercício efetivo da mesma.
