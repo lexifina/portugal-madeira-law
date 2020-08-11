@@ -1,0 +1,5 @@
+# Artigo 18.º
+### Adaptação do Decreto-Lei n.º 28-B/2020, de 26 de junho, à Região Autónoma da Madeira
+1 - A competência de fiscalização cometida no artigo 5.º do Decreto-Lei n.º 28-B/2020, de 26 de junho, alterado pelo Decreto-Lei n.º 37-A/2020, de 15 de julho, à Autoridade de Segurança Alimentar e Económica, reporta-se, na Região Autónoma da Madeira, à Autoridade Regional das Atividades Económicas.
+2 - As competências atribuídas nos termos do disposto nos n.os 1 e 2, do artigo 7.º do Decreto-Lei n.º 28-B/2020, de 26 de junho, na redação atual, à Secretaria-Geral do Ministério da Administração Interna e ao Secretário-Geral do Ministério da Administração Interna, reportam-se, na Região Autónoma da Madeira, respetivamente, à Autoridade Regional das Atividades Económicas (ARAE) e ao Inspetor Regional da ARAE.
+3 - O produto das coimas cobradas no território regional, no âmbito do Decreto-Lei n.º 28-B/2020, de 26 de junho, na redação atual, constituem receitas próprias da Região Autónoma da Madeira.»
