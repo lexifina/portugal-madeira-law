@@ -1,6 +1,6 @@
 # Artigo 2.º
 ### Concessão de serviço público
-1 - É objecto da Madeira Parques Empresariais a concessão de serviço público de criação, instalação, gestão, exploração e promoção dos parques empresariais identificados no anexo I a este diploma e que dele faz parte integrante.
+1 - É objeto da MPE-Madeira Parques Empresariais, Sociedade Gestora, S. A. a concessão de serviço público de criação, instalação, gestão, exploração, promoção e manutenção dos parques empresariais, identificados no anexo i a este diploma e que dele faz parte integrante, incluindo, nomeadamente, a regeneração ou reflorestação das respetivas zonas verdes.
 2 - Incluem-se no objecto da concessão os parques industriais existentes, que constem do anexo I, os quais serão reclassificados em parques empresariais, no âmbito do licenciamento previsto neste diploma.
 3 - O conteúdo substancial a atribuir à concessão de serviço público é o determinado nas bases da concessão que constitui o anexo III a este diploma, dele fazendo parte integrante, com as quais o contrato de concessão, a celebrar, se conformará e concretizará.
 4 - A Madeira Parques Empresariais poderá celebrar, de imediato, o contrato de concessão de serviço público, o qual será objecto de alteração, nos termos do n.º 6 deste artigo.

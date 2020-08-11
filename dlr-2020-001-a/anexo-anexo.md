@@ -1,55 +1,48 @@
 # Anexo
 ### (a que se refere o artigo 65.º)
+Quadro plurianual de programação orçamental 2020-2023
 (ver documento original)
 MAPA I
-RECEITAS DA REGIÃO
-[(art.º 1.º a)]
+Receitas da região
+(artigo 1.º, n.º 2)
 (ver documento original)
 MAPA II
-DESPESAS POR DEPARTAMENTOS REGIONAIS E CAPÍTULOS
-[(art.º 1.º a)]
+Despesas por departamentos regionais e capítulos
+(artigo 1.º, n.º 2)
 (ver documento original)
 MAPA III
-DESPESAS POR CLASSIFICAÇÃO FUNCIONAL
-[(art.º 1.º a)]
+Despesas por classificação funcional
+(artigo 1.º, n.º 2)
 (ver documento original)
 MAPA IV
-DESPESAS POR GRANDES AGRUPAMENTOS ECONÓMICOS
-[(art.º 1.º a)]
+Despesas por grandes agrupamentos económicos
+(artigo 1.º, n.º 2)
 (ver documento original)
 MAPA V
-RECEITA GLOBAL DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS
+Receita global dos serviços, institutos e fundos autónomos
 (em euros)
-[(art.º 1.º a)]
+(artigo 1.º, n.º 2)
 (ver documento original)
 MAPA VI
-DESPESA GLOBAL DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS
+Despesa global dos serviços, institutos e fundos autónomos
 (em euros)
-[(art.º 1.º a)]
+(artigo 1.º, n.º 2)
 (ver documento original)
 MAPA VII
-DESPESAS DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS POR CLASSIFICAÇÃO FUNCIONAL
-[(art.º 1.º a)]
+Despesas dos serviços, institutos e fundos autónomos por classificação funcional
+(artigo 1.º, n.º 2)
 (ver documento original)
 MAPA VIII
-DESPESAS DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS POR GRANDES AGRUPAMENTOS ECONÓMICOS
-[(art.º 1.º a)]
+Despesas dos serviços, institutos e fundos autónomos por grandes agrupamentos económicos
+(artigo 1.º, n.º 2)
 (ver documento original)
 MAPA IX
-Programação Plurianual do Investimento por Programas e Medidas
+Programação plurianual do investimento por programas e medidas
 (ver documento original)
 MAPA X
-Despesas Correspondentes a Programas
+Despesas correspondentes a programas
 (ver documento original)
 MAPA XI
-Finanças Locais
-[art.º 1.º d)]
+Finanças locais
+(artigo 1.º, n.º 2)
 (ver documento original)
-MAPA XVII
-Responsabilidades Contratuais Plurianuais dos Serviços Integrados e dos Serviços e Fundos Autónomos, agrupadas por Departamentos
-(ver documento original)
-MAPA XXI
-Receitas Tributárias Cessantes dos Serviços Integrados - Região Autónoma da Madeira
-[art.º 1.º f)]
-(ver documento original)
-112972372

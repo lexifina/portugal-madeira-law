@@ -1,7 +1,3 @@
-## Capítulo III
-## Órgãos, competências e funcionamento
-## Secção I
-## De direcção
 # Artigo 8.º
 ### Composição, designação e competências
 1 - O conselho diretivo é composto por um presidente e por dois vogais, designados por despacho do membro do Governo da tutela, na sequência de procedimento concursal, ao qual se aplicam, com as necessárias adaptações, as regras de recrutamento, seleção e provimento nos cargos de direção superior da administração pública.

@@ -1,6 +1,6 @@
 # Artigo 5.º
 ### Atribuições
-São atribuições do IDR, IP-RAM:
+São atribuições do IDR:
 a) Analisar a evolução económico-social mundial, em geral, e comunitária e nacional, em particular, e acompanhar os estudos de prospectiva realizados no âmbito respectivo;
 b) Analisar e acompanhar a evolução económica e social da RAM, identificando os principais estrangulamentos, estudar as perspectivas de desenvolvimento da Região, em estreita ligação com outros serviços da administração regional e com entidades interessadas e vocacionadas para o estudo dos problemas de desenvolvimento regional sustentável;
 c) Desenvolver os estudos necessários à fundamentação e formulação de propostas relativas às grandes linhas de estratégia de desenvolvimento, integrando e articulando as políticas sectoriais e espaciais, em ordem à preparação dos planos regionais;
@@ -10,7 +10,7 @@ f) Acompanhar a implementação da política de desenvolvimento económico e soc
 g) Preparar e elaborar a proposta técnica do Plano de Investimentos e Despesas de Desenvolvimento da Administração Regional (PIDDAR) e proceder ao acompanhamento e avaliação da sua execução;
 h) Preparar o enquadramento dos planos e programas sectoriais de desenvolvimento económico e avaliar o seu impacte sócio-económico;
 i) Estabelecer a necessária ligação aos organismos de planeamento do desenvolvimento regional e cooperar com outras entidades no domínio das suas actividades;
-j) Assegurar a representação da Região nos órgãos de planeamento de âmbito nacional;
+j) Assegurar a colaboração com a representação da Região nos órgãos de planeamento de âmbito nacional;
 k) Assegurar uma correcta articulação na aplicação dos fundos comunitários na RAM;
 l) Exercer as funções técnico-administrativas inerentes à coordenação da gestão, do acompanhamento e da avaliação dos programas operacionais;
 m) Exercer as funções de interlocutor regional do Fundo Europeu de Desenvolvimento Regional (FEDER), do Fundo Social Europeu (FSE) e do Fundo de Coesão, perante as autoridades nacionais e a Comissão Europeia, no âmbito das suas competências e no quadro dos mecanismos de representação junto desses órgãos;
