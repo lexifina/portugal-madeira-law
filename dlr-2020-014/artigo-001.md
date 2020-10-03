@@ -1,0 +1,6 @@
+# Artigo 1.º
+### Objeto e âmbito
+1 - O presente diploma tem por objeto a adaptação do regime jurídico da atividade de transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica, estabelecido pela Lei n.º 45/2018, de 10 de agosto, que estabelece o regime jurídico da atividade de transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica (doravante designado RJTVDE), às especificidades económicas, sociais, culturais e geográficas da Região Autónoma da Madeira.
+2 - O presente diploma estabelece ainda o regime jurídico das plataformas eletrónicas que organizam e disponibilizam aos interessados a modalidade de transporte referida no número anterior.
+3 - O presente diploma não se aplica a plataformas eletrónicas que sejam somente agregadoras de serviços e que não definam os termos e condições de um modelo de negócio próprio.
+4 - São também excluídas do âmbito de aplicação do presente diploma as atividades de partilha de veículos sem fim lucrativo (carpooling) e o aluguer de veículo sem condutor de curta duração com características de partilha (carsharing), organizadas ou não mediante plataformas eletrónicas.

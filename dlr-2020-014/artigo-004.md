@@ -1,0 +1,14 @@
+# Artigo 4.º
+### Contribuição de regulação e supervisão na Região
+1 - Pela atividade desenvolvida na Região, os operadores de plataforma eletrónica estão obrigados ao pagamento de uma contribuição, que visa compensar os custos administrativos de regulação e acompanhamento das respetivas atividades e estimular o cumprimento dos objetivos regionais em matéria de mobilidade urbana.
+2 - O valor da contribuição prevista no número anterior corresponde a uma percentagem, entre o mínimo de 0,1 % e o máximo de 2 %, dos valores da taxa de intermediação cobrada pelo operador de plataforma eletrónica nas suas operações realizadas na Região, nos termos do n.º 3 do artigo 15.º do RJTVDE, fixada por despacho do membro do Governo Regional responsável pela área dos transportes terrestres, tendo em consideração os objetivos previstos no número anterior.
+3 - O apuramento da contribuição a pagar por cada operador de plataforma eletrónica é feito mensalmente, por autoliquidação, e tem como base as taxas de intermediação cobradas em cada um dos serviços prestados na Região no mês anterior, e é paga à DRETT até ao último dia do mês seguinte a que respeita.
+4 - Sem prejuízo do disposto no número anterior, ficam os operadores de plataforma eletrónica obrigados a enviar mensalmente à DRETT, até ao fim do mês seguinte a que reporta, informação relativa à atividade realizada, nomeadamente o número de viagens, o valor faturado individualmente e a respetiva taxa de intermediação efetivamente cobrada por serviços prestados na Região, de acordo com modelo de formulário a aprovar pela DRETT e disponível para consulta no seu sítio na Internet.
+5 - A informação a prestar pelos operadores de plataforma eletrónica deve ter suporte nas faturas emitidas, podendo a DRETT solicitar o acesso ou envio de comprovativos, bem como realizar as auditorias que entender necessárias.
+6 - O disposto nos números anteriores não prejudica a faculdade da DRETT proceder à correção da autoliquidação, nos termos gerais.
+7 - A cobrança coerciva das dívidas provenientes da falta de pagamento das contribuições faz-se através do processo de execução fiscal, constituindo título executivo a certidão passada pela DRETT.
+8 - Os montantes cobrados aos operadores de plataformas eletrónicas averbados ou licenciados para o exercício da atividade na Região, a título de contribuição de regulação e supervisão regional prevista no presente artigo, apurados com base nos rendimentos obtidos na mesma, constituem receita a afetar na seguinte proporção:
+a) 40 % ao Fundo Regional de Apoio ao Transporte Público de Passageiros;
+b) 30 % à Autoridade da Mobilidade e dos Transportes (AMT);
+c) 30 % à Região.
+9 - Para efeitos do número anterior, a Direção Regional do Orçamento e Tesouro (DROT), após comunicação da DRETT, transfere mensalmente para as entidades referidas o valor que lhes corresponde, relativamente ao montante recebido no mês anterior.

@@ -1,0 +1,4 @@
+# Artigo 2.º
+### Adaptações orgânicas
+1 - Todas as competências atribuídas ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.) no RJTVDE, designadamente nos seus artigos 3.º, 4.º, 9.º, 10.º, 11.º, 12.º, 14.º, 17.º, 18.º, 23.º, 24.º, 27.º, 28.º, 30.º, 31.º e 32.º, consideram-se atribuídas, na Região Autónoma da Madeira, à Direção Regional da Economia e Transportes Terrestres (DRETT).
+2 - Nos termos do número anterior e sem prejuízo da competência de outras entidades, cabe, em especial, na Região, à DRETT a supervisão, a fiscalização, o processamento das contraordenações, bem como a aplicação das respetivas coimas, previstas nos artigos 23.º a 27.º do RJTVDE, enquanto entidade competente na Região para o cumprimento das disposições legais previstas no RJTVDE e no presente diploma.
