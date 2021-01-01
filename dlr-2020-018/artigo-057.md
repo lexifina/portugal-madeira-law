@@ -1,0 +1,3 @@
+# Artigo 57.º
+### Suplemento remuneratório para assistentes domiciliárias
+É criado um suplemento remuneratório, com caráter permanente, destinado aos trabalhadores integrados nas categorias de encarregado operacional e de assistente operacional, da carreira de assistente operacional, em efetivo exercício de funções no serviço de ajuda domiciliária, prestando cuidados individualizados e personalizados no domicílio a indivíduos e famílias, do Instituto de Segurança Social da Madeira, IP-RAM, competindo aos membros do Governo Regional com a tutela das finanças e da segurança social aprovar a regulamentação necessária à sua implementação.

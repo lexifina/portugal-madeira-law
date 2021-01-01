@@ -1,0 +1,12 @@
+## Capítulo VII
+## Disposições relativas a assunção de despesa
+# Artigo 28.º
+### Competência para autorização de despesas no âmbito de procedimentos de contratação pública
+1 - São competentes para autorizar despesas, no âmbito de procedimentos de contratação pública, as seguintes entidades:
+a) Até (euro) 100 000, os diretores regionais e os órgãos máximos dos serviços com autonomia administrativa;
+b) Até (euro) 200 000, os órgãos de administração dos serviços e fundos autónomos;
+c) Até (euro) 3 750 000, os secretários regionais;
+d) Até (euro) 5 000 000, o Vice-Presidente do Governo;
+e) Até (euro) 7 500 000, o Presidente do Governo Regional;
+f) Sem limite, o Conselho do Governo Regional.
+2 - O disposto no número anterior não é aplicável às empresas públicas integradas nas administrações públicas em contas nacionais.
