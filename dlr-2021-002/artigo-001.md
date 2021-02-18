@@ -1,0 +1,4 @@
+# Artigo 1.º
+### Objeto e finalidade
+1 - O presente diploma cria o Prémio +Valor Madeira, da Assembleia Legislativa da Região Autónoma da Madeira - Mérito em Estudos e Trabalhos de Investigação e Desenvolvimento Regional, abreviadamente designado por «Prémio +Valor Madeira», regulando as condições da sua atribuição.
+2 - O Prémio +Valor Madeira, de periodicidade anual, tem por finalidade reconhecer o mérito de trabalhos realizados em contexto académico, ao nível de teses de mestrado e de doutoramento, bem como, ainda, de artigos científicos publicados em revistas especializadas, que se distingam, designadamente, pela qualidade, criatividade e inovação, em áreas que envolvam interesse para a Região Autónoma da Madeira e potencial aplicabilidade nesta, através da atribuição de um montante pecuniário concedido pela Assembleia Legislativa da Região Autónoma da Madeira.
