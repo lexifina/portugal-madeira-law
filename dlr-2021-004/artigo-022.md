@@ -1,0 +1,3 @@
+# Artigo 22.º
+### Regime aplicável
+Às chefias tributárias é aplicável o disposto no estatuto do pessoal dirigente dos serviços e organismos da Administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro, na redação atual dada pela Lei n.º 128/2015, de 3 de setembro, aplicada à Administração Regional Autónoma da Madeira pelo Decreto Legislativo Regional n.º 5/2004/M, de 22 de abril, alterado pelos Decretos Legislativos Regionais n.os 27/2006/M, de 14 de julho e 27/2016/M, de 6 de julho, com exceção do seu artigo 26.º, com as necessárias adaptações e as especificidades previstas no presente diploma, e ainda no Decreto Legislativo Regional n.º 28/2006/M, de 19 de julho.
