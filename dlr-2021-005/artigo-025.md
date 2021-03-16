@@ -1,0 +1,5 @@
+# Artigo 25.º
+### Ajudas de custo e transporte
+1 - Sem prejuízo do disposto nos números seguintes, para efeitos de abono de ajudas de custo e transporte, considera-se domicílio necessário dos trabalhadores integrados na carreira de vigilante da natureza, bem como dos vigilantes da natureza coordenadores e do coordenador geral, o concelho da sede do Instituto das Florestas e Conservação da Natureza, IP-RAM.
+2 - Sem prejuízo do disposto no número seguinte, ainda que verificados os requisitos impostos pelo Decreto-Lei n.º 106/98, de 24 de abril, na sua redação em vigor, não há lugar ao abono de ajudas de custo e transporte quando a prestação de trabalho ocorra no concelho da residência do trabalhador integrado na carreira de vigilante da natureza, do vigilante da natureza coordenador ou do coordenador geral.
+3 - Quando a prestação de trabalho do trabalhador integrado na carreira de vigilante da natureza, do vigilante da natureza coordenador ou do coordenador geral ocorra nas ilhas Selvagens ou Desertas há sempre lugar ao abono de ajudas de custo e transporte.
