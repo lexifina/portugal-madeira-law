@@ -9,5 +9,5 @@ c) Códigos de escolas.
 4 - Para efeitos de contratação a termo resolutivo, os candidatos apenas podem manifestar as suas preferências por escolas e por concelhos e de acordo com a duração previsível do contrato a termo resolutivo, nos termos previstos nas seguintes alíneas:
 a) Contratos de duração anual;
 b) Contratos de duração anual e contratos de duração temporária.
-5 - Para efeitos do disposto no presente diploma considera-se horário anual, aquele que corresponde ao intervalo entre o último dia estabelecido pelo calendário escolar para o início das aulas e 31 de agosto do mesmo ano escolar.
+5 - Para efeitos do disposto no presente diploma, considera-se horário anual, aquele que corresponde ao intervalo entre o último dia estabelecido pelo calendário escolar para o início das aulas, independentemente do nível de ensino, e 31 de agosto do mesmo ano escolar.
 6 - O tempo de serviço dos docentes colocados nos termos do disposto no número anterior, produz efeitos a 1 de setembro desse mesmo ano escolar, salvo quanto à remuneração.
