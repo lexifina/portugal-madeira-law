@@ -1,0 +1,5 @@
+# Artigo 3.º-A
+### Regras de transição e de descongelamento
+1 - Na sequência da atribuição dos pontos prevista no artigo anterior, e para efeitos do processo de descongelamento com efetiva alteração de posição remuneratória, os trabalhadores TSDT transitam e, simultaneamente, são integrados na tabela remuneratória, nos termos previstos no Decreto-Lei n.º 25/2019, de 11 de fevereiro, com efeitos reportados a 1 de janeiro de 2018.
+2 - O pagamento do reposicionamento remuneratório que resulte da aplicação do disposto no número anterior observa as regras constantes dos artigos 18.º da Lei n.º 114/2017, de 29 de dezembro, e 16.º da Lei n.º 71/2018, de 31 de dezembro.
+3 - Em resultado do previsto nos números anteriores, e no caso dos trabalhadores abrangidos ficarem posicionados em posição/nível inferior à que resultou da integração efetuada anteriormente, reconhece-se automaticamente a prevalência da integração na posição/nível com a remuneração mais elevada, com efeitos a 1 de janeiro de 2018.
