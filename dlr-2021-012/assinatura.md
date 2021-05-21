@@ -1,0 +1,6 @@
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de abril de 2021.
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+Assinado em 10 de maio de 2021.
+Publique-se.
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+114243756
