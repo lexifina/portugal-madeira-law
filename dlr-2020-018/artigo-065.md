@@ -2,12 +2,12 @@
 ## Disposições relativas a aquisição de serviços
 # Artigo 65.º
 ### Encargos com contratos de aquisição de serviços
-1 - Os encargos globais com contratos de aquisição de serviços, com exceção dos contratos cofinanciados, não podem ultrapassar os encargos globais pagos em 2019.
-2 - Os valores pagos por contratos de aquisição de serviços que, em 2021, venham a renovar-se ou a celebrar-se com idêntico objeto e/ou contraparte de contrato vigente em 2019, não podem ultrapassar:
-a) Os valores pagos em 2019, considerando o valor total agregado dos contratos, sempre que a mesma contraparte preste mais do que um serviço ao mesmo adquirente;
-b) O preço unitário, caso o mesmo seja aritmeticamente determinável ou tenha servido de base ao cálculo dos valores pagos em 2019.
+1 - Os encargos globais com contratos de aquisição de serviços, com exceção dos contratos cofinanciados, não podem ultrapassar os encargos globais pagos em 2020.
+2 - Os valores pagos por contratos de aquisição de serviços que, em 2021, venham a renovar-se ou a celebrar-se com idêntico objeto e/ou contraparte de contrato vigente em 2020, não podem ultrapassar:
+a) Os valores pagos em 2020, considerando o valor total agregado dos contratos, sempre que a mesma contraparte preste mais do que um serviço ao mesmo adquirente;
+b) O preço unitário, caso o mesmo seja aritmeticamente determinável ou tenha servido de base ao cálculo dos valores pagos em 2020.
 3 - Em situações excecionais, prévia e devidamente fundamentadas pelo dirigente máximo do serviço com competência para contratar, o membro do Governo Regional responsável em razão da matéria pode autorizar a dispensa do disposto nos números anteriores.
-4 - A celebração de um novo contrato de aquisição de serviços com diferente objeto de contrato vigente em 2019, que ultrapasse o limite previsto no n.º 1, carece de autorização prévia do membro do Governo Regional responsável em razão da matéria, a qual pode ser concedida nos seguintes termos:
+4 - A celebração de um novo contrato de aquisição de serviços com diferente objeto de contrato vigente em 2020, que ultrapasse o limite previsto no n.º 1, carece de autorização prévia do membro do Governo Regional responsável em razão da matéria, a qual pode ser concedida nos seguintes termos:
 a) Mediante compensação a efetuar para efeitos do cumprimento do disposto no n.º 1, devendo o pedido, por parte do dirigente máximo do serviço com competência para contratar, indicar o valor em causa e a compensação a efetuar;
 b) Com dispensa da compensação a que se refere a alínea anterior, indicando o respetivo dirigente máximo o valor em causa e juntando a justificação para a sua autorização.
 5 - As aquisições de serviço efetuadas são obrigatoriamente comunicadas, nos primeiros 10 dias úteis do primeiro mês seguinte a que respeitam, ao membro do Governo Regional responsável pela área das finanças, em termos a fixar por portaria do mesmo membro do Governo.
