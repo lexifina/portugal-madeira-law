@@ -1,0 +1,6 @@
+# Artigo 91.º
+### Sistema de Normalização Contabilística da Administração Pública
+1 - É obrigatória a utilização do Sistema de Normalização Contabilística para as Administrações Públicas (SNC-AP), em todos os serviços pertencentes ao universo da administração pública regional em contas nacionais, incluindo as empresas públicas reclassificadas.
+2 - Em 2022, todas as entidades integradas no universo das administrações públicas em contas nacionais devem utilizar sistemas informáticos de contabilidade devidamente certificados e que correspondam às necessidades de integração na plataforma do Sistema Central de Contabilidade e Contas Públicas (S3CP) de informação contabilística deste subsetor.
+3 - Em 2022, ficam todos os serviços pertencentes ao universo da administração pública regional em contas nacionais, incluindo as empresas públicas reclassificadas, obrigados à submissão no S3CP das suas demonstrações financeiras, nos termos e nos prazos previstos na Norma Técnica n.º 1/2017, da UNILEO.
+4 - O incumprimento do dever de informação referido no número anterior determina o congelamento de 10 % das dotações orçamentais, ou a retenção de 10 % das transferências do Orçamento da Região Autónoma da Madeira para a entidade pública incumpridora, consoante a situação aplicável, no mês ou meses seguintes ao incumprimento.
