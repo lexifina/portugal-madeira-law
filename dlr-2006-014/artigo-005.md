@@ -1,3 +1,4 @@
 # Artigo 5.º
-### Avaliação
-A avaliação das condições de natureza habitacional e familiar será realizada por uma equipa constituída por técnicos das Secretarias Regionais de Educação e Assuntos Sociais, com formação e experiência nas áreas de infância, inspecção de educação e segurança social.
+### Autorização de funcionamento do núcleo infantil
+1 - A avaliação das condições do núcleo infantil é realizada por uma equipa constituída por técnicos da SRE, com formação e experiência na área de infância.
+2 - Compete ao membro do Governo Regional responsável pela área da educação autorizar o funcionamento do núcleo infantil cuja avaliação prevista no número anterior seja favorável.
