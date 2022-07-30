@@ -6,4 +6,5 @@
 a) Estradas municipais principais;
 b) Estradas municipais secundárias;
 c) Caminhos municipais.
+d) Estradas municipais florestais.
 2 - Por regulamento, os municípios podem introduzir subcategorias em cada uma das categorias constantes do número anterior.

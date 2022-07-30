@@ -7,3 +7,4 @@
 A rede regional compreende as seguintes categorias de vias:
 a) Estradas regionais principais;
 b) Estradas regionais complementares.
+c) Estradas regionais agrícolas.
