@@ -4,7 +4,7 @@
 2 - O conselho consultivo exerce as competências previstas no artigo 31º da Lei nº 3/2004, de 15 de janeiro, alterada e republicada pelo Decreto-Lei nº 5/2012, de 17 de janeiro e alterada pelo Decreto-lei nº 123/2012, de 20 de junho e o seu funcionamento decorre de acordo com o artigo 32º do mesmo diploma.
 3 - Integram o conselho consultivo:
 a) O presidente do conselho diretivo do SRPC, IP-RAM, que preside;
-b) O vogal do conselho diretivo do SRPC, IP-RAM;
+b) Os vogais do SRPC, IP-RAM;
 c) O inspector regional de Bombeiros;
 d) Um representante da secretaria regional da tutela;
 e) O presidente do conselho de administração do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., ou um seu representante;
