@@ -1,11 +1,16 @@
 ## Capítulo II
 ## Apoio à aquisição de habitação
 # Artigo 3.º
-### Fogos para apoio à aquisição
-1 - Os fogos a encaminhar, ao abrigo do presente diploma, para beneficiários de apoio à aquisição de habitação devem:
-a) Localizar-se no território da Região Autónoma da Madeira;
-b) Reunir condições de habitabilidade;
-c) Estar inscritos, na matriz e registo predial, a favor do proponente;
-d) Estar livres de ónus ou de encargos e desocupados de pessoas e de bens no momento da sua venda ao beneficiário indicado pela IHM, EPERAM.
-2 - Só são aceites propostas de fogos que apresentem preços de venda que não excedam os limites máximos a fixar na portaria a que se refere o artigo 28.º
-3 - As propostas de venda por parte dos proprietários dos fogos, a apresentar em formulário próprio a disponibilizar pela IHM, EPERAM, devem ser apresentadas a esta entidade nos períodos e termos a fixar pela portaria a que se refere o artigo 28.º, que fixa os termos da sua análise e admissão.
+### Beneficiários do apoio à aquisição
+1 - Podem beneficiar do apoio à aquisição de fogos os agregados familiares:
+a) Residentes no território da Região Autónoma da Madeira;
+b) Que não dispõem da totalidade dos meios económicos ou financeiros para a compra de habitação para residência permanente;
+c) Com candidatura entregue nos serviços da IHM, EPERAM, de acordo com formulário próprio a disponibilizar por esta entidade gestora e acompanhada da documentação exigida na portaria a que se refere o artigo 28.º; e
+d) Figurem ou venham a figurar como promitentes compradores em contrato-promessa para habitação permanente de fogo localizado no território da Região Autónoma da Madeira.
+2 - A candidatura considera-se apresentada na data em que toda a documentação exigida estiver na posse da IHM, EPERAM.
+3 - Serão excluídas as candidaturas de agregados familiares:
+a) Com rendimentos anuais brutos inferiores ou superiores aos fixados na portaria a que se refere o artigo 28.º;
+b) Integrados por elementos que sejam titulares de direitos sobre bens imóveis em condições de constituir residência permanente;
+c) Referentes à compra de fogo por valores ou com tipologia superiores às fixadas na portaria a que se refere o artigo 28.º
+4 - Em qualquer momento, pode a IHM, EPERAM, solicitar documentação adicional, para efeitos de integral esclarecimento dos termos da candidatura.
+5 - Não serão aceites contratos-promessa que constituam renegociações de outros com identidade de objeto e de partes outorgantes.
