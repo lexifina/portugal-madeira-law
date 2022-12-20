@@ -1,0 +1,4 @@
+# Artigo 12.º
+### Donativos
+1 - Nas estruturas de apoio aos utilizadores dos percursos pedestres, sob gestão da entidade com atribuições nas áreas das florestas e da conservação da natureza ou de outras entidades promotoras, podem ser entregues donativos em dinheiro, sem prejuízo do legalmente estabelecido na Lei Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, na sua atual redação, no Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, na sua atual redação, e no Decreto Legislativo Regional n.º 21/2016/M, de 13 de maio, na sua atual redação.
+2 - Os donativos em dinheiro de valor superior a (euro) 200 euros devem ser efetuados através de meio de pagamento que permita a identificação do mecenas, designadamente transferência bancária, cheque nominativo ou débito direto.
