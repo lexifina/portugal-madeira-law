@@ -1,0 +1,5 @@
+# Artigo 89.º
+### Acompanhamento, fiscalização e controlo da receita dos arrendamentos e concessões da administração pública regional
+1 - Sem prejuízo das competências atribuídas a outras entidades, a fiscalização, controlo, acompanhamento e cobrança de rendas provenientes dos contratos de arrendamento e concessão celebrados pela administração pública regional, é da competência das entidades públicas outorgantes nos respetivos contratos, ou quem lhes suceda.
+2 - Quando se verifique que existem situações de incumprimento do pagamento com prazo superior a 90 dias, sem que seja celebrado acordo voluntário de regularização, as entidades públicas outorgantes nos respetivos contratos desencadeiam o procedimento extrajudicial ou judicial com vista à cobrança dos valores em dívida.
+3 - Sem prejuízo do disposto no n.º 1, as entidades públicas outorgantes nos respetivos contratos, informam, trimestralmente, o departamento do Governo Regional que tutele o setor do património, da celebração de novos contratos, eventuais renovações, dos valores em dívida, caso existam, e das ações interpostas para cobrança desses valores.

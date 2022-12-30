@@ -1,0 +1,16 @@
+# Artigo 68.º
+### Unidades de Gestão
+1 - As Unidades de Gestão, constituídas em todos os departamentos do Governo Regional, têm por missão o tratamento integral e centralizado de todas as matérias contabilísticas, orçamentais, financeiras e patrimoniais dos serviços simples, integrados, serviços e fundos autónomos e entidades que integram o universo das administrações públicas em contas nacionais, bem como a articulação direta entre os diversos departamentos e o departamento do Governo Regional com a tutela das finanças, no âmbito do controlo orçamental e financeiro.
+2 - São atribuições das Unidades de Gestão:
+a) Garantir o tratamento integral e centralizado de todas as matérias contabilísticas, orçamentais, financeiras e patrimoniais dos serviços simples, integrados, institutos, serviços e fundos autónomos e outras entidades que integram o universo das administrações públicas em contas nacionais;
+b) Proceder ao reporte orçamental e financeiro, ao departamento do Governo Regional com a tutela das finanças, de acordo com os procedimentos que forem definidos no decreto regulamentar regional de execução orçamental;
+c) Controlar a execução e a regularidade da execução orçamental dos serviços tutelados pelos respetivos departamentos do Governo Regional;
+d) Controlar o cumprimento da aplicação da Lei dos Compromissos e Pagamentos em Atraso aprovada pela Lei n.º 8/2012, de 21 de fevereiro, na sua atual redação, nos serviços tutelados;
+e) Propor medidas de fiscalização com vista a um efetivo controlo das despesas públicas e dos recursos orçamentais disponíveis;
+f) Superintender na gestão orçamental de todos os serviços tutelados, de acordo com as normas vigentes e legislação aplicável;
+g) Promover a aplicação do Sistema de Normalização Contabilística da Administração Pública (SNC-AP), nos serviços tutelados;
+h) Controlar a afetação e a utilização dos fundos disponíveis atribuídos;
+i) Desenvolver procedimentos de controlo interno.
+3 - As unidades de gestão são responsáveis pelo cumprimento dos prazos de reporte e pela prévia validação das informações de reporte orçamental e financeiro, referentes aos serviços da administração direta, institutos, serviços e fundos autónomos e empresas públicas reclassificadas, prestadas ao departamento do Governo Regional com a tutela das finanças.
+4 - Para efeitos dos números anteriores, os serviços simples, integrados, institutos, serviços e fundos autónomos e as entidades que integram o universo das administrações públicas em contas nacionais, são responsáveis pelo conteúdo da informação reportada às Unidades de Gestão.
+5 - Sem prejuízo das competências das Unidades de Gestão previstas no presente artigo e das orientações de supervisão das respetivas tutelas, são atribuídas à Secretaria Regional das Finanças responsabilidades de coordenação geral de todas as Unidades de Gestão dos diversos departamentos do Governo Regional, podendo determinar quaisquer medidas de natureza financeira que se revelem necessárias à maximização e bom aproveitamento dos recursos financeiros disponíveis, independentemente dos programas, da natureza das classificações funcionais e orgânicas previstas no presente diploma.

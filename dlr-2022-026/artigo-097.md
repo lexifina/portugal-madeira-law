@@ -1,0 +1,5 @@
+# Artigo 97.º
+### Regularização extraordinária de contratos celebrados no âmbito da pandemia da doença COVID-19
+1 - Durante o ano de 2023, são objeto de regularização os contratos de trabalho a termo celebrados pelo SESARAM, EPERAM, que, não obstante terem tido como base necessidades emergentes da pandemia COVID-19, transformaram-se, atento às reorganizações efetuadas, em necessidades permanentes dos serviços.
+2 - Para efeitos do previsto no número anterior, o SESARAM, EPERAM, informa os membros do Governo Regional responsáveis pelas áreas da saúde e das finanças quanto às carreiras e número de postos de trabalho criados com base nas necessidades da pandemia, e quantos os que se transformaram em necessidades permanentes dos serviços, acompanhada da devida fundamentação.
+3 - As carreiras e o número de regularizações previstos no número anterior, serão objeto de autorização prévia, através de despacho conjunto dos membros do Governo Regional responsáveis pelas áreas da saúde e das finanças.
