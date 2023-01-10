@@ -4,7 +4,7 @@
 a) O registo biográfico;
 b) A caderneta escolar;
 c) As fichas de registo da avaliação.
-2 - O registo biográfico contém os elementos relativos à assiduidade e aproveitamento do aluno, cabendo à escola a sua organização, conservação e gestão.
+2 - O registo biográfico contém os elementos relativos à assiduidade, ao aproveitamento e os relativos a toda a atividade do aluno, registada e comprovada, em representação dos pares em órgãos da escola e em atividades e projetos, designadamente, culturais, artísticos, desportivos, científicos e de cidadania e desenvolvimento, entre outros de relevante interesse social desenvolvidos no âmbito da escola.
 3 - A caderneta escolar contém as informações da escola e do encarregado de educação, bem como outros elementos relevantes para a comunicação entre a escola e os pais ou encarregados de educação, sendo propriedade do aluno e devendo ser por este conservada.
 4 - As fichas de registo da avaliação contêm, de forma sumária, os elementos relativos ao desenvolvimento dos conhecimentos, capacidades e atitudes do aluno e são entregues no final de cada momento de avaliação, designadamente, no final de cada período escolar, aos pais ou ao encarregado de educação pelo professor titular da turma, no 1º ciclo, ou pelo diretor de turma, nos restantes casos.
 5 - A pedido do interessado, as fichas de registo de avaliação serão ainda entregues ao progenitor que não resida com o aluno menor de idade.
