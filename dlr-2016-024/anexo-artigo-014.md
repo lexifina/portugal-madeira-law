@@ -11,8 +11,8 @@ e) Avaliação do enquadramento dos projetos de investimento, não estando vincu
 f) Análise do processo e remessa da proposta para aprovação nos termos do artigo 16.º;
 g) Emissão de parecer quanto à matéria relativa aos benefícios fiscais;
 h) Verificação do cumprimento pelos promotores dos contratos de concessão de benefícios fiscais ao investimento.
-2 - A Comissão é presidida por um representante designado por despacho conjunto dos Secretários Regionais responsáveis pelas áreas das finanças e da economia e integra:
+2 - A Comissão é presidida por um representante designado por despacho do membro do Governo responsável pela área das finanças e integra:
 a) Um representante do Instituto de Desenvolvimento Empresarial, IP-RAM (IDE, IP-RAM);
 b) Um representante da AT-RAM.
-3 - Os membros da Comissão referidos no número anterior são nomeados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+3 - Os membros da Comissão referidos no número anterior são nomeados por despacho dos secretários regionais que tutelam as respetivas entidades.
 4 - O exercício de funções na Comissão, nos termos desta disposição, não confere aos nomeados quaisquer abonos ou remunerações.
