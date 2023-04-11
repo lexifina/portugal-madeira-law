@@ -3,7 +3,7 @@
 # Artigo 46.º
 ### Limites do contrato
 1 - Os contratos a termo resolutivo têm como duração mínima 30 dias e máxima um ano escolar, incluindo o período de férias.
-2 - Os contratos a termo resolutivo sucessivos celebrados com o departamento do Governo Regional responsável pela educação, em horário anual e completo, no mesmo grupo de recrutamento, não podem exceder o limite de 5 anos.
+2 - Os contratos a termo resolutivo sucessivos celebrados com o departamento do Governo Regional responsável pela educação, em horário anual e completo, independentemente do grupo de recrutamento, não podem exceder o limite de 5 anos.
 3 - A verificação do limite indicado no número anterior, determina a abertura de vaga no quadro de zona pedagógica em que se insere a escola onde o docente se encontrava a exercer funções no ano escolar anterior a que diz respeito o concurso.
 4 - Para efeitos do disposto no número anterior, só releva o tempo de serviço prestado em estabelecimentos de educação ou ensino da rede pública da Região Autónoma da Madeira, em grupo de recrutamento, com habilitação profissional e componente letiva.
 5 - O contrato destinado à lecionação dos módulos de uma disciplina de natureza profissional, tecnológica, vocacional ou artística dos ensinos básico e secundário vigora apenas pelo período de duração do serviço letivo distribuído e dos respetivos procedimentos de avaliação.
