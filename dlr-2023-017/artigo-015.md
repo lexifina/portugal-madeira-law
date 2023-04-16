@@ -1,0 +1,6 @@
+# Artigo 15.º
+### Reconhecimento de interesse público
+1 - Mediante despacho dos membros do Governo Regional responsáveis pelas áreas do ambiente, da saúde e da atividade económica ou social em causa, pode, excecionalmente, ser reconhecido o interesse público para as situações previstas na alínea d) do n.º 1 do artigo anterior, desde que não implique repovoamentos nem novas introduções e desde que não existam impactes negativos nos ecossistemas, devidamente demonstrados por evidência científica.
+2 - O pedido de licença por reconhecido interesse público deve identificar as medidas de contenção e renaturalização do espaço utilizado no final da exploração ou da eliminação total dos efetivos e é apresentado de acordo com modelo de requerimento inicial disponibilizado no sítio do IFCN, IP-RAM, na Internet.
+3 - O IFCN, IP-RAM é responsável pela instrução do procedimento e proposta de decisão.
+4 - O reconhecimento de interesse público económico ou social para o licenciamento de espécies exóticas invasoras que suscitam preocupação na União Europeia depende de prévia autorização da Comissão Europeia prevista no artigo 9.º do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014.
