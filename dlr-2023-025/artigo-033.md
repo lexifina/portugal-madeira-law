@@ -1,0 +1,3 @@
+# Artigo 33.º
+### Cooperação entre organismos
+Todos os organismos públicos nacionais, regionais e ou locais, com atuação na Região Autónoma da Madeira, nomeadamente o Instituto de Segurança Social da Madeira, IP-RAM e a AT-RAM Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, devem colaborar com a IHM, EPERAM, na aplicação do presente diploma, em especial através da troca de informação sobre prestações e apoios sociais auferidos pelos candidatos ou beneficiários dos apoios, bem como na adoção de procedimentos internos que assegurem celeridade e segurança dos processos, com vista à transparência, boa aplicabilidade e justiça na atribuição dos apoios financeiros.
