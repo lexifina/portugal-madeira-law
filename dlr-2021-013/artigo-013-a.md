@@ -1,0 +1,7 @@
+# Artigo 13.º-A
+### Coordenador dos serviços administrativos escolares
+1 - Os serviços administrativos das organizações escolares, com exceção das escolas do 1.º ciclo, com ou sem unidades de pré-escolar e ou valência creche, são coordenados por um coordenador dos serviços administrativos escolares, cargo de nomeação em comissão de serviço, pelo presidente do conselho executivo ou diretor, pelo período de um ano escolar, renovável por iguais períodos, de entre os trabalhadores das carreiras de assistente técnico e técnico superior, cessando por decisão fundamentada do presidente do conselho executivo ou diretor, mediante comunicação com a antecedência mínima de 60 dias, ou a requerimento do interessado em igual prazo.
+2 - O coordenador dos serviços administrativos escolares tem direito a um suplemento remuneratório num montante pecuniário fixado em 45 % do valor da base remuneratória da Administração Pública, sendo devido e pago 12 meses por ano.
+3 - A dotação máxima é de um coordenador dos serviços administrativos escolares por organização escolar.
+4 - Nas suas faltas ou impedimentos, o coordenador dos serviços administrativos escolares é substituído por um trabalhador designado pelo presidente do conselho executivo ou diretor, o qual passa a auferir o suplemento remuneratório previsto no número anterior.
+5 - Nos termos do n.º 2 do artigo 11.º, mantêm-se em funções os trabalhadores das carreiras de chefe de departamento ou chefe de serviços de administração escolar, até que tais lugares fiquem vagos.
