@@ -6,7 +6,7 @@
 2 - As faltas dadas a tempos registados no horário individual do docente são referenciadas a:
 a) Períodos de uma hora, tratando-se de educadores de infância e de professores do 1.º ciclo do ensino básico;
 b) Períodos de quarenta e cinco minutos, tratando-se de docentes dos 2.º e 3.º ciclos do ensino básico e do ensino secundário.
-3 - É considerado um dia de falta a ausência a um número de horas igual ao quociente da divisão por cinco do número de horas de serviço docente que deva ser obrigatoriamente registado no horário semanal do docente.
+3 - É considerado um dia de falta a ausência a um número de horas igual ao quociente da divisão por cinco do número de horas de componente letiva semanal do docente, arredondado por excesso.
 4 - É ainda considerada falta a um dia:
 a) A ausência do docente a serviço de exames;
 b) A ausência do docente a reuniões que visem a avaliação sumativa de alunos.
