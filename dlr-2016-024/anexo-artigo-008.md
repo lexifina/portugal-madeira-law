@@ -3,7 +3,7 @@
 # Artigo 8.º
 ### Benefícios fiscais
 1 - Aos projetos de investimento previstos nos artigos anteriores podem ser concedidos, cumulativamente, os seguintes benefícios fiscais:
-a) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 10 % e 35 % das aplicações relevantes do projeto de investimento efetivamente realizadas, a deduzir ao montante da coleta do IRC apurada nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC;
+a) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 25 % e 40 % das aplicações relevantes do projeto de investimento efetivamente realizadas, a deduzir ao montante da coleta do IRC apurada nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC;
 b) Isenção ou redução de IMI, durante a vigência do contrato, relativamente aos prédios utilizados pelo promotor no âmbito do projeto de investimento;
 c) Isenção ou redução de IMT, relativamente às aquisições de prédios incluídas no plano de investimento e realizadas durante o período de investimento;
 d) Isenção de Imposto do Selo, relativamente a todos os atos ou contratos necessários à realização do projeto de investimento.
