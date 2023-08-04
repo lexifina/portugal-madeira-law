@@ -1,7 +1,3 @@
-## Capítulo V
-## Sistema Integrado de Operações de Protecção e Socorro da Região Autónoma da Madeira
-## Secção I
-## Coordenação institucional
 # Artigo 19.º
 ### Centro de Coordenação Operacional Regional
 1 - A coordenação institucional é assegurada, a nível regional, pelo Centro de Coordenação Operacional Regional, abreviadamente designado por CCOR e integra representantes das entidades mencionadas no artigo seguinte.
