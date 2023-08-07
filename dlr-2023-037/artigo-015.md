@@ -1,0 +1,5 @@
+# Artigo 15.º
+### Avaliação do desempenho
+1 - A avaliação do desempenho relativa aos trabalhadores que integrem a carreira de tripulante de ambulância de transporte não urgente rege-se pelo regime do sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira.
+2 - Aos trabalhadores abrangidos pelas transições automáticas, independentemente do vínculo, reconhece-se o tempo de serviço, a avaliação do desempenho e respetivos pontos, assim como os pontos atribuídos em sede de diploma legal, pelo que relevam para efeitos de alteração do posicionamento remuneratório, nos termos da tabela da carreira de tripulante de ambulância de transporte não urgente constante do anexo I.
+3 - A avaliação do desempenho do tripulante de ambulância de transporte não urgente coordenador é realizada bienalmente, de acordo com o regime estabelecido no sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira, relevando para efeitos da respetiva carreira de origem a avaliação do desempenho efetuada.
