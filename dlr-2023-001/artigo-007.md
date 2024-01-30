@@ -8,4 +8,4 @@ a) Uma TE, após a concessão do apoio, superior a 45 %;
 b) Um valor de apoio mensal inferior a 25,00 (euro) (vinte e cinco euros).
 5 - Para além do que resultar da reavaliação dos pressupostos da sua atribuição, a concessão do apoio cessa com a transmissão do imóvel ou se este deixar de constituir habitação permanente.
 6 - O apoio a atribuir ao abrigo do presente artigo é cumulável com qualquer outro apoio público de âmbito nacional, sem prejuízo da dedução dos valores recebidos, por forma a impedir a abonação de apoios em valor superior ao dos encargos exigidos ao beneficiário.
-7 - O apoio é sujeito a monitorizações semestrais contadas da data da sua concessão, nos termos do artigo 10.º
+7 - A TE a que se refere a alínea a) do n.º 4 pode ser atualizada por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da habitação e das finanças.

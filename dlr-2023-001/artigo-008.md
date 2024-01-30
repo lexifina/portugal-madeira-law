@@ -7,5 +7,6 @@
 5 - Serão excluídas as candidaturas de agregados familiares:
 a) Com rendimentos anuais brutos inferiores ou superiores aos fixados na portaria a que se refere o artigo 16.º;
 b) Integrados por elementos que sejam titulares de direitos sobre outros bens imóveis em condições de constituir habitação permanente;
-c) Com taxa de esforço, antes da concessão do apoio, inferior a 30 %;
+c) Que apresentem uma TE, antes da concessão do apoio, inferior a 25 %;
 d) Que não tenham, nos seis meses anteriores à candidatura, diligenciado por uma renegociação bancária do crédito à habitação.
+6 - A TE a que se refere a alínea c) do número anterior pode ser atualizada por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da habitação e das finanças.
