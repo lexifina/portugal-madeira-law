@@ -11,6 +11,6 @@ d) Figurem ou venham a figurar como promitentes compradores em contrato-promessa
 3 - Serão excluídas as candidaturas de agregados familiares:
 a) Com rendimentos anuais brutos inferiores ou superiores aos fixados na portaria a que se refere o artigo 28.º;
 b) Integrados por elementos que sejam titulares de direitos sobre bens imóveis em condições de constituir residência permanente;
-c) Referentes à compra de fogo por valores ou com tipologia superiores às fixadas na portaria a que se refere o artigo 28.º
+c) Referentes à compra de fogo por valores superiores aos fixados na portaria a que se refere o artigo 28.º
 4 - Em qualquer momento, pode a IHM, EPERAM, solicitar documentação adicional, para efeitos de integral esclarecimento dos termos da candidatura.
 5 - Não serão aceites contratos-promessa que constituam renegociações de outros com identidade de objeto e de partes outorgantes.
