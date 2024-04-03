@@ -1,0 +1,27 @@
+# Artigo 6.º
+### Conceitos
+Para efeitos do presente diploma, consideram-se os seguintes conceitos:
+a) "Candidato", o membro do agregado familiar, maior ou emancipado, que formaliza a candidatura e que deve ser titular da mesma, em representação de todo o agregado familiar, desde que detenha as capacidades físicas e psíquicas para a instrução do processo de candidatura;
+b) "Agregado familiar", a pessoa ou conjunto de pessoas que vivem em economia comum, ou seja, com partilha de habitação e vivência comum de entreajuda e partilha de recursos, composto, para além do candidato, por:
+i) Cônjuge ou pessoa que com ele viva em união de facto há mais de dois anos;
+ii) Parentes e afins, em linha reta e em linha colateral, até ao 3.º grau;
+iii) Adotados, tutelados e crianças e jovens confiados por decisão de entidade legalmente competente, a membro do agregado familiar;
+c) "Agregado familiar jovem", o agregado familiar cuja totalidade dos membros tem idade até 35 anos ou, no caso de cônjuge ou pessoa que com ele viva em união de facto há mais de dois anos, um dos membros do agregado familiar pode ter até 37 anos de idade;
+d) "Família carenciada", o agregado familiar cujos rendimentos auferidos não permitem o acesso, pelos próprios meios, a uma habitação condigna;
+e) "Dependentes a cargo", os menores de idade não emancipados (filhos, adotados, enteados ou sob tutela) a cargo do candidato, os maiores de idade até 25 anos a estudar em estabelecimento de ensino oficial e a pessoa com incapacidade física ou psíquica devidamente atestada;
+f) "Portador de incapacidade", a pessoa com grau de incapacidade igual ou superior a 60 % que integra o agregado familiar;
+g) "Violência doméstica", o contexto do agregado familiar em que foi atribuído o estatuto de vítima a pelo menos um dos seus membros, nos termos do regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, aprovado pela Lei n.º 112/2009, de 16 de setembro, e sua regulamentação, ou outro regime que lhe suceda;
+h) "Habitação permanente", o prédio urbano ou fração autónoma objeto do contrato de mútuo com o propósito de servir de residência ao candidato e seu agregado familiar e onde tenham organizada, de forma estável, a sua vida pessoal, familiar e social;
+i) "Tipologia adequada", o prédio ou fração autónoma destinado a habitação, apto a satisfazer condignamente as necessidades do agregado familiar, tendo em consideração a composição deste, a tipologia da habitação e as condições de habitabilidade e de segurança da mesma, de acordo com os critérios adotados pelo Instituto Nacional de Estatística, IP (INE, IP) em Espaço de Habitação Sobrelotado e nos termos definidos na portaria de regulamentação do presente diploma;
+j) "Rendimento anual bruto" (RAB), o valor dos rendimentos ilíquidos auferidos pelo agregado familiar, aferidos pelo rendimento global constante da última declaração de rendimentos das pessoas singulares (IRS) apresentada e validada pela Autoridade Tributária e Aduaneira (AT), sendo zero o valor do rendimento global ou não tendo havido lugar à entrega da declaração de IRS, considera-se a soma dos rendimentos ilíquidos auferidos pelo agregado familiar, nomeadamente:
+i) Os ordenados, salários e outras remunerações, incluindo diuturnidades, horas extraordinárias, gratificações e subsídios, com exceção do subsídio de alimentação, do abono de família e bolsas de estudo;
+ii) As pensões de reforma, aposentação, velhice, invalidez, sobrevivência, baixas médicas e quaisquer outras;
+iii) As prestações sociais relativas a desemprego, rendimento social de inserção e medidas ou programas de emprego;
+iv) Outros rendimentos declarados;
+k) "Rendimento anual líquido" (RAL), o valor do rendimento anual bruto (RAB) apurado nos termos da alínea anterior do presente artigo, deduzido dos valores de retenção na fonte para efeitos de IRS e das contribuições obrigatórias efetuadas ao abrigo dos regimes da segurança social, Caixa Geral de Aposentações, I. P. (CGA, I. P.), Instituto de Proteção e Assistência na Doença, I. P. (ADSE, I. P.), Serviço de Assistência Médico-Social (SAMS) ou outros equiparados;
+l) "Rendimento médio mensal líquido" (RMML), o duodécimo do rendimento anual líquido (RAL) do agregado familiar;
+m) "Remuneração mínima mensal garantida" (RMMG), o valor da retribuição mínima mensal garantida em vigor na Região Autónoma da Madeira, definido anualmente por decreto legislativo regional;
+n) "Inscrição", ato através do qual um candidato submete eletronicamente com êxito a sua inscrição para acesso ao presente programa;
+o) "Candidatura", ato através do qual um candidato submete eletronicamente com êxito a sua candidatura a uma habitação pública apoiada, em regime de renda acessível, nos concelhos indicados na respetiva inscrição;
+p) "Taxa de esforço do arrendamento" (TEA), a relação existente entre o valor da renda mensal suportada para residência permanente do agregado familiar e o rendimento médio mensal líquido (RMML);
+q) "Valor da renda por metro quadrado, em cada concelho", corresponde ao valor mediano das rendas por metro quadrado de novos contratos de arrendamento de alojamentos familiares nos últimos 12 meses publicado pelo INE, I. P., para o concelho do Funchal, deduzido de uma percentagem do seu valor e afetado por um coeficiente de município conforme localização da habitação, nos termos definidos na portaria de regulamentação do presente diploma.
