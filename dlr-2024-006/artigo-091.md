@@ -1,0 +1,4 @@
+# Artigo 91.º
+### Cobrança coerciva no âmbito de processos contraordenacionais na área dos transportes
+1 - Nos créditos relativos a taxas, coimas ou quaisquer outros que tenham origem no exercício de poderes públicos ou de interesse público, assim como os provenientes de custas administrativas, aplicadas no âmbito de processos contraordenacionais rodoviários, de viação ou transportes terrestres, em todas as suas componentes, a cobrança coerciva é feita pelo processo de execução fiscal, nos termos consagrados no Código de Procedimento e de Processo Tributário, diretamente através da AT-RAM, sendo tais créditos equiparados, para todos os efeitos legais, a créditos da Região Autónoma da Madeira.
+2 - O processo de execução fiscal referido no número anterior tem por base certidão emitida nos termos do Código de Procedimento e de Processo Tributário.

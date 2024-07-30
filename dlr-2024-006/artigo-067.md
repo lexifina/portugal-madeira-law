@@ -1,0 +1,11 @@
+# Artigo 67.º
+### Contratos de prestação de serviços celebrados com pessoas singulares
+1 - A celebração ou a renovação de contratos de aquisição de serviços celebrados com pessoas singulares, designadamente, na modalidade de tarefa ou de avença, por órgãos e serviços abrangidos pelo âmbito de aplicação da Lei Geral do Trabalho em Funções Públicas (LTFP), independentemente da natureza da contraparte, carece de parecer prévio vinculativo do membro do Governo Regional responsável pela área das finanças e da administração pública, nos termos e segundo tramitação a regular por portaria do referido membro do Governo.
+2 - O parecer previsto no número anterior depende:
+a) Da verificação do caráter não subordinado da prestação, para a qual se revele inconveniente o recurso a qualquer modalidade de vínculo de emprego público;
+b) Da verificação da inexistência de pessoal em situação legalmente determinada de mobilidade, apto para o desempenho das funções subjacentes à contratação em causa.
+3 - Sempre que os contratos a que se refere o presente artigo estejam sujeitos a autorização para assunção de encargos plurianuais, o respetivo processo de autorização deve ser solicitado em simultâneo com o pedido de parecer a que se refere o n.º 1.
+4 - O disposto no presente artigo não prejudica a possibilidade de ser obtida autorização prévia para um número máximo de contratos de tarefa e de avença, nos termos do n.º 3 do artigo 32.º da LTFP.
+5 - Não estão sujeitos ao disposto no presente artigo os contratos de aquisições de serviços emergentes de acidentes escolares e de acidentes de trabalho e, desde que de valor igual ou inferior ao limiar do ajuste direto simplificado, os contratos de aquisição de bens e serviços mencionados nas alíneas f), g) e h) do n.º 8 e b) do n.º 9 do artigo anterior.
+6 - Os contratos referidos no número anterior e os abrangidos pelo n.º 1 do artigo 3.º da Portaria da Vice-Presidência do Governo Regional n.º 319/2018, de 24 de agosto, estão igualmente dispensados do requisito de publicação prévia na Bolsa de Emprego Público da Região Autónoma da Madeira.
+7 - Os atos praticados em violação do disposto no presente artigo são nulos.

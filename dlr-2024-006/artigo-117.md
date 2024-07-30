@@ -1,0 +1,8 @@
+# Artigo 117.º
+### Regime excecional e temporário de prorrogação de prazos de empreitadas de obras públicas
+1 - Na Região Autónoma da Madeira é instituído um regime excecional e temporário de prorrogação de prazos de execução de empreitadas de obras públicas, a vigorar até 31 de dezembro de 2024.
+2 - Nos contratos de empreitada de obras públicas em execução, quando se verifique atraso no cumprimento do plano de trabalhos, por impossibilidade de o empreiteiro obter materiais ou mão-de-obra necessários para a execução da obra, por motivos que justificada e comprovadamente não lhe sejam imputáveis, o dono de obra pode aceitar, no prazo de 20 dias a contar da data da receção do pedido, prorrogar o prazo de execução, pelo tempo estritamente necessário, sem qualquer penalização e sem qualquer pagamento adicional ao empreiteiro.
+3 - Para efeitos do disposto no número anterior, o empreiteiro deve instruir o seu pedido com os elementos demonstrativos da impossibilidade da obtenção de materiais, nomeadamente, notas de encomenda e declaração dos respetivos fornecedores, bem como justificação da falta de mão-de-obra, podendo, neste caso, ser apresentada declaração do empreiteiro sob compromisso de honra.
+4 - O empreiteiro submete ainda à aprovação do dono da obra um novo plano de trabalhos e plano de pagamentos reajustados.
+5 - O cálculo da revisão de preços dos trabalhos por executar é efetuado com base no plano de pagamentos que, na data do pedido de prorrogação do prazo, se encontrar em vigor.
+6 - Ficam excluídas do âmbito de aplicação do presente artigo as obras públicas executadas ao abrigo do Plano de Recuperação e Resiliência (PRR), e financiadas ou cofinanciadas por fundos europeus.
