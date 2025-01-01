@@ -1,3 +1,5 @@
+## Capítulo II
+## Disposições finais
 # Artigo 77.º
 ### Avaliações anteriores e conversão de resultados
 1 - Nas situações previstas na lei em que seja necessário ter em conta a avaliação de desempenho ou a classificação de serviço e, em concreto, devam ser tidos em conta os resultados da aplicação de diversos sistemas de avaliação, é usada, para conversão de valores quantitativos, a escala do SIADAP-RAM, devendo ser convertidas proporcionalmente para esta quaisquer outras escalas utilizadas, com aproximação por defeito, quando necessário.

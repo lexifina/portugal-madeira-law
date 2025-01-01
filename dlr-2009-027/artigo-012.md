@@ -6,3 +6,4 @@ a) Formular recomendações e ou propostas aos serviços e organismos da adminis
 b) Solicitar os elementos que entenda necessários, com vista a uma correcta aplicação dos princípios e normas do sistema de avaliação do desempenho;
 c) Pronunciar-se sobre questões que lhe sejam submetidas no âmbito de qualquer dos subsistemas do SIADAP-RAM;
 d) Desenvolver formação para os serviços em matéria de avaliação de desempenho.
+3 - No caso de serviços com direção, tutela ou superintendência partilhada, o acompanhamento e a coordenação dos processos referidos nos números anteriores ficam a cargo do serviço com atribuições de acompanhamento e coordenação em matéria de avaliação de desempenho integrado no programa orçamental onde se inscreve o orçamento do serviço.
