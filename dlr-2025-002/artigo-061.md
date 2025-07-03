@@ -1,0 +1,11 @@
+# Artigo 61.º
+### Medida transitória de incentivo à recuperação de atividade clínica
+1 - Até 31 de dezembro de 2025, em casos excecionais e devidamente fundamentados, é atribuído um acréscimo remuneratório, pela realização de produção médica, para além do respetivo horário normal de trabalho, aos médicos integrados nas carreiras médicas, em efetivo exercício de funções no SESARAM, EPERAM, mediante vínculo de emprego público ou privado, independentemente do seu regime de trabalho, em especialidades que comprovadamente necessitem de recuperar a atividade clínica.
+2 - O incentivo referido no número anterior, é fixado por referência a um montante por hora, por ato ou por turno.
+3 - A identificação das especialidades, bem como o montante a que se refere o número anterior e os termos e as condições de atribuição deste incentivo, são definidos por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças, da administração pública e da saúde.
+4 - A prestação de trabalho médico tem de garantir o descanso semanal obrigatório.
+5 - O presente acréscimo remuneratório é abonado para a compensação da produção realizada no âmbito da presente norma, não o podendo ser a título de trabalho suplementar.
+6 - O incentivo previsto no presente artigo não é cumulável com outros incentivos de natureza similar ou que visem suprir áreas médicas carenciadas, exceto com o previsto no artigo 11.º do Decreto Legislativo Regional n.º 12/2020/M, de 10 de agosto.
+7 - Para efeitos do n.º 1, considera-se horário de trabalho normal o fixado por lei para o respetivo regime, que inclui as horas afetas por lei a atividades urgentes e emergentes.
+8 - O disposto no presente artigo é, ainda, aplicável aos médicos internos colocados no SESARAM, EPERAM, que se encontrem a frequentar o último ano do respetivo internato médico da formação especializada ou que já tenham adquirido o grau de especialista.
+9 - O regime estabelecido no presente artigo prevalece sobre quaisquer outras normas especiais ou excecionais em contrário, e sobre instrumentos de regulamentação coletiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado por estes.

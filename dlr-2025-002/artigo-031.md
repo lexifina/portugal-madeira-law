@@ -1,0 +1,5 @@
+# Artigo 31.º
+### Cedência de bens imóveis para habitação a custos controlados
+1 - Como medida de incentivo à promoção de habitação acessível, o Conselho do Governo Regional pode ceder a título definitivo e oneroso, e em regime de propriedade resolúvel, bens imóveis do domínio privado da Região Autónoma da Madeira a instituições particulares de solidariedade social, cooperativas do ramo de habitação e construção e promotores privados, para promoção de habitação de custos controlados, nos termos do disposto no artigo 1.º da Portaria n.º 65/2019, de 19 de fevereiro, na sua atual redação e demais legislação aplicável.
+2 - Os termos e condições das cedências referidas no número anterior são determinados por resolução do Conselho do Governo Regional, que aprova igualmente as minutas das peças do procedimento concursal prévio, mediante proposta do departamento governamental com a tutela do setor da habitação, com a colaboração do departamento governamental com a tutela do setor do património.
+3 - A formalização das cedências compete aos departamentos governamentais mencionados no número anterior.

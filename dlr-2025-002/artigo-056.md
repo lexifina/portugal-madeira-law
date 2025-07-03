@@ -1,0 +1,14 @@
+# Artigo 56.º
+### Suplementos remuneratórios
+1 - Mantêm-se em vigor todos os suplementos remuneratórios existentes na administração pública regional, designadamente:
+a) O suplemento de produtividade atribuído aos trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira (AT-RAM), ao abrigo dos artigos 34.º e 35.º do Decreto Legislativo Regional n.º 28/2006/M, de 19 de julho, na sua atual redação;
+b) O suplemento de integração na Região Autónoma da Madeira, atribuído aos trabalhadores da AT-RAM, ao abrigo do artigo 44.º do Decreto Regulamentar Regional n.º 29-A/2005/M, de 31 de agosto, em vigor ao abrigo do artigo 20.º do Decreto Regulamentar Regional n.º 14/2015/M, de 19 de agosto;
+c) O suplemento de residência atribuído nos termos previstos na alínea a) do artigo 18.º do Decreto-Lei n.º 48 405, de 29 de maio de 1968, aos trabalhadores da Autoridade Tributária que exerçam funções, em regime de mobilidade, na AT-RAM, ao abrigo do artigo 56.º do Decreto Legislativo Regional n.º 28/2006/M, de 19 de julho, na sua atual redação;
+d) O subsídio de frio previsto na Resolução do Conselho do Governo Regional n.º 448/86, de 8 de abril, alterada pela Resolução do Conselho do Governo Regional n.º 258/91, de 21 de março;
+e) O suplemento previsto no n.º 8 da Resolução do Conselho do Governo Regional n.º 776/2020, de 21 de outubro, alterada e republicada pela Resolução do Conselho do Governo Regional n.º 1262/2023, de 5 de dezembro;
+f) Os suplementos remuneratórios criados pelos artigos 11.º e 12.º do Decreto Legislativo Regional n.º 12/2020/M, de 10 de agosto;
+g) O suplemento remuneratório criado pelo artigo 57.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro;
+h) O suplemento remuneratório previsto no despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças, publicado no JORAM, 2.ª série, n.º 79, de 22 de abril de 2004, que continua a ser abonado aos trabalhadores do mapa de pessoal do Gabinete de Gestão da Loja do Cidadão (GGLC) e aos trabalhadores que exercem funções nos postos de atendimento da Loja do Cidadão da Madeira, desde que o ingresso no mapa do GGLC ou o início de funções na Loja do Cidadão tenha ocorrido em data anterior a 27 de dezembro de 2008;
+i) O suplemento remuneratório previsto na portaria conjunta das Secretarias Regionais das Finanças e de Inclusão Social e Cidadania n.º 637/2023, de 5 de setembro.
+2 - Durante o ano de 2025, o cálculo da remuneração dos motoristas dos gabinetes dos membros do Governo Regional é efetuado de acordo com as disposições constantes do Decreto-Lei n.º 11/2012, de 20 de janeiro.
+3 - Durante o ano de 2025, num quadro de incentivos à implementação de medidas e práticas à inovação e modernização da administração pública regional, mantém-se o suplemento de isenção de horário de trabalho, criado pelo n.º 3 do artigo 44.º do Decreto Legislativo Regional n.º 2/2018/M, de 9 de janeiro.

@@ -1,0 +1,5 @@
+# Artigo 34.º
+### Requisito prévio para a autorização de despesas
+1 - A assunção de compromissos por parte das entidades públicas, incluindo as integradas no universo das administrações públicas em contas nacionais, independentemente da sua forma jurídica, de valor superior a 300 000 euros, é sempre precedida de autorização prévia do membro do Governo Regional responsável pela área das finanças, sem prejuízo do disposto no número seguinte.
+2 - O SESARAM, EPERAM, pode assumir compromissos com dispensa da autorização prévia a que se refere o número anterior, até ao valor de 750 000 euros.
+3 - O disposto no n.º 1 não se aplica ao Instituto de Segurança Social da Madeira, IP-RAM e aos projetos associados ao PRR.

@@ -1,0 +1,10 @@
+# Artigo 55.º
+### Recrutamento de trabalhadores para a administração pública regional
+1 - Durante o ano de 2025, os órgãos e serviços da administração pública regional direta e indireta, as entidades públicas empresariais e as empresas públicas de capital exclusiva ou maioritariamente público integradas no universo das administrações públicas em contas nacionais só podem prever no mapa anual global consolidado, ou instrumento análogo, novas contratações, independentemente do tipo de vínculo jurídico que venha a estabelecer-se, na proporção de saídas definitivas de trabalhadores.
+2 - Podem, ainda, os serviços da administração pública regional direta e indireta, as entidades públicas empresariais e as empresas públicas de capital exclusiva ou maioritariamente público integradas no universo das administrações públicas em contas nacionais, proceder a recrutamentos de trabalhadores nas situações de ausências prolongadas destes, que impliquem a suspensão do respetivo contrato de trabalho.
+3 - Em situações excecionais, os membros do Governo Regional responsáveis pelas áreas das finanças e da administração pública podem autorizar a contratação de trabalhadores para além do limite estabelecido nos números anteriores, desde que cumulativamente observados os seguintes requisitos, fixando, caso a caso, o número de contratos a celebrar:
+a) Existência e demonstração de relevante interesse público no recrutamento, ponderada a eventual carência dos recursos humanos no setor de atividade a que se destina o recrutamento;
+b) Impossibilidade de ocupação dos postos de trabalho em causa por recurso a instrumentos de mobilidade ou cedência de interesse público.
+4 - As contratações efetuadas em violação do disposto no presente artigo são nulas e fazem incorrer os seus autores em responsabilidade civil, financeira e disciplinar.
+5 - O disposto no presente artigo tem caráter excecional e prevalece sobre todas as disposições legais, gerais ou especiais, contrárias.
+6 - O disposto no presente artigo produz efeitos no dia seguinte à publicação do presente diploma.

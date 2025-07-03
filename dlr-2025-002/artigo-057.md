@@ -1,0 +1,8 @@
+# Artigo 57.º
+### Atribuição de incentivos aos conservadores de registos da Região Autónoma da Madeira
+1 - Os conservadores de registos que, após a vigência do Decreto-Lei n.º 247/2003, de 8 de outubro, e até 31 de dezembro de 2024, tenham tomado posse em serviços externos da Direção Regional da Administração da Justiça, e enquanto se mantiverem ao serviço na Região Autónoma da Madeira, ainda que noutro serviço externo da Direção Regional da Administração da Justiça, têm direito a um incentivo mensal de insularidade idêntico, quantitativa e qualitativamente, ao subsídio mensal de insularidade a que se refere o artigo 6.º do Decreto-Lei n.º 145/2019, de 23 de setembro.
+2 - Enquanto o montante do subsídio mensal de insularidade não for fixado nos termos previstos no n.º 2 do artigo 6.º do Decreto-Lei n.º 145/2019, de 23 de setembro, os conservadores referidos no n.º 1 têm direito a incentivos de compensação e de fixação, exatamente idênticos, quantitativa e qualitativamente, aos subsídios de compensação e fixação abonados aos conservadores a que se refere o artigo 10.º do Decreto-Lei n.º 247/2003, de 8 de outubro.
+3 - O incentivo de insularidade ou os incentivos de compensação e fixação não são devidos aos conservadores que:
+a) Ingressarem na carreira em quadros da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 3.º do Decreto-Lei n.º 247/2003, de 8 de outubro;
+b) Tenham tomado posse em serviços externos da Direção Regional da Administração da Justiça, após 31 de dezembro de 2024;
+c) Aos que já beneficiam diretamente dos subsídios nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 145/2019, de 23 de setembro, ou nos termos do artigo 10.º do Decreto-Lei n.º 247/2003, de 8 de outubro.
