@@ -6,3 +6,5 @@
 2 - A atribuição da habitação formaliza-se mediante contrato de arrendamento, nos termos do artigo 18.º, a celebrar entre a entidade gestora e o candidato, no qual se incluem todos os membros do agregado familiar maiores de idade e ou emancipados.
 3 - Os candidatos com a pontuação mais alta na lista ordenada são notificados para efeitos de aceitação da atribuição da habitação e comparência no ato de assinatura do contrato de arrendamento.
 4 - Os restantes candidatos não contemplados assumem a posição de suplentes na lista ordenada, cuja validade é de dois anos, para efeitos de atribuição ou reatribuição de uma habitação.
+4 - De entre o universo de candidatos sem atribuição é constituída uma bolsa de candidatos suplentes, válida por 6 meses ou até à abertura de novo aviso para o mesmo concelho, conforme o que ocorrer primeiro.
+5 - Aos candidatos suplentes e aos demais candidatos sem atribuição, aplica-se, para efeitos de atribuição ou reatribuição de uma habitação, o disposto no n.º 5 do artigo 10.º

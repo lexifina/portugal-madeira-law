@@ -7,4 +7,4 @@ c) A desconformidade e ou a incongruência da informação constante da document
 d) A verificação dos fundamentos de não admissão previstos no n.º 2 do artigo 11.º;
 e) A existência de dívidas à IHM, EPERAM, às finanças ou à segurança social;
 f) A prestação de falsas declarações, omissão dolosa de informação ou utilização de meio fraudulento por parte do candidato.
-2 - O candidato é notificado da decisão de indeferimento da candidatura, para efeitos da audiência dos interessados.
+2 - O candidato é notificado da decisão de indeferimento da candidatura, para efeitos de pronúncia, num prazo entre cinco e dez dias úteis.

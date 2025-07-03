@@ -6,3 +6,4 @@
 a) São posicionados no nível correspondente às funções de chefia tributária a desempenhar, nos termos da tabela constante do anexo vii ao presente decreto legislativo regional e do qual faz parte integrante;
 b) As atuais chefias tributárias que, pelo exercício da função, aufiram remuneração superior, mantêm essa remuneração até ao termo das respetivas funções.
 4 - O reposicionamento remuneratório dos trabalhadores integrados na atual carreira de técnico economista obedece ao disposto no n.º 1, tendo como referência o montante pecuniário que auferem, enquanto em comissão de serviço, no grupo de pessoal de administração tributária.
+5 - Aos trabalhadores da AT-RAM que transitem ou que venham a ingressar nas carreiras especiais, aplica-se o disposto no artigo 5.º

@@ -1,3 +1,3 @@
 # Artigo 1.º
-### Objecto
-Este diploma tem por objecto a definição do regime de redução da taxa geral do imposto sobre o rendimento das pessoas colectivas, prevista no CIRC, para vigorar na Região Autónoma da Madeira.
+### Objeto
+O presente diploma tem por objeto a definição do regime de redução das taxas do imposto sobre o rendimento das pessoas coletivas, previstas no CIRC, para vigorar na Região Autónoma da Madeira.
