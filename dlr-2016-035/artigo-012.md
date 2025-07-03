@@ -1,0 +1,5 @@
+# Artigo 12.º
+### Segredo profissional e incompatibilidades
+1 - Os funcionários da ARAE, incluindo o pessoal das carreiras de Inspeção, bem como as pessoas ou entidades que lhe prestem, a título permanente ou ocasional, quaisquer serviços, ficam sujeitos a segredo profissional sobre os factos e documentos cujo conhecimento resulte do exercício das suas funções ou da prestação de serviços referidos e, seja qual for a finalidade, não podem divulgar nem utilizar, em proveito próprio ou alheio, diretamente ou por interposta pessoa, o conhecimento que advenha de tais factos.
+2 - O dever de segredo profissional mantém-se ainda que as pessoas ou entidades a ele sujeitas deixem de prestar serviço na ARAE.
+3 - Sem prejuízo das disposições legais sobre incompatibilidades previstas na Lei n.º 35/2014, de 20 de junho, alterada pela Lei n.º 84/2015, de 7 de agosto, e no Código do Procedimento Administrativo, o pessoal das carreiras de inspeção, em serviço efetivo, não pode exercer cargos de gerência, administração ou quaisquer outras funções, sejam ou não remuneradas, ao serviço de entidades cuja atividade esteja sujeita à fiscalização da ARAE.
