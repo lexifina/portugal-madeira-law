@@ -11,10 +11,10 @@ g) Processar e punir as infrações às normas cuja implementação, supervisão
 h) Decidir os processos de contraordenações, nomeadamente no que diz respeito à aplicação de coimas, sanções acessórias e outras medidas disciplinadoras conferidas pelo Código da Estrada e outra legislação aplicável, com faculdade de delegação;
 i) Exercer a ação inspetiva e fiscalizadora do cumprimento dos direitos e obrigações no âmbito das atribuições e competências do IMT, IP-RAM;
 j) Comunicar às autoridades competentes as irregularidades e as infrações de que tenha conhecimento no exercício da sua atividade, em particular nas áreas da fiscalidade, crime, segurança social e defesa da concorrência;
-k) A emissão de instruções técnicas e recomendações destinadas às entidades fiscalizadoras em matéria rodoviária e marítima e a outras entidades com responsabilidades na segurança rodoviária e no processo contraordenacional;
+k) A emissão de instruções técnicas e recomendações destinadas às entidades fiscalizadoras em matéria rodoviária e a outras entidades com responsabilidades na segurança rodoviária e no processo contraordenacional;
 l) Assegurar as relações com os órgãos de tutela e com os demais organismos públicos e privados;
 m) Dirigir, coordenar e assegurar a gestão dos serviços e dos estabelecimentos integrados do IMT, IP-RAM, programar as respetivas ações e zelar pelo seu bom funcionamento, com vista à prossecução das suas atribuições;
-n) Elaborar os planos anuais e plurianuais e submetê-los à aprovação do membro do Governo Regional com a tutela dos transportes terrestres e marítimos;
+n) Elaborar os planos anuais e plurianuais e submetê-los à aprovação do membro do Governo Regional com a tutela dos transportes terrestres;
 o) Assegurar a execução dos planos aprovados;
 p) Elaborar o orçamento anual do IMT, IP-RAM, submetê-lo à aprovação da tutela e assegurar a respetiva execução;
 q) Executar e fazer executar as disposições legais e regulamentares inerentes às atribuições do IMT, IP-RAM;

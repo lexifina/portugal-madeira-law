@@ -1,29 +1,29 @@
 # Artigo 10.º
 ### Conselho Regional da Mobilidade
-1 - O Conselho Regional da Mobilidade (CRM) é o órgão de natureza consultiva que reúne os vários intervenientes a nível da mobilidade terrestre e marítima, com a seguinte composição:
+1 - O Conselho Regional da Mobilidade é o órgão de natureza consultiva que reúne os vários intervenientes a nível da mobilidade terrestre, com a seguinte composição:
 a) O presidente do IMT, IP-RAM, que preside;
-b) Os diretores de serviços do IMT, IP-RAM com competências nas áreas da viação, transportes terrestres e marítimos, fiscalização, planeamento, prevenção rodoviária e na gestão integrada dos transportes públicos;
+b) Os diretores de serviços do IMT, IP-RAM com competências nas áreas da viação, transportes terrestres, fiscalização, planeamento, prevenção rodoviária e na gestão integrada dos transportes públicos;
 c) Um representante do Serviço Regional de Proteção Civil da Madeira;
 d) Um representante do órgão competente no Governo Regional pelo setor do turismo;
-e) Um representante do Gabinete do Secretário Regional com a tutela dos transportes terrestres e marítimos;
+e) Um representante do Gabinete do Secretário Regional com a tutela dos transportes terrestres;
 f) Um representante do serviço competente no Governo Regional das estradas/infraestruturas rodoviárias regionais;
-g) Um representante da APRAM - Administração dos Portos da Região Autónoma da Madeira, S. A.;
+g) [Revogada.]
 h) Um representante da GNR;
 i) Um representante da PSP;
-j) Um representante da Polícia Marítima da Madeira;
+j) [Revogada.]
 k) Um representante da AMRAM;
 l) Representantes dos concessionários de transporte público coletivo de passageiros;
-m) Representante do concessionário do Serviço Público de Transporte Regular de Passageiros e Mercadorias por Via Marítima entre o Funchal e o Porto Santo;
-n) Representante do concessionário do Serviço Público de Transporte Regular de Passageiros e Mercadorias por Via Marítima entre a Madeira e o continente português, quando aplicável;
+m) [Revogada.]
+n) [Revogada.]
 o) Os representantes das Associações de Táxis;
 p) Representantes da ACIF-CCIM das Mesas:
 i) Da secção de transportes terrestres coletivos;
 ii) Da secção de transportes de mercadorias de aluguer;
 iii) Da secção de agências de viagens;
 iv) Da secção de rent-a-car;
-v) Dos transitários.
-2 - O CRM pode convidar a participar nas suas reuniões outras personalidades ou entidades, públicas e privadas, com relevante atividade no domínio da mobilidade terrestre e marítima.
+v) [Revogada.]
+2 - O CRM pode convidar a participar nas suas reuniões outras personalidades ou entidades públicas e privadas com relevante atividade no domínio da mobilidade terrestre.
 3 - Ao CRM compete:
-a) Propor a orientação para os trabalhos a desenvolver em matéria de recolha e análise dos dados estatísticos referentes à mobilidade terrestre e marítima e validar os respetivos relatórios;
-b) Elaborar estudos e emitir pareceres em matéria de mobilidade terrestre e marítima quando os mesmos sejam superiormente solicitados;
-c) Acompanhar a elaboração dos planos regionais e de outros documentos estruturantes relacionados com os transportes e mobilidade terrestre e marítima.
+a) Propor a orientação para os trabalhos a desenvolver em matéria de recolha e análise dos dados estatísticos referentes à mobilidade terrestre e validar os respetivos relatórios;
+b) Elaborar estudos e emitir pareceres em matéria de mobilidade terrestre quando os mesmos sejam superiormente solicitados;
+c) Acompanhar a elaboração dos planos regionais e de outros documentos estruturantes relacionados com os transportes e mobilidade terrestre.
