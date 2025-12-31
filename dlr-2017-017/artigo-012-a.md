@@ -1,0 +1,6 @@
+# Artigo 12.º-A
+### Isenção de horário
+1 - Os trabalhadores integrados na carreira especial de inspeção de pescas da Região Autónoma da Madeira gozam de isenção de horário de trabalho na modalidade de não sujeição aos limites máximos dos períodos normais de trabalho prevista na alínea a) do n.º 1 do artigo 118.º da Lei Geral do Trabalho em Funções Públicas (LTFP).
+2 - Nas situações previstas na parte final do n.º 5 do artigo 118.º da LTFP, a isenção de horário prevista no número anterior pode prejudicar o direito aos dias de descanso semanal obrigatório, aos feriados obrigatórios e aos dias e meios dias de descanso complementar, bem como ao descanso diário de 11 horas consecutivas entre dois períodos diários de trabalho consecutivos, devendo, no entanto, ser observado um período de descanso que permita a recuperação do trabalhador entre dois períodos diários de trabalho consecutivos.
+3 - Pela isenção de horário de trabalho referida nos n.os 1 e 2 não é devido qualquer suplemento remuneratório aos trabalhadores integrados na carreira especial de inspeção de pescas da Região Autónoma da Madeira nos termos do n.º 2 do artigo 164.º da LTFP.
+4 - Os trabalhadores que gozem de isenção de horário nos termos dos números anteriores continuam sujeitos a cumprir as tarefas programadas, bem como a executar trabalhos em equipa.

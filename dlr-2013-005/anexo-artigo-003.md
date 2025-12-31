@@ -1,12 +1,8 @@
-## Anexo
-## Orgânica do Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM
-## Capítulo I
-## Denominação, natureza e tutela
 ## Capítulo II
 ## Missão, atribuições e competências
 # Artigo 3.º
 ### Missão e atribuições
-1 - O IVBAM, IP-RAM tem por missão a definição, coordenação e execução da política de valorização e preservação da vinha, do vinho, das bebidas espirituosas, do artesanato, do bordado e da tapeçaria, produzidos na Região Autónoma da Madeira, assim como da política de promoção e divulgação desses produtos e dos demais produtos tradicionais e agroalimentares produzidos na Região.
+1 - O IVBAM, IP-RAM tem por missão a definição, coordenação e execução da política de valorização e preservação da vinha, do vinho, das bebidas espirituosas, do bordado da Madeira, do artesanato e das artes tradicionais, produzidos na Região Autónoma da Madeira, assim como da política de promoção e divulgação desses produtos e da sidra regional.
 2 - Para a realização da sua missão são atribuições do IVBAM, IP-RAM:
 a) Definir, gerir e valorizar o património vitícola da Região Autónoma da Madeira;
 b) Coordenar, apoiar e fiscalizar as atividades vitivinícolas assim como a produção das bebidas espirituosas na Região Autónoma da Madeira;

@@ -10,4 +10,5 @@ d) O uso da habitação para fim diverso daquele a que se destina, ainda que a a
 e) A cessão, total ou parcial, temporária ou permanente e onerosa ou gratuita, do gozo da habitação;
 f) O conhecimento pela entidade gestora da existência de uma das situações de impedimento previstas no artigo 9.º;
 g) A prestação de falsas declarações, de forma expressa ou por omissão, sobre os rendimentos ou sobre factos e requisitos determinantes para o acesso ou manutenção do arrendamento;
-h) A permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia da entidade gestora.
+h) A permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia da entidade gestora;
+i) A não entrega da documentação necessária à confirmação da manutenção das condições de carência socioeconómica e outros pressupostos que fundamentaram a atribuição da habitação, nos prazos previstos no artigo 18.º, ou a ausência da manutenção das situações de carência ou dos pressupostos que determinaram a respetiva atribuição.

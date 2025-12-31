@@ -16,4 +16,6 @@ l) Elaborar os estudos e emitir os pareceres que lhe forem solicitados, no quadr
 m) Implementar, a nível regional, as diretivas e instrumentos operacionais e legais, nacionais e comunitários, nos domínios das áreas florestais e da conservação da natureza;
 n) Acompanhar os desenvolvimentos de iniciativas nacionais e internacionais nas áreas das florestas e da conservação da natureza e proceder à respetiva adaptação e aplicação a nível regional;
 o) Fiscalizar o cumprimento das normas legais e regulamentares em matérias de proteção e conservação da natureza;
-p) Exercer as demais competências que lhe forem legalmente cometidas.
+p) Prestar serviços, no âmbito das atribuições enunciadas nas alíneas anteriores, a entidades públicas ou privadas, de acordo com a tabela de preços a aprovar pelo membro do Governo Regional responsável pela área das florestas e conservação da natureza;
+q) Requerer ao Governo Regional a declaração de utilidade pública para expropriação de imóveis e dos direitos a eles inerentes e, bem assim, a autorização para a posse administrativa dos bens a expropriar e para a constituição de servidões administrativas, nos termos definidos no Código das Expropriações, sendo-lhe conferido para o efeito o caráter de entidade expropriante;
+r) Exercer as demais competências que lhe forem legalmente cometidas.

@@ -1,0 +1,5 @@
+# Artigo 29.º-A
+### Reposicionamento remuneratório
+1 - Os trabalhadores que, a 1 de janeiro de 2026, se encontrem integrados na carreira especial de vigilante da natureza da Região Autónoma da Madeira e, no âmbito do disposto no artigo 28.º-A não transitem para a categoria de vigilante da natureza especialista, mantêm a posição remuneratória da respetiva categoria fixada no Anexo I ao presente diploma.
+2 - Os trabalhadores que, nos termos do artigo 28.º-A, transitem para a categoria de vigilante da natureza especialista, a 1 de janeiro de 2026, são reposicionados na primeira posição remuneratória da nova categoria ou, caso lhes seja mais favorável, no nível remuneratório imediatamente seguinte àquele que detém nessa data.
+3 - Com a aplicação do disposto no artigo 28.º-A e no presente artigo, os pontos obtidos pelos trabalhadores abrangidos relevam, para efeitos de alteração do posicionamento remuneratório e da consequente progressão na carreira, bem como as correspondentes menções qualitativas e quantitativas atribuídas no âmbito do sistema de avaliação de desempenho.

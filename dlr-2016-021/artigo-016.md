@@ -9,5 +9,6 @@ b) Quaisquer outros rendimentos ou valores provenientes da sua atividade ou que,
 c) As comparticipações, dotações, subsídios e compensações financeiras que lhe forem atribuídas pela Região Autónoma da Madeira ou por quaisquer outras entidades públicas;
 d) O produto da alienação de bens próprios e da constituição de direitos sobre eles;
 e) As heranças, legados, doações e prémios de que venha a ser beneficiário, após despacho concordante do secretário regional da tutela;
-f) Os dividendos ou lucros que resultem da sua participação no capital social de empresas.
+f) Os dividendos ou lucros que resultem da sua participação no capital social de empresas;
+g) O produto da prestação de serviços a outras entidades públicas ou privadas.
 3 - Os saldos apurados no final de cada ano económico podem transitar para o ano seguinte, nos termos previstos na lei aplicável, a fim de serem utilizados pelo IFCN, IP-RAM.
