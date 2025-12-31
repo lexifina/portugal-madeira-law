@@ -1,3 +1,5 @@
+## Capítulo VI
+## Execução orçamental
 # Artigo 21.º
 ### Execução
 1 - O Governo Regional toma as medidas necessárias para uma rigorosa e conscienciosa contenção das despesas públicas e controlo da sua eficiência, de forma a alcançar a melhor aplicação dos recursos públicos na Região Autónoma da Madeira.

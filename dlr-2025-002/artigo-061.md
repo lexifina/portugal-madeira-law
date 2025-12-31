@@ -1,3 +1,5 @@
+## Secção II
+## Disposições relativas ao setor da saúde
 # Artigo 61.º
 ### Medida transitória de incentivo à recuperação de atividade clínica
 1 - Até 31 de dezembro de 2025, em casos excecionais e devidamente fundamentados, é atribuído um acréscimo remuneratório, pela realização de produção médica, para além do respetivo horário normal de trabalho, aos médicos integrados nas carreiras médicas, em efetivo exercício de funções no SESARAM, EPERAM, mediante vínculo de emprego público ou privado, independentemente do seu regime de trabalho, em especialidades que comprovadamente necessitem de recuperar a atividade clínica.

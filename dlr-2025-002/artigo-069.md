@@ -1,3 +1,5 @@
+## Secção IV
+## Disposições relativas ao SERAM
 # Artigo 69.º
 ### Setor empresarial e entidades públicas da Região Autónoma da Madeira
 1 - As entidades públicas empresariais e as empresas públicas de capital exclusiva ou maioritariamente público integradas no universo das administrações públicas em contas nacionais, podem contratar trabalhadores na modalidade de contrato por tempo indeterminado, contrato a termo ou comissão de serviço, quando se destine, respetivamente, a substituir a saída definitiva, a ausência de trabalhadores ou a cessação de comissão de serviço ocorridas no ano em curso ou no último trimestre do ano de 2024.

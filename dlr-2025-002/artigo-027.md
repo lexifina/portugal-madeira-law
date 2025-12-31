@@ -1,3 +1,5 @@
+## Capítulo VII
+## Disposições relativas a assunção de despesa
 # Artigo 27.º
 ### Competência para autorização de despesas no âmbito de procedimentos de contratação pública
 1 - São competentes para autorizar despesas, no âmbito de procedimentos de contratação pública, as seguintes entidades:

@@ -1,3 +1,5 @@
+## Capítulo I
+## Aprovação do Orçamento
 # Artigo 1.º
 ### Aprovação do Orçamento
 É aprovado, pelo presente diploma, o Orçamento da Região Autónoma da Madeira para o ano de 2025, constante dos mapas seguintes:

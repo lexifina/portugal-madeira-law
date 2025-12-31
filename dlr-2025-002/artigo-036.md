@@ -1,3 +1,5 @@
+## Capítulo VIII
+## Concessão de subsídios e outras formas de apoio
 # Artigo 36.º
 ### Concessão de subsídios e outras formas de apoio
 1 - Nos limites necessários ao cumprimento dos compromissos e objetivos orçamentais assumidos pela Região Autónoma da Madeira, fica o Governo Regional autorizado a conceder subsídios e outras formas de apoio a entidades públicas e privadas, no âmbito das ações e projetos de desenvolvimento que visem a melhoria da qualidade de vida das populações, bem como tenham enquadramento no plano de desenvolvimento económico e social da Região Autónoma da Madeira, designadamente para:

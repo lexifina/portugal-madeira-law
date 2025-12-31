@@ -1,3 +1,7 @@
+## Capítulo XI
+## Disposições relativas à administração pública regional
+## Secção I
+## Disposições gerais
 # Artigo 50.º
 ### Valorização especial dos trabalhadores da administração pública regional
 1 - Os trabalhadores da administração pública regional com vínculo de emprego público integrados em carreiras que, no ano de 2025 e seguintes, acumulem 6 ou mais pontos nas avaliações do desempenho relativas às funções exercidas durante o posicionamento remuneratório em que se encontram, alteram o seu posicionamento remuneratório para a posição remuneratória seguinte à detida.

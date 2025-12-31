@@ -1,3 +1,5 @@
+## Secção III
+## Disposições relativas a aquisição de serviços
 # Artigo 65.º
 ### Encargos com contratos de aquisição de serviços
 1 - Os encargos globais com contratos de aquisição de serviços, com exceção dos contratos cofinanciados, não podem ultrapassar os encargos globais pagos em 2024, acrescidos de 2,75 %.

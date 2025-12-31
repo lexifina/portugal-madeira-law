@@ -1,3 +1,5 @@
+## Secção V
+## Outras disposições relativas à administração pública regional
 # Artigo 72.º
 ### Informação relativa a pessoal das entidades públicas regionais
 1 - Sem prejuízo do disposto no artigo 54.º, as entidades públicas que integram o universo das administrações públicas em contas nacionais devem informar o departamento do Governo Regional com a tutela das finanças, do recrutamento, mobilidade e cessação de funções de trabalhadores, e da despesa com pessoal.
