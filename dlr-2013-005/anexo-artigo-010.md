@@ -1,7 +1,3 @@
-## Capítulo III
-## Órgãos, competências e funcionamento
-## Secção I
-## Conselho diretivo
 ## Secção II
 ## Fiscal único
 # Artigo 10º
