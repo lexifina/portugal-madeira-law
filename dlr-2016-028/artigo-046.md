@@ -3,8 +3,8 @@
 # Artigo 46.º
 ### Limites do contrato
 1 - Os contratos a termo resolutivo têm como duração mínima 30 dias e máxima um ano escolar, incluindo o período de férias.
-2 - Os contratos a termo resolutivo sucessivos celebrados com o departamento do Governo Regional responsável pela educação, em horário anual e completo, independentemente do grupo de recrutamento, não podem exceder o limite de 5 anos.
-3 - A verificação do limite indicado no número anterior, determina a abertura de vaga no quadro de zona pedagógica em que se insere a escola onde o docente se encontrava a exercer funções no ano escolar anterior a que diz respeito o concurso.
+2 - Os contratos a termo resolutivo sucessivos celebrados com o departamento do Governo Regional responsável pela educação, em horário anual e completo, não podem exceder o limite de três anos, independentemente do grupo de recrutamento.
+3 - A verificação do limite referido no número anterior implica a abertura de vaga no quadro de zona pedagógica correspondente à escola onde o docente exerceu funções no ano escolar anterior ao do concurso, ou, tratando-se da Escola Básica e Secundária com Pré-Escolar e Creche Professor Dr. Francisco de Freitas Branco, no respetivo quadro de escola.
 4 - Para efeitos do disposto no número anterior, só releva o tempo de serviço prestado em estabelecimentos de educação ou ensino da rede pública da Região Autónoma da Madeira, em grupo de recrutamento, com habilitação profissional e componente letiva.
 5 - O contrato destinado à lecionação dos módulos de uma disciplina de natureza profissional, tecnológica, vocacional ou artística dos ensinos básico e secundário vigora apenas pelo período de duração do serviço letivo distribuído e dos respetivos procedimentos de avaliação.
 6 - Ao contrato referido no número anterior aplica-se o disposto no artigo 72.º do Estatuto, incluindo as atividades administrativas inerentes à avaliação, a prestação de serviço especializado em estruturas de apoio educativo no âmbito da respetiva escola, integrada na componente não letiva.
@@ -13,3 +13,4 @@
 9 - Após o decurso do prazo referido nos n.os 7 ou 8, o contrato para substituição temporária mantém-se ainda em vigor pelo número de dias necessários para assegurar o gozo da totalidade dos dias de férias a que o docente tenha direito, tendo como limite o final do ano escolar.
 10 - Quando, cessando a colocação do docente, ocorra uma contratação subsequente que impossibilite o gozo de férias na forma prevista no número anterior, gozará a totalidade dos dias de férias, correspondentes aos sucessivos contratos a termo celebrados, no fim do último contrato.
 11 - Para efeitos do previsto nos números anteriores, a cessação do contrato é comunicada à direção regional responsável pela área da administração e gestão das organizações escolares, pelo órgão de gestão das escolas.
+12 - O disposto nos n.os 7 e 8 é apenas aplicável se o docente de substituição se encontrar em exercício efetivo de funções letivas, sendo que, caso o docente de substituição não cumpra tal requisito, o prazo previsto no n.º 9 é contabilizado a partir do dia do regresso do docente substituído.

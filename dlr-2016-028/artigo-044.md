@@ -10,4 +10,5 @@
 8 - As ofertas públicas de emprego são publicitadas na página eletrónica da direção regional responsável pela área da administração e gestão das organizações escolares e, nas situações referidas na parte final do n.º 3, na página eletrónica da respetiva escola ou serviço, pelo prazo de três dias úteis a contar do dia seguinte à respetiva publicação.
 9 - Considerando a urgência do procedimento, não há lugar à publicação prévia de listas de candidatos admitidos e excluídos, nem audiência de interessados.
 10 - Da colocação pode ser interposto recurso hierárquico, sem efeito suspensivo, a apresentar no prazo de cinco dias úteis ao membro do Governo Regional competente.
-11 - Em matéria de aceitação de colocação e de apresentação é aplicável o disposto no n.º 6 do artigo 9.º e nos n.os 10 a 14 do artigo 43.º
+11 - Em matéria de aceitação e de apresentação é aplicável o disposto nos n.os 10 a 12 do artigo 43.º
+12 - Apenas há lugar à constituição de júri nos casos previstos no n.º 6 ou quando não seja possível aplicar os critérios de graduação profissional e de desempate previstos no presente diploma.

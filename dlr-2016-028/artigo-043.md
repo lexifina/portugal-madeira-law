@@ -1,6 +1,6 @@
 # Artigo 43.º
 ### Reserva de recrutamento
-1 - Os docentes de carreira de zona pedagógica a quem não é possível atribuir pelo menos 6 horas de componente letiva e os candidatos à contratação inicial, integram a reserva de recrutamento, com vista à satisfação de necessidades transitórias, em horários temporários surgidos após a contratação inicial.
+1 - Os docentes de carreira de zona pedagógica a quem não é possível atribuir pelo menos oito horas de componente letiva no respetivo grupo de recrutamento e os candidatos à contratação inicial integram a reserva de recrutamento, com vista à satisfação de necessidades transitórias, em horários temporários surgidos após a contratação inicial.
 2 - Os candidatos são colocados respeitando as alíneas b), d) e e) do artigo 30.º e a ordenação das suas preferências manifestadas nos termos do presente diploma, procedendo-se à atualização da lista de candidatos não colocados.
 3 - Os candidatos à contratação inicial, quando colocados, são retirados da reserva de recrutamento.
 4 - No âmbito da reserva de recrutamento os docentes de zona pedagógica podem ser colocados em horários completos e incompletos, de duração igual ou inferior a um ano escolar, até ao final do correspondente ano letivo.

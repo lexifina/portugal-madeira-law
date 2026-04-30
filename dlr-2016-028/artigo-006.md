@@ -4,7 +4,7 @@
 ### Abertura dos concursos
 1 - Sem prejuízo do disposto no número seguinte, a abertura dos concursos de seleção e recrutamento de pessoal docente obedece à seguinte periodicidade:
 a) Anual para o concurso externo, salvo na ausência de docentes que reúnam as condições referidas no n.º 2 do artigo 46.º;
-b) Quadrienal para o concurso interno, exceto se houver a necessidade de se proceder a um reajustamento na vinculação de docentes às escolas e aos quadros de zona pedagógica, caso em que, por despacho do membro do Governo Regional responsável pela área da educação, poderá ser aberto um concurso interno extraordinário;
+b) Quadrienal para o concurso interno, podendo assumir diferente periodicidade sempre que seja necessário proceder a um reajustamento na vinculação de docentes às escolas e aos quadros de zona pedagógica, caso em que, por despacho do membro do Governo Regional responsável pela área da educação, poderá ser aberto um concurso interno extraordinário;
 c) Com vista ao reajustamento dos grupos de recrutamento de vínculo, poderá ser desencadeado um procedimento especial de transição de grupo de recrutamento, a definir por portaria do membro do Governo Regional responsável pela área da educação, mediada a participação das organizações sindicais, devendo-se, para esse efeito, salvaguardar o princípio da graduação profissional.
 2 - Para efeitos de preenchimento dos horários que surjam, em resultado da variação de necessidades temporárias, são abertos anualmente os seguintes concursos:
 a) Concurso de afetação;
