@@ -45,5 +45,6 @@ oo) [Revogada.]
 pp) [Revogada.]
 qq) [Revogada.]
 rr) [Revogada.]
-ss) Promover e atribuir incentivos e compensações financeiras na sua área de atuação.
+ss) Promover e atribuir incentivos e compensações financeiras na sua área de atuação;
+tt) Assegurar o cumprimento da gestão dos registos nacionais dos veículos, na RAM.
 2 - Incumbe especialmente ao IMT, IP-RAM exercer, na RAM, as atribuições e competências legais conferidas ao Instituto da Mobilidade e dos Transportes (IMT, IP), à Autoridade Nacional de Segurança Rodoviária (ANSR) e à Autoridade da Mobilidade e dos Transportes (AMT), cujo exercício esteja limitado ao território continental, assim como as demais atribuições e competências que lhe venham a ser atribuídas.
