@@ -1,0 +1,3269 @@
+{
+ "country": "PT-30",
+ "acts": [
+  {
+   "slug": "estatuto",
+   "short": "Estatuto (Madeira)",
+   "title": "Lei n.º 130/99: Estatuto Político-Administrativo da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-34496275",
+   "versions": [
+    {
+     "from": "1999-09-05",
+     "units": 227,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-34496275?data=1999-09-05",
+     "sha256": "51c3af95072c7718eea0841bc5e2210f3fdc049a72e656be0bb27df6cee73a66"
+    },
+    {
+     "from": "2000-06-26",
+     "units": 228,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-34496275?data=2000-06-26",
+     "sha256": "949c128c1d6265ad22625bceb68875042ddb4620c7f87c1c01a7d892b41c9601"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1984-001",
+   "short": "DLR 1/84/M",
+   "title": "Decreto Legislativo Regional n.º 1/84/M: Normas sobre o controle público da riqueza dos titulares de cargos políticos da Região",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1984-889973562",
+   "versions": [
+    {
+     "from": "1984-03-31",
+     "units": 6,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1984-889973562?data=1984-03-31",
+     "sha256": "aa5fd7b70fe99c5e5e3c94ce43d2ad890492ea7ade19f600e1cde24759f46de2"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1985-021",
+   "short": "DLR 21/85/M",
+   "title": "Decreto Legislativo Regional n.º 21/85/M: Fixa os valores das classes de alvará na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1985-892251358",
+   "versions": [
+    {
+     "from": "1985-11-30",
+     "units": 5,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1985-892251358?data=1985-11-30",
+     "sha256": "e02ec80e3df9fba50f134c6b4b5529408a9fada94bd64ce83ae91a078aaea7ef"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1989-024",
+   "short": "DLR 24/89/M",
+   "title": "Decreto Legislativo Regional n.º 24/89/M: Estrutura orgânica da Assembleia Legislativa Regional da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281",
+   "versions": [
+    {
+     "from": "1989-09-08",
+     "units": 65,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=1989-09-08",
+     "sha256": "b4d83866f7b54b1bb7ee672a60807123a3f0620c0b06d4d774148b45807e91b0"
+    },
+    {
+     "from": "1993-02-21",
+     "units": 73,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=1993-02-21",
+     "sha256": "e007f1ba1f68e27724e23475d47647a7bf9883290e8b9f406584f18482999b65"
+    },
+    {
+     "from": "2005-08-06",
+     "units": 92,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=2005-08-06",
+     "sha256": "7782454c58eb5ce9a992704450cc4c70a368176d84955206855f862e63a2c58f"
+    },
+    {
+     "from": "2012-08-14",
+     "units": 83,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=2012-08-14",
+     "sha256": "2464d090fc9bcaf93c08a6bd00f7892d71d7700f8e83ecf2d8b32d12840f654f"
+    },
+    {
+     "from": "2012-10-12",
+     "units": 83,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=2012-10-12",
+     "sha256": "2464d090fc9bcaf93c08a6bd00f7892d71d7700f8e83ecf2d8b32d12840f654f"
+    },
+    {
+     "from": "2014-08-21",
+     "units": 83,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=2014-08-21",
+     "sha256": "ad110449a046df3ce6b417b0b9348b3aa708d34f9598744c8e7c4e9388bc1ea9"
+    },
+    {
+     "from": "2015-01-27",
+     "units": 83,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=2015-01-27",
+     "sha256": "2f407d3529f8f3681d5b036b139a131d40c783c5926f9ff731fee5628b3f1bad"
+    },
+    {
+     "from": "2017-05-24",
+     "units": 85,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=2017-05-24",
+     "sha256": "aa518fc198f858b85cfc772ca9f37d0da93a63f8fd6e9cd183424ae4caea12d6"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 85,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=2020-02-01",
+     "sha256": "e9183545d089ac7cdc8ebf3716799cef8ebefacdd6112ba3c529b159485a1f87"
+    },
+    {
+     "from": "2023-02-16",
+     "units": 85,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=2023-02-16",
+     "sha256": "dd2400b5df98a3928a1a33d66521235c6c813aee6431b3966cf669f9cbbed814"
+    },
+    {
+     "from": "2023-08-03",
+     "units": 86,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281?data=2023-08-03",
+     "sha256": "5f7533e7b450336802433106192ba98495fb814b76623d4a22b8fcbd64adaa49"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1990-004",
+   "short": "DLR 4/90/M",
+   "title": "Decreto Legislativo Regional n.º 4/90/M: Cria o subsídio de insularidade ao funcionalismo público da Região Autónoma da Madeira e estabelece o seu regime",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1990-873920268",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1990-873920268?data=2024-07-30",
+     "sha256": "851a9022ffc30737e1b2b608e8eb1d5a584af0003ee75df0464a3f8678f975be"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1990-873920268?data=2025-07-03",
+     "sha256": "fb335c34b2f3605aca25cfcabfd7ffd35c3b964726bd68bf73a8d7b2a91b76fa"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1992-002",
+   "short": "DLR 2/92/M",
+   "title": "Decreto Legislativo Regional n.º 2/92/M: Subsídio de insularidade a atribuir aos trabalhadores em funções públicas a exercer funções na ilha do Porto Santo",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1992-993782323",
+   "versions": [
+    {
+     "from": "2012-03-16",
+     "units": 4,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1992-993782323?data=2012-03-16",
+     "sha256": "bd39c679ab5f632bf49eb70e430859553d223b66710b83967703049d4d01807a"
+    },
+    {
+     "from": "2015-12-31",
+     "units": 4,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1992-993782323?data=2015-12-31",
+     "sha256": "0b64dc0437f4fb3a52ea690e9e2a72cc58dd48a01877669a776e3d0cf7dac3dc"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 4,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1992-993782323?data=2025-12-31",
+     "sha256": "4b8843d4fb482d53632cdfaccb3e905ee0aec46e83754a762f5b0ba095ea8eb0"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1994-011",
+   "short": "DLR 11/94/M",
+   "title": "Decreto Legislativo Regional n.º 11/94/M: Aprova o Orçamento da Região Autónoma da Madeira para 1994",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1994-159296032",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "units": 41,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1994-159296032?data=2021-05-01",
+     "sha256": "24cc04f07ebf535027eba616b388bb966e7b9c707ba9f43e3eb34db60373082a"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1994-022",
+   "short": "DLR 22/94/M",
+   "title": "Decreto Legislativo Regional n.º 22/94/M: Regime jurídico do trabalho portuário",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1994-75398540",
+   "versions": [
+    {
+     "from": "1994-09-14",
+     "units": 7,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1994-75398540?data=1994-09-14",
+     "sha256": "447dad2f9ab0dc719690c9efc1b87e4d475baa2fef75d8dded86c0850a79fc58"
+    },
+    {
+     "from": "2013-07-16",
+     "units": 7,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1994-75398540?data=2013-07-16",
+     "sha256": "3a7577a9253b737dd084893d2d062c70da0949bf6bc0f45bd7f4759ae2a40df0"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1996-023",
+   "short": "DLR 23/96/M",
+   "title": "Decreto Legislativo Regional n.º 23/96/M: Acompanhamento e apreciação pela Assembleia Legislativa Regional da Madeira do processo de construção da União Europeia",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1996-107477164",
+   "versions": [
+    {
+     "from": "1996-09-07",
+     "units": 6,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1996-107477164?data=1996-09-07",
+     "sha256": "20e9eb231928517d07864f9a6d5ba32f888c67e76d9f914a303b15a1548116cb"
+    },
+    {
+     "from": "2017-06-07",
+     "units": 6,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1996-107477164?data=2017-06-07",
+     "sha256": "547f8d15b91e629d6f849deb3def1acee58b9034a315104c7d7fe79089cd6322"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1998-003",
+   "short": "DLR 3/98/M",
+   "title": "Decreto Legislativo Regional n.º 3/98/M: Cria o Conselho Regional de Educação e Formação Profissional",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1998-107796808",
+   "versions": [
+    {
+     "from": "1998-04-02",
+     "units": 12,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1998-107796808?data=1998-04-02",
+     "sha256": "400823ec7a14a59177dd19cd41535e1ed9c70fd30e199fcaf5e2c81c1362d9e1"
+    },
+    {
+     "from": "2002-11-17",
+     "units": 12,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1998-107796808?data=2002-11-17",
+     "sha256": "55086b3d4fcb39dff34ba6c1bc63e745cf759da604ec4755d261ae2b177f17f0"
+    },
+    {
+     "from": "2017-08-02",
+     "units": 12,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1998-107796808?data=2017-08-02",
+     "sha256": "7a6e43e864fb40bacdfc390837153f192174cab088962ca73f6fb5f67aeb6339"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-1999-023",
+   "short": "DLR 23/99/M",
+   "title": "Decreto Legislativo Regional n.º 23/99/M: Adaptação do regime geral de estruturação de carreiras da Administração Pública às categorias específicas da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1999-935752346",
+   "versions": [
+    {
+     "from": "1999-08-27",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1999-935752346?data=1999-08-27",
+     "sha256": "8aca9c36e4498cf0acea1fafc6c5a4c74c1114c6a325277e17c8a1d28dc1a670"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2000-005",
+   "short": "DLR 5/2000/M",
+   "title": "Decreto Legislativo Regional n.º 5/2000/M: Regime de deduções à colecta relativa aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos de IRS",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2000-957617998",
+   "versions": [
+    {
+     "from": "2000-03-14",
+     "units": 12,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2000-957617998?data=2000-03-14",
+     "sha256": "7f7ed223397815e8f9301e555020d1d4d66ff9e0485a3d098febef52499bb4dd"
+    },
+    {
+     "from": "2001-05-11",
+     "units": 12,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2000-957617998?data=2001-05-11",
+     "sha256": "b3dc1603e7d484dc2dd5879b2f95aa672691153bfc29c25b9795350b2d956b0c"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2001-002",
+   "short": "DLR 2/2001/M",
+   "title": "Decreto Legislativo Regional n.º 2/2001/M: Regime de redução da taxa geral do imposto sobre o rendimento das pessoas colectivas (IRC), para vigorar na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534",
+   "versions": [
+    {
+     "from": "2001-03-07",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2001-03-07",
+     "sha256": "07653953a46c8e7da068d46e008f0a0435b9f6354560153ff2f134b1d41d4e6b"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2002-01-01",
+     "sha256": "23541ec191d26dd5ff046e723f827384226ee1a4af3a130aca066039c9ff58ad"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2004-01-01",
+     "sha256": "21c8c44120f08a37fb3d505d0e88a0fa48eccbba857cf9c70216de7d7fc358a8"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2006-01-01",
+     "sha256": "5108c9a31912b7321a6f8de8b0db573e17b6231cc066028937ab825147451415"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2007-01-01",
+     "sha256": "5108c9a31912b7321a6f8de8b0db573e17b6231cc066028937ab825147451415"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2009-01-01",
+     "sha256": "107d3dd0a3c40623b8eb1a268731d3892d0c9e0efdb1fe8b7f02c3c28872a199"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2010-01-01",
+     "sha256": "d7736c52fddeb7b91857eac19987301297adec3f655d8cff00d3b6f26c0f0d34"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2012-01-01",
+     "sha256": "b2e75e55918c65dfcab5cc871f3fced61fee2b16e73999b3dba404d0fd10cad3"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2014-01-01",
+     "sha256": "00009e283637a25a2a2463dc885fd85df31e514ae31fadc67c52452f800c5e96"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2015-01-01",
+     "sha256": "63a1879bc169fe3394fa017170f9aa89e40e483d8b7f9de1ffc0eb7628d14b94"
+    },
+    {
+     "from": "2018-01-10",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2018-01-10",
+     "sha256": "0cfab79e0254badd127514fb6a146231dc49ba82bf7537473a936ece11ff8352"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2019-01-01",
+     "sha256": "301572632007f9cc717fc312fa4a50c9c9e06c942131e359cbb8f101b6f67e83"
+    },
+    {
+     "from": "2020-08-11",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2020-08-11",
+     "sha256": "7c74c26f10d54910c03c0baadda55c12d81798e3c3a0bab4584fcadf251589d5"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2021-01-01",
+     "sha256": "b17cc1a317cc82d5c351fd14cb6da405a517d4a9ade42cf4ca878dc41cb40f25"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2022-12-30",
+     "sha256": "b9464087df8b9d14173c3c1eb325e88c53aaedbb13dacc308f037aefaf9511ae"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2024-07-30",
+     "sha256": "0780562a921b19fa8a2b6f8663ffbfa964d88cdca9d99711697d07ed40ae25eb"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2025-07-03",
+     "sha256": "ba09661b23ec8646974f9b00101186b31bf3b88d82d0850d3a136bdfaca7df1e"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534?data=2025-12-31",
+     "sha256": "62a7b40e4579f7bb85d9c2d23b8ab5fc431505d8c34edbcc971f35a42965b5e6"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2001-003",
+   "short": "DLR 3/2001/M",
+   "title": "Decreto Legislativo Regional n.º 3/2001/M: Regime de redução das taxas do imposto sobre o rendimento das pessoas singulares (IRS), aplicável aos residentes na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760",
+   "versions": [
+    {
+     "from": "2001-03-09",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2001-03-09",
+     "sha256": "0646a1f496b8453ead05e0152dfe40134fb4f0be2b9905c1b05ba2f04d2f1889"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2002-01-01",
+     "sha256": "e62b88754e00995377f76e59cbe69f44d4e1991a7d9d95530bb4b8458c33e55b"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2004-01-01",
+     "sha256": "3ee0169a9c45dbca39408b9659ec0c2bb3b81b5603329089e8b430c8da87cd5b"
+    },
+    {
+     "from": "2005-02-19",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2005-02-19",
+     "sha256": "d31ec92d3dcdab9cfd896142cbf24d89b171f1db56b27ff845da4f52251d3cd6"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2006-01-01",
+     "sha256": "fd66ad3ace1c8ebc64761127082cd13f2a7d126fda210d8336561adb536c46e6"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2007-01-01",
+     "sha256": "fd66ad3ace1c8ebc64761127082cd13f2a7d126fda210d8336561adb536c46e6"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2009-01-01",
+     "sha256": "78a1c348a8a7436a0fb96981363516f4366b7918a234a7ace4282d08e5d1481b"
+    },
+    {
+     "from": "2010-05-27",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2010-05-27",
+     "sha256": "e0edffec46380332e89c42d8f4565fb81e00a892af3e001de09fd9322c16504c"
+    },
+    {
+     "from": "2010-08-06",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2010-08-06",
+     "sha256": "9335b5ce98003621de17d548fce0617e9e2314e22ed3881e778d24949676807d"
+    },
+    {
+     "from": "2011-01-11",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2011-01-11",
+     "sha256": "3289a7166b7060b0ce1974ef6f1f3f06d60fcb92d532b067385bddc6f8985c33"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2012-01-01",
+     "sha256": "d7821e75aa3adc3d54d569533603ed587947c5c102630b7a28053eaa87f19928"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2013-01-01",
+     "sha256": "31a6418c7a20f7890642a3827ad7a2391b23220f3dfd3bdba0440ad5ddbcc3cd"
+    },
+    {
+     "from": "2015-12-31",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2015-12-31",
+     "sha256": "5efba680ef0909784f1e5d227d762ea847fa298b87cde092d2ee34e725a7074c"
+    },
+    {
+     "from": "2016-07-21",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2016-07-21",
+     "sha256": "79208ef259cb8ad28dfd13254e768784b9acbea4a92ecff35dd6c29d3cda26b6"
+    },
+    {
+     "from": "2016-12-31",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2016-12-31",
+     "sha256": "1fd94e208578e61305ef2be7a0ac8d167e6f633176b4300184d1fa2a860fb796"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2022-12-30",
+     "sha256": "4977997e2bcb1c3da74f45aa6af3651b593b75158da1fa092a0f19aee33cf2fd"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2024-07-30",
+     "sha256": "61a9adfae2910cc7a60e4eedc7b8b93732b69fc69ad351781b3bc53c2a6a4823"
+    },
+    {
+     "from": "2024-10-24",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2024-10-24",
+     "sha256": "1ccb6e765efea1acbd96c35d257d22f9c4ebf8ba782bc5a46277a9fbe8bc8ae1"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2025-07-03",
+     "sha256": "1235b4349aaad1761f974f33d8df0d0982fac559c69fd4f7fa8b257c1a5a9ed3"
+    },
+    {
+     "from": "2025-07-29",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2025-07-29",
+     "sha256": "225c960b64b5a0ac6daab77dcbd4f4d606c79660c23ef00d78c03432cdddb236"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-176886760?data=2025-12-31",
+     "sha256": "6a52d9396115237f8a6163caf066ceb5b8301c70ffb7df98b5aa362cab799b08"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2001-014",
+   "short": "DLR 14/2001/M",
+   "title": "Decreto Legislativo Regional n.º 14/2001/M: Alteração ao regime de deduções à colecta relativa aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos de IRS",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-957618011",
+   "versions": [
+    {
+     "from": "2001-05-11",
+     "units": 4,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-957618011?data=2001-05-11",
+     "sha256": "38c2ad96eee4d67f1d5d4227f63b0e724adb56c18e0f55f24b1064b0fd93591c"
+    },
+    {
+     "from": "2001-06-30",
+     "units": 4,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-957618011?data=2001-06-30",
+     "sha256": "38c2ad96eee4d67f1d5d4227f63b0e724adb56c18e0f55f24b1064b0fd93591c"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2001-028",
+   "short": "DLR 28/2001/M",
+   "title": "Decreto Legislativo Regional n.º 28/2001/M: Cria a Madeira Parques Empresariais, Sociedade Gestora, S. A",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-115929384",
+   "versions": [
+    {
+     "from": "2001-08-29",
+     "units": 95,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-115929384?data=2001-08-29",
+     "sha256": "3e693e3dfacb06a52f0837a73404de1f920febd0f2d9b4f55698b2999615f384"
+    },
+    {
+     "from": "2002-07-22",
+     "units": 95,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-115929384?data=2002-07-22",
+     "sha256": "efa786dc384163029b7736670c3ecad78daf6a9166f2b63d85a2d590a87a62e8"
+    },
+    {
+     "from": "2015-08-14",
+     "units": 96,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-115929384?data=2015-08-14",
+     "sha256": "64dd36736572ec9663f931a2cbc2d20ca19b8b27c1cbafeb32e2e91c60651ab8"
+    },
+    {
+     "from": "2018-08-07",
+     "units": 94,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-115929384?data=2018-08-07",
+     "sha256": "141ae7b5dcddf0c956cff2e93fd5df7d6d741b8fc18324e4a99b312d65441d8c"
+    },
+    {
+     "from": "2020-08-11",
+     "units": 94,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-115929384?data=2020-08-11",
+     "sha256": "d652cae41e6b5e1ee9f6b3b9c88a5bba1447920da4cb9cfe86fe6d29cd060e8a"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2003-004",
+   "short": "DLR 4/2003/M",
+   "title": "Decreto Legislativo Regional n.º 4/2003/M: Estatuto do Sistema Regional de Saúde da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-885585350",
+   "versions": [
+    {
+     "from": "2003-04-08",
+     "units": 27,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-885585350?data=2003-04-08",
+     "sha256": "dc5ee97bb2cf94d6edc22875cf16570f4451436dc5774d77e0c15ef3ed86e403"
+    },
+    {
+     "from": "2008-06-30",
+     "units": 27,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-885585350?data=2008-06-30",
+     "sha256": "129b78fd8b0f0c370cb2180e8cfdc9c74ac9a0bae4c4635e581539c03b42d86d"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2003-026",
+   "short": "DLR 26/2003/M",
+   "title": "Decreto Legislativo Regional n.º 26/2003/M: Regula a organização e o funcionamento do sistema de planeamento da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-139993975",
+   "versions": [
+    {
+     "from": "2003-08-24",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-139993975?data=2003-08-24",
+     "sha256": "94bcdf98f76ea44088b9cfa1e56a7ecdafd188406ac3c67363959f75b9ddc11a"
+    },
+    {
+     "from": "2011-02-23",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-139993975?data=2011-02-23",
+     "sha256": "e9840adde8779ea10dc36b09d68f1e1a7ac320e0234ea16956a2a5147a16362f"
+    },
+    {
+     "from": "2020-08-11",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-139993975?data=2020-08-11",
+     "sha256": "9d33ef27c15324fb9c60c7e4bd82092b70e07377f2877420feba6045bae3428a"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2004-005",
+   "short": "DLR 5/2004/M",
+   "title": "Decreto Legislativo Regional n.º 5/2004/M: Adaptação à administração regional autónoma da Madeira da Lei que estabelece o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-885235297",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 16,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-885235297?data=2004-05-01",
+     "sha256": "002661874faa5f30e04b91b579802bff1994fa352ae7668a216207b3b00476f0"
+    },
+    {
+     "from": "2006-07-15",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-885235297?data=2006-07-15",
+     "sha256": "b372c21f982e10ea5c7e037b4e473b1da8b7049932574d85d5f3052f453b41dc"
+    },
+    {
+     "from": "2016-07-07",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-885235297?data=2016-07-07",
+     "sha256": "4faa17404d2c33ebfc28611fca80eb936aba2380ece45e3a228bb1f6ba039673"
+    },
+    {
+     "from": "2016-08-24",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-885235297?data=2016-08-24",
+     "sha256": "4faa17404d2c33ebfc28611fca80eb936aba2380ece45e3a228bb1f6ba039673"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2004-027",
+   "short": "DLR 27/2004/M",
+   "title": "Decreto Legislativo Regional n.º 27/2004/M: Transforma o Instituto de Habitação da Região Autónoma da Madeira, criado pelo Decreto Legislativo Regional n.º 11/88/M, de 12 de Novembro, em entidade pública empresarial, que adopta a denominação IHM - Investimentos Habitacionais da Madeira, E. P. E",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-128824860",
+   "versions": [
+    {
+     "from": "2004-08-25",
+     "units": 43,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-128824860?data=2004-08-25",
+     "sha256": "c147e6c495e63a1064e71c8f63cee93fcd454bed68d7b4bdba7e5e298e923ec9"
+    },
+    {
+     "from": "2013-07-30",
+     "units": 43,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-128824860?data=2013-07-30",
+     "sha256": "fb673ea20c432171958ca56b73d3198fa84f72d45849aa4a7f9990644f0cc2ba"
+    },
+    {
+     "from": "2015-08-14",
+     "units": 44,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-128824860?data=2015-08-14",
+     "sha256": "da5b98b4784576169d1a498fd96b8d1a350fc279a3c9e2b4f0f7040bb9c5cd5d"
+    },
+    {
+     "from": "2016-12-31",
+     "units": 44,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-128824860?data=2016-12-31",
+     "sha256": "c6309f1fa73a932809b3359912c1edc9404474ce6e4f559de31715dd8c30f6b9"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 44,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-128824860?data=2020-02-01",
+     "sha256": "33d3a6623b26d3c72408b093d1d88724dd23bcbf126b398da112765f9a89fc45"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2006-014",
+   "short": "DLR 14/2006/M",
+   "title": "Decreto Legislativo Regional n.º 14/2006/M: Estabelece o regime jurídico de núcleo infantil na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-180863746",
+   "versions": [
+    {
+     "from": "2006-04-25",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-180863746?data=2006-04-25",
+     "sha256": "fe10a705e8b2b48a33e9379ab0d176f5f00e19889958ad22c20a819db2740624"
+    },
+    {
+     "from": "2022-03-23",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-180863746?data=2022-03-23",
+     "sha256": "8fb0dad8ce9c7e0bbb96485e456fad8ccced843efd932aefe372fed4126492df"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2006-028",
+   "short": "DLR 28/2006/M",
+   "title": "Decreto Legislativo Regional n.º 28/2006/M: Estatuto de pessoal, regime de carreira e suplementos dos funcionários da Direcção Regional dos Assuntos Fiscais e regulamenta o Fundo de Estabilização Tributário da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397",
+   "versions": [
+    {
+     "from": "2006-07-20",
+     "units": 63,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2006-07-20",
+     "sha256": "52a748af21f06996966eb4883a1359a4313fa3f5e5b970ec03286268d105d688"
+    },
+    {
+     "from": "2011-01-11",
+     "units": 64,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2011-01-11",
+     "sha256": "228921e7a1d8692e8269a723b888f398979c5bcb8d0e5ac4ce3e45cab463814d"
+    },
+    {
+     "from": "2012-03-31",
+     "units": 64,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2012-03-31",
+     "sha256": "7aaa8759822a143350b533ece5058706227927ae0ae2717d04cde46fd39be68b"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 65,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2013-01-01",
+     "sha256": "e3197a26a0c0f4892767ffd5f4f97f6e2bf827ab9a7f5e064d8f3516dc39f812"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 65,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2014-01-01",
+     "sha256": "b2f931b31ce23fbf0074c37f57738a49df25330c836419ea30d1c52a44f620ea"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 66,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2015-01-01",
+     "sha256": "f9c3f97823e516329c4a536d2cc9676f9be78643388ad6520360e23a103cf1ff"
+    },
+    {
+     "from": "2015-08-14",
+     "units": 66,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2015-08-14",
+     "sha256": "b253863b799a3d0eef1f3d2f7a1f8006b832d24267a6be1130b4acb10267c532"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 66,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2018-01-01",
+     "sha256": "b253863b799a3d0eef1f3d2f7a1f8006b832d24267a6be1130b4acb10267c532"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 66,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2020-02-01",
+     "sha256": "c7c099f9869714d032531d7f87e0c0768a62e968d3bf9903a76f9d59d51ef668"
+    },
+    {
+     "from": "2021-03-10",
+     "units": 42,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2021-03-10",
+     "sha256": "4940f05f00ed74a10a3dd37620bd0f91102ab0c3f58c426b701288124703cf09"
+    },
+    {
+     "from": "2022-12-31",
+     "units": 30,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2022-12-31",
+     "sha256": "df4fe9b6b9b371a76e071e6c2a11cceed832ffd3b89784dff3d3201db35b4daf"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 30,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-205689397?data=2024-07-30",
+     "sha256": "c7870bb2148712ef7117d2174a582ccc135d3f5a406c1998047ec1c2342e553c"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2006-033",
+   "short": "DLR 33/2006/M",
+   "title": "Decreto Legislativo Regional n.º 33/2006/M: Prorroga o prazo de vigência das medidas preventivas aplicáveis na zona de implantação do eixo viário entre a Fábrica do Linho Ribeirinha e a Vila do Nordeste, na ilha de São Miguel",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-145692278",
+   "versions": [
+    {
+     "from": "2006-08-18",
+     "units": 10,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-145692278?data=2006-08-18",
+     "sha256": "8869e6f71f138e835d40821959c8b5657fb0f44a442b581c7529cc1090ad9375"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2006-035",
+   "short": "DLR 35/2006/M",
+   "title": "Decreto Legislativo Regional n.º 35/2006/M: Adapta à Região Autónoma da Madeira o regime que regula a actividade de transporte de doentes",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-121276176",
+   "versions": [
+    {
+     "from": "2006-08-18",
+     "units": 15,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-121276176?data=2006-08-18",
+     "sha256": "0e50bdc1639f03edd4d84e16f37ee5434f37c611806677b85126864b09d9a3e6"
+    },
+    {
+     "from": "2012-07-07",
+     "units": 15,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-121276176?data=2012-07-07",
+     "sha256": "a5495f99415735a2b4b54b49262df16acd11ea73eddaf27d5189770a1a53b987"
+    },
+    {
+     "from": "2019-03-20",
+     "units": 15,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-121276176?data=2019-03-20",
+     "sha256": "45526b97276cf7ced49bda18293b72266b9c96e893fb2460aad05aa088d7c024"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2006-037",
+   "short": "DLR 37/2006/M",
+   "title": "Decreto Legislativo Regional n.º 37/2006/M: Adapta à Região Autónoma da Madeira o Regime Jurídico da Urbanização e da Edificação",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-885421351",
+   "versions": [
+    {
+     "from": "2006-08-19",
+     "units": 13,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-885421351?data=2006-08-19",
+     "sha256": "cda33cc546bc8e7522be82c33e66a16d133ee713e12d6ae4ccda5f824e4bcfbe"
+    },
+    {
+     "from": "2009-08-13",
+     "units": 15,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-885421351?data=2009-08-13",
+     "sha256": "fc1227610ee552aaab668bd4a29d70290298d4ee60226ef32db8cdb977792590"
+    },
+    {
+     "from": "2011-03-17",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-885421351?data=2011-03-17",
+     "sha256": "c825c81f4fee8a9b20be36d96ed07b26e71e6527015e1930ac6274099903116d"
+    },
+    {
+     "from": "2011-08-12",
+     "units": 19,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-885421351?data=2011-08-12",
+     "sha256": "e5326c550612de1d397e1b57c8c6b48696e28a3ffb3031863beb0668badca8e3"
+    },
+    {
+     "from": "2024-12-12",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-885421351?data=2024-12-12",
+     "sha256": "ade2ae9950a10da6aa88a3319c139e17ab01231356fe6dcadb07423b8f2e5358"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2007-009",
+   "short": "DLR 9/2007/M",
+   "title": "Decreto Legislativo Regional n.º 9/2007/M: Cria a rede de cuidados continuados integrados da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-885064440",
+   "versions": [
+    {
+     "from": "2007-03-20",
+     "units": 33,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-885064440?data=2007-03-20",
+     "sha256": "d0d0a244dca8757b829d396753e260a1d23c8880551a34f9ac8d95022ffd0d5b"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-885064440?data=2013-01-01",
+     "sha256": "cd32a773e2ddfea67d60f8449852f6b0be8e4bb2cd629a2a4d5527495295c5a5"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2007-017",
+   "short": "DLR 17/2007/M",
+   "title": "Decreto Legislativo Regional n.º 17/2007/M: Princípios e normas a que deve obedecer a organização da administração directa e indirecta da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-128477167",
+   "versions": [
+    {
+     "from": "2007-11-17",
+     "units": 40,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-128477167?data=2007-11-17",
+     "sha256": "2bb8187e7dd418e14f2418238413526e22ac0d738979c67ab8888aab2b635343"
+    },
+    {
+     "from": "2012-08-31",
+     "units": 42,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-128477167?data=2012-08-31",
+     "sha256": "8c4db5635eff59db297b4def2b29e9076bde34ecd608539d707c6cc58975917e"
+    },
+    {
+     "from": "2013-01-03",
+     "units": 42,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-128477167?data=2013-01-03",
+     "sha256": "f49f7403518aaba5b6c2d52c4e4840681a4a7eafa4ce377162ed9684f51469c9"
+    },
+    {
+     "from": "2016-12-31",
+     "units": 42,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-128477167?data=2016-12-31",
+     "sha256": "72e11e6ddb7aa45a7966426462e85cb0c6e28bfaf83e9a450845ee258de53a4d"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 42,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-128477167?data=2024-07-30",
+     "sha256": "810650834d9b73bd958befd0f652cc67d1a88436aabfc2e9183db2898a39614d"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2007-018",
+   "short": "DLR 18/2007/M",
+   "title": "Decreto Legislativo Regional n.º 18/2007/M: Cria o Instituto de Desenvolvimento Regional",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-139994007",
+   "versions": [
+    {
+     "from": "2007-11-13",
+     "units": 23,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-139994007?data=2007-11-13",
+     "sha256": "54f6fada30ac44c1d6aab492cbd7af4aa1389ac16bb7b658195cf55b2a970be3"
+    },
+    {
+     "from": "2012-12-14",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-139994007?data=2012-12-14",
+     "sha256": "69aaf123f2782abe1227d4916e65249e1be7d2b09e51cc3b53a3836df116adee"
+    },
+    {
+     "from": "2020-08-11",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-139994007?data=2020-08-11",
+     "sha256": "6e9cbbb059bcc3e92066364d18e419c32fee74474906f1141b86243d1df75462"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2008-006",
+   "short": "DLR 6/2008/M",
+   "title": "Decreto Legislativo Regional n.º 6/2008/M: Estatuto da Carreira Docente da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626",
+   "versions": [
+    {
+     "from": "2008-03-01",
+     "units": 112,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626?data=2008-03-01",
+     "sha256": "f4d2a2d62ec088ef090740d202219ec36c31301f4e6e6cd53a0b50798bcb46dc"
+    },
+    {
+     "from": "2008-03-01",
+     "units": 112,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626?data=2008-03-01",
+     "sha256": "f4d2a2d62ec088ef090740d202219ec36c31301f4e6e6cd53a0b50798bcb46dc"
+    },
+    {
+     "from": "2010-08-19",
+     "units": 130,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626?data=2010-08-19",
+     "sha256": "ba60d7ef3ba64eafd6f6acd6f36e259746eeadb1fc31bceac753dbf907fd6d89"
+    },
+    {
+     "from": "2012-08-29",
+     "units": 130,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626?data=2012-08-29",
+     "sha256": "8db1eee4eb82136c52e0d8bc48e560a6a7db2a6dd8f37129d5a0e37a27d3f2f5"
+    },
+    {
+     "from": "2012-08-30",
+     "units": 121,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626?data=2012-08-30",
+     "sha256": "8db1eee4eb82136c52e0d8bc48e560a6a7db2a6dd8f37129d5a0e37a27d3f2f5"
+    },
+    {
+     "from": "2018-04-18",
+     "units": 121,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626?data=2018-04-18",
+     "sha256": "31cadc33a61b543502d76627703756d6cd9855c863c832cd20c04c6bcb8f1f44"
+    },
+    {
+     "from": "2023-07-27",
+     "units": 121,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626?data=2023-07-27",
+     "sha256": "3ddb73c0b729e06e94bf06b15ddc315314892aaf8a5ceb92ff95ffdf447f3017"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2008-022",
+   "short": "DLR 22/2008/M",
+   "title": "Decreto Legislativo Regional n.º 22/2008/M: Cria o Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, e aprova a respectiva orgânica",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-148707524",
+   "versions": [
+    {
+     "from": "2008-06-28",
+     "units": 22,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-148707524?data=2008-06-28",
+     "sha256": "0f94ec03c6618c8e674cceaea5e1dffbc5b0efdadda78ef50f44bf5a5f36f00d"
+    },
+    {
+     "from": "2011-04-28",
+     "units": 22,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-148707524?data=2011-04-28",
+     "sha256": "0ef9c8b9015c1ab11e39b1a9e1784507f6b1826899889349510d5dcc2b8b8f1c"
+    },
+    {
+     "from": "2012-07-10",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-148707524?data=2012-07-10",
+     "sha256": "92c68a3b9595e684f96901f77bd84819d69cd9c925e0c6861c20e820d26a748a"
+    },
+    {
+     "from": "2020-11-17",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-148707524?data=2020-11-17",
+     "sha256": "d550ec262117e77230091b8a9e1f9cae380f9f7d77bdb8a4b9abb01f18d4cfe9"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2008-023",
+   "short": "DLR 23/2008/M",
+   "title": "Decreto Legislativo Regional n.º 23/2008/M: Alteração dos diplomas que aprovam a orgânica do Serviço Regional de Saúde e o Estatuto do Sistema Regional de Saúde",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-169417640",
+   "versions": [
+    {
+     "from": "2013-06-04",
+     "units": 1,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-169417640?data=2013-06-04",
+     "sha256": "a85fd2b7089c78486c73e7abb693954b87ad3baeeea2afb5ea8c1ac4cf451fda"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2008-028",
+   "short": "DLR 28/2008/M",
+   "title": "Decreto Legislativo Regional n.º 28/2008/M: Estabelece o regime jurídico de protecção e de extracção e dragagem de materiais inertes da orla costeira na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-73929606",
+   "versions": [
+    {
+     "from": "2008-08-13",
+     "units": 30,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-73929606?data=2008-08-13",
+     "sha256": "9f37b196e8a06c35c2a981733040874b4872bb541da7e40310b33dfc3eb28b5f"
+    },
+    {
+     "from": "2013-04-17",
+     "units": 30,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-73929606?data=2013-04-17",
+     "sha256": "36267f5a4642ce7ca4df32b96b5aa51f2938046012cba7b7bca31b05bd11ec45"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 30,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-73929606?data=2026-10-30",
+     "sha256": "367819ae8e24c0870fff04e08cbef4a7d8bbb1d73982a857c3bc97b72aacdb13"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2008-034",
+   "short": "DLR 34/2008/M",
+   "title": "Decreto Legislativo Regional n.º 34/2008/M: Adapta à Região Autónoma da Madeira o Código dos Contratos Públicos",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2008-08-15",
+     "sha256": "0ff63002b3e119a22d19e815aa819bc9ed87079ef18a332fa14a42e60d54f357"
+    },
+    {
+     "from": "2008-08-15",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2008-08-15",
+     "sha256": "0ff63002b3e119a22d19e815aa819bc9ed87079ef18a332fa14a42e60d54f357"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2009-01-01",
+     "sha256": "1ca0d9d4d2e4fdde5b5b78ff4ca9a5db76190e547c68bf4461653635f527ae08"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2010-01-01",
+     "sha256": "e225852eedad20e26105805b4525b2a2f70e972d241b41b60e6ecc68f440d02d"
+    },
+    {
+     "from": "2011-01-11",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2011-01-11",
+     "sha256": "58668305fc676faa4eecbef4cb3e0cf0c370fee49e856b628fe655013b4e48ed"
+    },
+    {
+     "from": "2012-03-31",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2012-03-31",
+     "sha256": "9de8ec08deec136a8c9618189f68277a3e4ad88feff2237695a068e7ebd531aa"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2013-01-01",
+     "sha256": "10de8138526cd49f016a4d1695944fb51c8843f7615f3fb2cca39643561dfecb"
+    },
+    {
+     "from": "2013-08-07",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2013-08-07",
+     "sha256": "1c4fd41941c51737a5d57c65a4a9459d0c3ae0bb5a7bb0136bcc6886d0c60583"
+    },
+    {
+     "from": "2018-03-16",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2018-03-16",
+     "sha256": "b3974aab54910e123408fc4803c8ffbd7021ce28d1c94b3c6bc928bfd9f926bd"
+    },
+    {
+     "from": "2018-08-07",
+     "units": 19,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2018-08-07",
+     "sha256": "68572f0aa5a56925f2034a9874bf0a290d55dfe9f9b8e4767838f8de2abce786"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2020-02-01",
+     "sha256": "bc7393e674ee1827c7969b314fac46ae7e7e3420b062a6f59f6d00368f711a90"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2022-12-30",
+     "sha256": "ab12d50549373131d22ecb8040988e0bc6cdacc677a3472c41933f360b565014"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773?data=2025-12-31",
+     "sha256": "eb0099eb9c9d577ffe96904831b7ffdebff4073ffd552fa0e44208eb56b746f3"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2009-010",
+   "short": "DLR 10/2009/M",
+   "title": "Decreto Legislativo Regional n.º 10/2009/M: Estabelece o regime jurídico regional da actividade de transporte rodoviário de mercadorias",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-176886770",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-176886770?data=2009-03-31",
+     "sha256": "e71a370f3a1bdef18190a5f9a5df94f9849bcaf49ef023102631816e0db37bb8"
+    },
+    {
+     "from": "2012-12-28",
+     "units": 37,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-176886770?data=2012-12-28",
+     "sha256": "5b242d477db4820b6c31c398017d7c2a624cc3c714928fa9e593f752710dcd4d"
+    },
+    {
+     "from": "2021-12-31",
+     "units": 37,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-176886770?data=2021-12-31",
+     "sha256": "e855c64856d9ffc0698d44abcfaa447270be2fb35a496024ef6d5e5f99adc96e"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2009-012",
+   "short": "DLR 12/2009/M",
+   "title": "Decreto Legislativo Regional n.º 12/2009/M: Regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-107573630",
+   "versions": [
+    {
+     "from": "2009-05-07",
+     "units": 25,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-107573630?data=2009-05-07",
+     "sha256": "f3c337ba33791faf05875ea61d53c2aaecb0852f2e1615428cc67aed95ccc1cb"
+    },
+    {
+     "from": "2017-06-28",
+     "units": 24,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-107573630?data=2017-06-28",
+     "sha256": "530a98dd56ba8a9bc80fd6057f74ebda488d6161f3fcb659c51f96a595192bf7"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2009-016",
+   "short": "DLR 16/2009/M",
+   "title": "Decreto Legislativo Regional n.º 16/2009/M: Aprova o regime jurídico do Sistema de Protecção Civil da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-116126595",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 39,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-116126595?data=2009-07-01",
+     "sha256": "96d76fc790e906708540b8351ff4bdcaa858e15bfe74c9c7382e90309c3f2db5"
+    },
+    {
+     "from": "2018-08-21",
+     "units": 39,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-116126595?data=2018-08-21",
+     "sha256": "bd808a650621d4730e8bf3fd7353834856b23fff73678d0d3f02c8824fd08bc5"
+    },
+    {
+     "from": "2021-05-01",
+     "units": 39,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-116126595?data=2021-05-01",
+     "sha256": "833d5387442962d21d222ecc7a4e55faf74da90db4485fd2568aa7cc032c1212"
+    },
+    {
+     "from": "2023-08-04",
+     "units": 41,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-116126595?data=2023-08-04",
+     "sha256": "ff5c5f0f627685639177f2362e6c55e310d895da645411f1c555d8ccdcf7fe14"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2009-017",
+   "short": "DLR 17/2009/M",
+   "title": "Decreto Legislativo Regional n.º 17/2009/M: Cria o Serviço Regional de Protecção Civil, IP-RAM e aprova a respectiva orgânica",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-129073182",
+   "versions": [
+    {
+     "from": "2009-07-05",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-129073182?data=2009-07-05",
+     "sha256": "a870081e7b4265875dbc88fddff6347882e226da2bd7098f131268103907e56d"
+    },
+    {
+     "from": "2010-05-27",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-129073182?data=2010-05-27",
+     "sha256": "5e7db9b5be942164e50a64d3615ea4537190dbcd985830b5af442202248781df"
+    },
+    {
+     "from": "2013-03-26",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-129073182?data=2013-03-26",
+     "sha256": "dab8572d0ac05a52478512397aca4e906d76d648b34e0fd82feaee05bb0efcef"
+    },
+    {
+     "from": "2022-08-02",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-129073182?data=2022-08-02",
+     "sha256": "dd020392c918e18795f7c8011be04a03f902bd2c8e9de5eb1722019dea3aa6b9"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-129073182?data=2024-07-30",
+     "sha256": "cf591a650ec49b10863c0d25ba43732be2ab901f358c41eeea49b838bf51dc11"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2009-021",
+   "short": "DLR 21/2009/M",
+   "title": "Decreto Legislativo Regional n.º 21/2009/M: Adapta à Região Autónoma da Madeira o novo Código do Trabalho",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-114479973",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 14,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-114479973?data=2009-09-01",
+     "sha256": "134d5574db9ee59cb8646b24b0e9574d46865e8cf3537a8757b05eda892d3128"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 12,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-114479973?data=2013-01-01",
+     "sha256": "34889f805aec371727c27c09d51f1aad9869e2f30c03a5ffe392792f8b5ff81b"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2009-027",
+   "short": "DLR 27/2009/M",
+   "title": "Decreto Legislativo Regional n.º 27/2009/M: Sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-874069762",
+   "versions": [
+    {
+     "from": "2009-08-22",
+     "units": 82,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-874069762?data=2009-08-22",
+     "sha256": "f3d5ee802e29c15077aaa837b6fc5298ae8b03a1ba0fecb19e16316be85ccfb9"
+    },
+    {
+     "from": "2015-12-22",
+     "units": 83,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-874069762?data=2015-12-22",
+     "sha256": "776fb7748db10eaea3d1cf8cb772eb6988ecc6eb198510b321e33a33c19b07c1"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 83,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-874069762?data=2021-01-01",
+     "sha256": "96bb90d7e0f84ad7314113209b8bc4e272d9eefd92b69a46339b405ee1699992"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 83,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-874069762?data=2024-07-30",
+     "sha256": "a60fd912d676574ef973528e40ddb3f9264cf8286f11b16e0f3e8fd277582587"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 82,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-874069762?data=2025-01-01",
+     "sha256": "24f76c3e64149e95ca37f786bcbc6d5f3e5b3ef17c857524377f7a8f1e6077eb"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2009-028",
+   "short": "DLR 28/2009/M",
+   "title": "Decreto Legislativo Regional n.º 28/2009/M: Regime de exercício da actividade industrial na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-884703575",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 71,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-884703575?data=2009-09-30",
+     "sha256": "fb62db5d26dece0f0b1eedc37689a64462d18a5b002e880e3c84be59c190570a"
+    },
+    {
+     "from": "2013-03-20",
+     "units": 73,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-884703575?data=2013-03-20",
+     "sha256": "540fac2a795a66fc230468ce5f1374e986f9de520937e53dbc41f97014aa0b75"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2009-033",
+   "short": "DLR 33/2009/M",
+   "title": "Decreto Legislativo Regional n.º 33/2009/M: Estabelece o regime jurídico da educação especial, transição para a vida adulta e reabilitação das pessoas com deficiência ou incapacidade na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-177526754",
+   "versions": [
+    {
+     "from": "2010-01-05",
+     "units": 76,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-177526754?data=2010-01-05",
+     "sha256": "113608c301d3212e9d7b2563c7d064f790bf4819c9190a56572dcd3e6cf37948"
+    },
+    {
+     "from": "2020-07-30",
+     "units": 24,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-177526754?data=2020-07-30",
+     "sha256": "a0319d26f6764d86c68779c5d80c1a4a28870328b19eb00c7b1f535c5c07ca0c"
+    },
+    {
+     "from": "2022-01-14",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-177526754?data=2022-01-14",
+     "sha256": "dfff236b02529059e80d33a7157be37cd09ceb4e4a3d5391303801a911e036f9"
+    },
+    {
+     "from": "2022-08-18",
+     "units": 11,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-177526754?data=2022-08-18",
+     "sha256": "1bc792328bb0b7fdf79c4126d452c59cad6486cc550048b213127b44140e478c"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2010-011",
+   "short": "DLR 11/2010/M",
+   "title": "Decreto Legislativo Regional n.º 11/2010/M: Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 220/2008, de 12 de Novembro, que estabelece o regime jurídico da segurança contra incêndios em edifícios",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-157996124",
+   "versions": [
+    {
+     "from": "2010-06-26",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-157996124?data=2010-06-26",
+     "sha256": "eb0e1cfca4be1b483a082d1afdd3a6bb8ec4aa5882b986ec5d9494fc8d04ca0e"
+    },
+    {
+     "from": "2021-02-20",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-157996124?data=2021-02-20",
+     "sha256": "738fff17d990d6d404fa0217b2a6492830b8d5816bb942a01476e614eacf8b66"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2010-012",
+   "short": "DLR 12/2010/M",
+   "title": "Decreto Legislativo Regional n.º 12/2010/M: Estabelece o Estatuto do Gestor Público das Empresas Públicas da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166150544",
+   "versions": [
+    {
+     "from": "2010-08-10",
+     "units": 35,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166150544?data=2010-08-10",
+     "sha256": "3ca7513ef823effc7493c03fc9d67b604536d239d184b5aa142664afac37ea7e"
+    },
+    {
+     "from": "2011-01-11",
+     "units": 35,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166150544?data=2011-01-11",
+     "sha256": "3128307f69f76b9ba5bbd69ed6f373f34594e9203d03e5dd4c0b6e1e87f4eacc"
+    },
+    {
+     "from": "2014-02-01",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166150544?data=2014-02-01",
+     "sha256": "50ef875b9c501744eb7b95590b3a89c0e3d40b82c5fb65c0381852499ae0f048"
+    },
+    {
+     "from": "2015-08-14",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166150544?data=2015-08-14",
+     "sha256": "f38f2ad6cbd661b93fb7db38b797b3e04a82418e76dc4968865bbc13323dbb71"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166150544?data=2016-01-01",
+     "sha256": "f38f2ad6cbd661b93fb7db38b797b3e04a82418e76dc4968865bbc13323dbb71"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166150544?data=2021-07-01",
+     "sha256": "ccf103cd1fb7ed9124f6f94960b0a34bf54eec90dc9208c38f9e62a6ce98c6a2"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2010-014",
+   "short": "DLR 14/2010/M",
+   "title": "Decreto Legislativo Regional n.º 14/2010/M: Alteração ao Orçamento da Região Autónoma da Madeira para 2010",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-874339394",
+   "versions": [
+    {
+     "from": "2010-08-06",
+     "units": 19,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-874339394?data=2010-08-06",
+     "sha256": "062a5b64ad6817fd752e8c35c13631e93ec795aa218a7d43bf1ab9abb56b2e29"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-874339394?data=2025-07-03",
+     "sha256": "758ed99d6093123a1f3c22ec41c843fd2b762001c6689c43a09029161c298d4f"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2010-019",
+   "short": "DLR 19/2010/M",
+   "title": "Decreto Legislativo Regional n.º 19/2010/M: Aplicação à Região Autónoma da Madeira do regime que prevê a carreira especial de inspeção",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-107494027",
+   "versions": [
+    {
+     "from": "2010-08-20",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-107494027?data=2010-08-20",
+     "sha256": "c58a6f2884c10f5fe7a06f0dd422076b7e9f7cbddbdf4f15335ea8a071f46040"
+    },
+    {
+     "from": "2011-01-11",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-107494027?data=2011-01-11",
+     "sha256": "5e26f3c6c6bc648aee22b13a884ae9aeed291654c3d72c900a229b7b5eb24fd9"
+    },
+    {
+     "from": "2017-06-09",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-107494027?data=2017-06-09",
+     "sha256": "0ff3a3516cf25c525d32ba5c2ca610e11751d49d2b3488b6ad9ffef914e3197d"
+    },
+    {
+     "from": "2022-01-18",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-107494027?data=2022-01-18",
+     "sha256": "bc3be0aec697204fa6c291497b2e64b9752abe2993cc64fd72d6fb54644e58d6"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-107494027?data=2025-01-01",
+     "sha256": "c2c68724fe89d039160a49d5f249cf98571090d109ec095e03c00a6dc42160f1"
+    },
+    {
+     "from": "2025-08-02",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-107494027?data=2025-08-02",
+     "sha256": "dca88442b8f97d49e219440190b3e7f34640d8d059012851f6116a58a4ff4f70"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2010-020",
+   "short": "DLR 20/2010/M",
+   "title": "Decreto Legislativo Regional n.º 20/2010/M: Adapta à Região Autónoma da Madeira a Lei n.º 8/2009, de 18 de Fevereiro, criando o regime jurídico dos conselhos municipais de juventude para os municípios da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-114658277",
+   "versions": [
+    {
+     "from": "2010-08-25",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-114658277?data=2010-08-25",
+     "sha256": "bb2b893b7d3229d774c822dcd69ba9616480edd6c48a48d503bc1eee16cd33a0"
+    },
+    {
+     "from": "2018-02-09",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-114658277?data=2018-02-09",
+     "sha256": "4612d3711aa85cae3c311c038080df9f559de1a318feeec2f5050506ca58a54e"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2010-021",
+   "short": "DLR 21/2010/M",
+   "title": "Decreto Legislativo Regional n.º 21/2010/M: Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 241/2007, de 21 de Junho, alterado pela Lei n.º 48/2009, de 4 de Agosto, que define o regime jurídico aplicável aos bombeiros portugueses",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-73850020",
+   "versions": [
+    {
+     "from": "2010-08-25",
+     "units": 8,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-73850020?data=2010-08-25",
+     "sha256": "7af057be55326e0bc1eac9579d70137ee0a1d1ce18b831dab244c4a5cc70797f"
+    },
+    {
+     "from": "2016-03-11",
+     "units": 7,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-73850020?data=2016-03-11",
+     "sha256": "49132ef812d1413e42d7ad8f9c515638679b41b28287023d6cde190594aa58aa"
+    },
+    {
+     "from": "2018-11-23",
+     "units": 13,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-73850020?data=2018-11-23",
+     "sha256": "905e04c525f2bf55098710fe834e47a8d8add10e3b0dd749cb8c0203d5d280cd"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2010-022",
+   "short": "DLR 22/2010/M",
+   "title": "Decreto Legislativo Regional n.º 22/2010/M: O regime jurídico aplicável à constituição, organização, funcionamento e extinção dos corpos de bombeiros na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-74717268",
+   "versions": [
+    {
+     "from": "2010-08-25",
+     "units": 36,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-74717268?data=2010-08-25",
+     "sha256": "89a25c8f9db8aeb7f8ae19dde9f9015a7b20c81c810292121a4c06c47888facb"
+    },
+    {
+     "from": "2016-03-12",
+     "units": 34,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-74717268?data=2016-03-12",
+     "sha256": "cccdf0ef6efaaaab51acb2ff5432ec4f85ed669e1de03c988376eeaee6af5f15"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2011-001",
+   "short": "DLR 1/2011/M",
+   "title": "Decreto Legislativo Regional n.º 1/2011/M: Regula as atividades de produção, receção (incluindo transporte), armazenagem e distribuição e comercialização por grosso de ovos no território da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2011-105769713",
+   "versions": [
+    {
+     "from": "2011-01-11",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2011-105769713?data=2011-01-11",
+     "sha256": "c491adfdd34677a16e29d73c07b889d794dd409cf40d3c8c4382cc16e11414e6"
+    },
+    {
+     "from": "2017-01-17",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2011-105769713?data=2017-01-17",
+     "sha256": "bc4e42ad68d7d3d8fe05468bb02f0e028da0f685a5b7816e452ce5212641f3dd"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2011-021",
+   "short": "DLR 21/2011/M",
+   "title": "Decreto Legislativo Regional n.º 21/2011/M: Adaptação orgânica e funcional do diploma que procede à reforma da tributação do património à Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2011-920243031",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 6,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2011-920243031?data=2011-12-31",
+     "sha256": "adaff87af2fad2af10ba2b32b32786bd9c19e65b6be1a60cf73a83a6b928ac01"
+    },
+    {
+     "from": "2012-02-06",
+     "units": 6,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2011-920243031?data=2012-02-06",
+     "sha256": "adaff87af2fad2af10ba2b32b32786bd9c19e65b6be1a60cf73a83a6b928ac01"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2012-001",
+   "short": "DLR 1/2012/M",
+   "title": "Decreto Legislativo Regional n.º 1/2012/M: Revogação dos diplomas sobre subsídio de insularidade e complemento regional de 30 % nas ajudas de custo e alteração do subsídio de insularidade na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-873920209",
+   "versions": [
+    {
+     "from": "2012-03-16",
+     "units": 7,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-873920209?data=2012-03-16",
+     "sha256": "be29613638ba6f554901408d259c85deeb3628f35fc070f53e5f9c044276880a"
+    },
+    {
+     "from": "2015-12-31",
+     "units": 5,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-873920209?data=2015-12-31",
+     "sha256": "a455427d1d7e82084713f018e6f979cd309691b77915fd53f5d27f4cfe8c772b"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 5,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-873920209?data=2024-07-30",
+     "sha256": "d728c3b55ea7fa290b0b591d4fe4f997e0c42014feadb5c83abd7ce4dfe033cd"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 4,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-873920209?data=2025-12-31",
+     "sha256": "e9a94f176f9f81f1a5da903b684b39d36b09858ef8c971bfc915d4ea4b3a069e"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2012-007",
+   "short": "DLR 7/2012/M",
+   "title": "Decreto Legislativo Regional n.º 7/2012/M: Regime jurídico da gestão dos bens imóveis do domínio privado da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-107810207",
+   "versions": [
+    {
+     "from": "2012-04-21",
+     "units": 98,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-107810207?data=2012-04-21",
+     "sha256": "f62370ff6ab2d40421e83dd448cbb07c920d76006a6ad51febda0ad8e3a53a2a"
+    },
+    {
+     "from": "2017-08-04",
+     "units": 99,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-107810207?data=2017-08-04",
+     "sha256": "ddf705b5a55bd749d564522478f197b397998abf05a91c03b84a4cd10e7d147a"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2012-018",
+   "short": "DLR 18/2012/M",
+   "title": "Decreto Legislativo Regional n.º 18/2012/M: Estabelece as disposições relativas ao projeto, à construção e à exploração de redes e ramais de distribuição alimentados com gases combustíveis da 3.ª família",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-123993341",
+   "versions": [
+    {
+     "from": "2012-08-21",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-123993341?data=2012-08-21",
+     "sha256": "8104268342f0249cac4aed83971b04698a6b9175dcf12f461ab300b0985a3c4d"
+    },
+    {
+     "from": "2020-02-10",
+     "units": 19,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-123993341?data=2020-02-10",
+     "sha256": "55173ee9fe6a5d8745b47d73c9a9887fb8a87a84074c2c5d840771eb8bc24841"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2012-027",
+   "short": "DLR 27/2012/M",
+   "title": "Decreto Legislativo Regional n.º 27/2012/M: Aplica à administração regional autónoma da Madeira o regime de mobilidade especial entre os serviços dos trabalhadores da Administração Pública visando o seu aproveitamento racional, estabelecido pela Lei n.º 53/2006, de 7 de dezembro, e o regime geral de extinção, fusão e reestruturação de serviços públicos e de racionalização de efetivos, estabelecido pelo Decreto-Lei n.º 200/2006, de 25 de outubro",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-115886166",
+   "versions": [
+    {
+     "from": "2012-09-04",
+     "units": 12,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-115886166?data=2012-09-04",
+     "sha256": "a6fe3790528f6c79d42874d6471ab172041403636f5ae1baf1c8ab6673cdcd21"
+    },
+    {
+     "from": "2018-09-01",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-115886166?data=2018-09-01",
+     "sha256": "1231a21addbae31e827db81343cb629adef197a6e9390a558c9925b74e0a5868"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2012-028",
+   "short": "DLR 28/2012/M",
+   "title": "Decreto Legislativo Regional n.º 28/2012/M: Aprova normas para a proteção dos cidadãos e medidas para a redução da oferta de «drogas legais»",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-115917097",
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 22,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-115917097?data=2017-03-09",
+     "sha256": "4fe7dde6f097bf69ceb8f67373303cf0e5f17365abcb96823793e809b6c9f106"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2012-034",
+   "short": "DLR 34/2012/M",
+   "title": "Decreto Legislativo Regional n.º 34/2012/M: Orgânica do Instituto de Segurança Social da Madeira, IP-RAM",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-874306676",
+   "versions": [
+    {
+     "from": "2012-11-17",
+     "units": 35,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-874306676?data=2012-11-17",
+     "sha256": "e9988c38aacc72b39dacad186021c95d2d9c4e462daca0426d86b07d615b2dfb"
+    },
+    {
+     "from": "2015-08-14",
+     "units": 35,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-874306676?data=2015-08-14",
+     "sha256": "07c38c841ed776f4ec755e30c958acddccdb096a12b7a9eed9c98d3dc677aa8b"
+    },
+    {
+     "from": "2016-07-16",
+     "units": 37,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-874306676?data=2016-07-16",
+     "sha256": "bdb667a039fdcaf96a13efe88da4207dcab953e136db3ab6fdc44dcce06e3cb1"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-874306676?data=2019-01-01",
+     "sha256": "4179d38b3e0ddd29145cc9522ecab748b0b3f99dc501a85abd5cd0fe87c94bce"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-874306676?data=2024-07-30",
+     "sha256": "434b5f2321e7f7a31085882db419ed5cf2586c0b4a90b0c7590607323af9eb4a"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2013-005",
+   "short": "DLR 5/2013/M",
+   "title": "Decreto Legislativo Regional n.º 5/2013/M: Orgânica do Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-956874767",
+   "versions": [
+    {
+     "from": "2013-02-06",
+     "units": 14,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-956874767?data=2013-02-06",
+     "sha256": "328d20fc1a9913b155207a88bbe54c357cb54ab68c5c222b45e2a38560cec6e0"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 25,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-956874767?data=2025-12-31",
+     "sha256": "67dbd3cdd4b8c862bf9540b0cc89cb9782542d7831dd155eb7db8ca5dd37c176"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2013-009",
+   "short": "DLR 9/2013/M",
+   "title": "Decreto Legislativo Regional n.º 9/2013/M: Estabelece as regras de designação, competências e funcionamento das entidades que exercem o poder de autoridade de saúde na Administração Regional Autónoma da Madeira e adapta o regime jurídico da designação, competência e funcionamento das entidades que exercem o poder de autoridades de saúde",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-160874080",
+   "versions": [
+    {
+     "from": "2013-02-24",
+     "units": 11,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-160874080?data=2013-02-24",
+     "sha256": "2113159611363eab97ea8284901985204b8936f0fc2225bd1814c7c4e7ea0435"
+    },
+    {
+     "from": "2024-12-05",
+     "units": 16,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-160874080?data=2024-12-05",
+     "sha256": "e18b2d7945fda5fe3de8c4bdcd1aee07a48e529d6b78140f03e69b9a78ca5baa"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2013-017",
+   "short": "DLR 17/2013/M",
+   "title": "Decreto Legislativo Regional n.º 17/2013/M: Fixa o valor de remuneração do trabalho médico extraordinário no Serviço de Urgência",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-124151587",
+   "versions": [
+    {
+     "from": "2013-06-08",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-124151587?data=2013-06-08",
+     "sha256": "d0c89938842bc028f4eedd75b308d5fa347b0a2ff49b683eee5d17b8f94b65fd"
+    },
+    {
+     "from": "2019-08-23",
+     "units": 4,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-124151587?data=2019-08-23",
+     "sha256": "e2c5bbd81a6ea1af80a315621ea2b23a13bd9106bfb9148ce4a5f7764791e25c"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2013-021",
+   "short": "DLR 21/2013/M",
+   "title": "Decreto Legislativo Regional n.º 21/2013/M: Aprova o Estatuto do Aluno e Ética Escolar da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-205871812",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 60,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-205871812?data=2013-06-26",
+     "sha256": "466a948811c89bfeff2426213fbbffc1f6470e14e6674b9b48d75531be66eaad"
+    },
+    {
+     "from": "2023-01-10",
+     "units": 60,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-205871812?data=2023-01-10",
+     "sha256": "119f90be9d2cb4725eef8ca54fe1666dfee9813a4872f44b3866389b9ac92847"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2013-029",
+   "short": "DLR 29/2013/M",
+   "title": "Decreto Legislativo Regional n.º 29/2013/M: Regime legal da carreira especial dos trabalhadores afetos ao Corpo de Polícia Florestal da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-187201877",
+   "versions": [
+    {
+     "from": "2013-08-23",
+     "units": 34,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-187201877?data=2013-08-23",
+     "sha256": "8d8e7bd9995fe1b06e6397d4853f1056a94338a771701004ef84030cb264c700"
+    },
+    {
+     "from": "2018-01-10",
+     "units": 35,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-187201877?data=2018-01-10",
+     "sha256": "21049c4a4fc3360cb8a5808c2d3b4237d50e901656a22b39180bc96853895b35"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 50,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-187201877?data=2022-10-01",
+     "sha256": "cd6210ff9f15d705bbdf53474ab5e372a941205a27aa1af338393ed8c3366dc3"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 50,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-187201877?data=2024-07-30",
+     "sha256": "43785bb4ca35e0c413610832a845fd36250f0f3aee7cba02742bf798ba07c776"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 51,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-187201877?data=2025-09-01",
+     "sha256": "d99dc949d1b84ec337509181838f091005432c9ee4c7c8ec31de1a7e3944967e"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 53,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-187201877?data=2025-12-31",
+     "sha256": "b31b6245685a7003df650c156c6dc0e51413c837709b2c32e6bffd55eb5fc137"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2014-012",
+   "short": "DLR 12/2014/M",
+   "title": "Decreto Legislativo Regional n.º 12/2014/M: Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 137/2014, de 12 de setembro, o qual estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), e respetivos programas operacionais (PO), para o período de programação 2014-2020",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-73924441",
+   "versions": [
+    {
+     "from": "2014-11-05",
+     "units": 16,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-73924441?data=2014-11-05",
+     "sha256": "c714be9e9c15ac64b9fcf95c21a31222fb28840d27c84bed45cec180907657c2"
+    },
+    {
+     "from": "2016-03-21",
+     "units": 16,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-73924441?data=2016-03-21",
+     "sha256": "806c596f1f2ac438c6879ca896a495349f5790c273f6283d5c81f3688ac9c5fb"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2014-017",
+   "short": "DLR 17/2014/M",
+   "title": "Decreto Legislativo Regional n.º 17/2014/M: Reestrutura o sector público empresarial regional na área da gestão das águas e dos resíduos, mediante a fusão das empresas concessionárias e a criação de um único sistema multimunicipal na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-123938648",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 71,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-123938648?data=2014-12-17",
+     "sha256": "751cd5280eebb6fe9bd6b8cfd70b17a6029601e8de4872921684ecdea6b7b210"
+    },
+    {
+     "from": "2015-08-14",
+     "units": 72,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-123938648?data=2015-08-14",
+     "sha256": "975035ef88149481c05ba28b1713f6fcba9ecf69c632b5ee3f8e4d9a4551f599"
+    },
+    {
+     "from": "2016-08-18",
+     "units": 72,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-123938648?data=2016-08-18",
+     "sha256": "c052991713e4d69051f77e6590e052e8211728bda8f6e756774089a1cc4f3239"
+    },
+    {
+     "from": "2016-12-31",
+     "units": 72,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-123938648?data=2016-12-31",
+     "sha256": "52e6af7e5bcf0b6c85351b45a6ef53c036c0342b7151ffdf3dc70f49838ee708"
+    },
+    {
+     "from": "2018-01-10",
+     "units": 72,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-123938648?data=2018-01-10",
+     "sha256": "34b37f0a306d57bfc0a39ad209554901e36335d424e82789eef79e04b0f4a369"
+    },
+    {
+     "from": "2019-08-14",
+     "units": 72,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-123938648?data=2019-08-14",
+     "sha256": "7ac070aefe394835e7a1023655f065cf24de59eb3a5033b7faee8732273e5e69"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2015-007",
+   "short": "DLR 7/2015/M",
+   "title": "Decreto Legislativo Regional n.º 7/2015/M: Aprova o Novo Regime do Exercício da Atividade Pecuária (NREAP)",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-124599317",
+   "versions": [
+    {
+     "from": "2015-08-21",
+     "units": 19,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-124599317?data=2015-08-21",
+     "sha256": "88b2511c5e364cec56502f84a0e1075af9c158d7dc10f67f7af6bc2dc0f438d1"
+    },
+    {
+     "from": "2019-09-11",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-124599317?data=2019-09-11",
+     "sha256": "b12b494be67ced74d7c3036394440926a9dcd9df71449386282d431a26efefc2"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2015-009",
+   "short": "DLR 9/2015/M",
+   "title": "Decreto Legislativo Regional n.º 9/2015/M: Adapta à Região Autónoma da Madeira o Estatuto das Instituições Particulares de Solidariedade Social",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-130659057",
+   "versions": [
+    {
+     "from": "2015-12-03",
+     "units": 98,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-130659057?data=2015-12-03",
+     "sha256": "9c0aab2fc4696bb711d2c3db2c42dd1896d135fdfb7d07f840d0d957d6473309"
+    },
+    {
+     "from": "2020-03-26",
+     "units": 98,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-130659057?data=2020-03-26",
+     "sha256": "1e80bae8a354f640a4ba217a9f3c94fccb062cf21fda3dc8dfd2f3fb3b0b3694"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2015-011",
+   "short": "DLR 11/2015/M",
+   "title": "Decreto Legislativo Regional n.º 11/2015/M: Princípios orientadores e enquadramento a que deve obedecer a cooperação entre o Instituto de Segurança Social da Madeira, IP-RAM, e as instituições particulares de solidariedade social (IPSS) e outras instituições particulares sem fins lucrativos que lhe são equiparadas e que prosseguem atividades sociais na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-107796844",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-107796844?data=2016-01-01",
+     "sha256": "d6ad655ce7b009493709a2ec47e361f1c94f1a3c463312bf6d8fac6766aaa996"
+    },
+    {
+     "from": "2017-08-02",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-107796844?data=2017-08-02",
+     "sha256": "fba03a6f5f530febd41df0bd640925663b4f1fe0e43fa1db5ca1fb90d2666a30"
+    },
+    {
+     "from": "2018-08-07",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-107796844?data=2018-08-07",
+     "sha256": "c6038b44e63d65280e9820b131fa83f9466957397872e59f639955d4d9027753"
+    },
+    {
+     "from": "2022-11-23",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-107796844?data=2022-11-23",
+     "sha256": "0c883235bd2b8e0bcbefbb4a6af2504189295e15eb08a6c7cf4388f17c0905bc"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-107796844?data=2024-07-30",
+     "sha256": "c4e52595e4d4976324d120aef69bb4f55553e756cc919dad608b9052da521efd"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2015-017",
+   "short": "DLR 17/2015/M",
+   "title": "Decreto Legislativo Regional n.º 17/2015/M: Orçamento da Região Autónoma da Madeira para 2016",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-115932214",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 76,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-115932214?data=2015-12-31",
+     "sha256": "b6ac4e77e4674b79cb3bf029ea2ccb2b7f8829965d742d68410fd91416f2482d"
+    },
+    {
+     "from": "2016-12-30",
+     "units": 76,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-115932214?data=2016-12-30",
+     "sha256": "f382c71e2e6063b7fc28c8ad08c162fad63f9d7c8a7e48165b9edfc441c14a49"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2016-002",
+   "short": "DLR 2/2016/M",
+   "title": "Decreto Legislativo Regional n.º 2/2016/M: Cria o Conselho Económico e da Concertação Social da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-116852296",
+   "versions": [
+    {
+     "from": "2025-08-02",
+     "units": 24,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-116852296?data=2025-08-02",
+     "sha256": "22d7b428196cb090990b344aa3cff80206291390b461f873847a70a7587dc792"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2016-005",
+   "short": "DLR 5/2016/M",
+   "title": "Decreto Legislativo Regional n.º 5/2016/M: Cria o Fórum Madeira Global e o Conselho da Diáspora Madeirense",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-212982177",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 14,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-212982177?data=2016-02-04",
+     "sha256": "6c45e08c6e3230099b9c8d52ab3797d3a665027bd2fdd70e3f51d7e23579d656"
+    },
+    {
+     "from": "2023-05-12",
+     "units": 14,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-212982177?data=2023-05-12",
+     "sha256": "09f043d1ab5dd7f23f4728a0b2206af98395242ae753614b138abce3c6c28fda"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2016-011",
+   "short": "DLR 11/2016/M",
+   "title": "Decreto Legislativo Regional n.º 11/2016/M: Estrutura e a organização dos cuidados de saúde primários na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-74502690",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-74502690?data=2016-03-14",
+     "sha256": "5459c39de391b579eee86661fdb338cc9d0d50d229dffe0627746f3884e4e84a"
+    },
+    {
+     "from": "2016-05-21",
+     "units": 39,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-74502690?data=2016-05-21",
+     "sha256": "0318116020d33d31ff789ca8792b35be785c4c8b466926de4adc729444a8c9b6"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2016-021",
+   "short": "DLR 21/2016/M",
+   "title": "Decreto Legislativo Regional n.º 21/2016/M: Criação do Instituto das Florestas e Conservação da Natureza, IP-RAM ",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-114513621",
+   "versions": [
+    {
+     "from": "2016-05-14",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-114513621?data=2016-05-14",
+     "sha256": "2dbd33946d73ac519763de5ce0a2217ec65bd87b89fb05c764d48aae1a4b4bd8"
+    },
+    {
+     "from": "2016-12-30",
+     "units": 30,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-114513621?data=2016-12-30",
+     "sha256": "0e1eef8f4eab4b5e4fa932549abd2cac1cb50a8a2277f22130e1c6eda2b97276"
+    },
+    {
+     "from": "2018-01-13",
+     "units": 30,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-114513621?data=2018-01-13",
+     "sha256": "c514032ed75405acd33824ed1ea07ff35f98b60904c3bf42e203800a88741094"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-114513621?data=2025-07-03",
+     "sha256": "3c43c4d0478cc2bfad2d34dc201ab0442313a5537e37f7c75a1b76facf0a591c"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-114513621?data=2025-12-31",
+     "sha256": "eebaba1211ad04de7f5a350055fed1f0755399662b295c82903ae250eb8ca361"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2016-024",
+   "short": "DLR 24/2016/M",
+   "title": "Decreto Legislativo Regional n.º 24/2016/M: Código Fiscal do Investimento na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206198288",
+   "versions": [
+    {
+     "from": "2016-07-03",
+     "units": 51,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206198288?data=2016-07-03",
+     "sha256": "e72c4f49ad9ac5f64a963b7592ba591e8af81bfb1733d7422bd71d4ea29c65f4"
+    },
+    {
+     "from": "2018-01-10",
+     "units": 52,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206198288?data=2018-01-10",
+     "sha256": "d603f9869378d2247c8ec3f44746736f441feed0d10b838a254ad507b80b94db"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 52,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206198288?data=2019-01-01",
+     "sha256": "fae1bc14b761d6ca7806eae6bdd9f5507549d6bc0295745ea78996b1a24e9550"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 52,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206198288?data=2021-01-01",
+     "sha256": "7ab7f21f3402414f0ee33d0abef2b3e9ca8604a43b74a6c48d361a825fd5913c"
+    },
+    {
+     "from": "2023-01-17",
+     "units": 53,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206198288?data=2023-01-17",
+     "sha256": "3c2ba087a43e5c13419b41fd3af2584d909bdb52ce63276f8fb7cd6b5e000d7a"
+    },
+    {
+     "from": "2023-08-02",
+     "units": 46,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206198288?data=2023-08-02",
+     "sha256": "9d13796c6cadad99b9c31685e259f99dc119256cfab56332f2d340c673c0b4f9"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 46,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206198288?data=2024-07-30",
+     "sha256": "2abf0baa276eaa6c96a2a6cea7d94069d1a5f08b3948ecccecfae9b3f7a01f0b"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2016-027",
+   "short": "DLR 27/2016/M",
+   "title": "Decreto Legislativo Regional n.º 27/2016/M: Altera a adaptação da administração regional autónoma ao estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-885235330",
+   "versions": [
+    {
+     "from": "2016-07-11",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-885235330?data=2016-07-11",
+     "sha256": "b21c06e455cd9470ef03209f07bcac3e79cb9617bb0b7f348fb6e4957638ed87"
+    },
+    {
+     "from": "2016-08-24",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-885235330?data=2016-08-24",
+     "sha256": "b21c06e455cd9470ef03209f07bcac3e79cb9617bb0b7f348fb6e4957638ed87"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 30,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-885235330?data=2026-10-30",
+     "sha256": "58a5b640de73dc1f74c5ec190442c5916090393f98c2fac698dc6458d7c4d665"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2016-028",
+   "short": "DLR 28/2016/M",
+   "title": "Decreto Legislativo Regional n.º 28/2016/M: Regula os concursos para seleção e recrutamento do pessoal docente da educação da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-115603543",
+   "versions": [
+    {
+     "from": "2016-07-16",
+     "units": 64,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-115603543?data=2016-07-16",
+     "sha256": "ebc116b8c4fe02b9ba909d6460ad31938f3c329abb9d1f806533417fd0f9f9bc"
+    },
+    {
+     "from": "2018-06-30",
+     "units": 63,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-115603543?data=2018-06-30",
+     "sha256": "f4462d926af99a1735bc4d9e2c8d4106e8e957711b5554058d8a452c5d98c6ed"
+    },
+    {
+     "from": "2021-05-15",
+     "units": 63,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-115603543?data=2021-05-15",
+     "sha256": "62e27e5a1d1fd245c8abc06ca552dfb41668b589c74c5b45dc1b70a1d3a9320d"
+    },
+    {
+     "from": "2023-04-11",
+     "units": 63,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-115603543?data=2023-04-11",
+     "sha256": "6aaccf571fa81efeb69e716a347f57f4c0524b254c472f17a1cec3da0bd0c56c"
+    },
+    {
+     "from": "2026-04-30",
+     "units": 59,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-115603543?data=2026-04-30",
+     "sha256": "d1f29b339be73006ff9d735042adc4f3127d8adac4fcf315069cb70dd555c4f6"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2016-035",
+   "short": "DLR 35/2016/M",
+   "title": "Decreto Legislativo Regional n.º 35/2016/M: Aprovação da orgânica da Autoridade Regional das Atividades Económicas",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-923474921",
+   "versions": [
+    {
+     "from": "2016-08-12",
+     "units": 2,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-923474921?data=2016-08-12",
+     "sha256": "0d16435f349410dffbda3642432d674c1229df55f0f12b0c613c6df60badc237"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-923474921?data=2025-07-03",
+     "sha256": "18f808132b3757bba251001008a7e2e71e3aa830c42c23a211a645f0a060c3a3"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2016-039",
+   "short": "DLR 39/2016/M",
+   "title": "Decreto Legislativo Regional n.º 39/2016/M:  Programa Regional de Apoios à Comunicação Social Privada",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-900705435",
+   "versions": [
+    {
+     "from": "2016-08-19",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-900705435?data=2016-08-19",
+     "sha256": "086029303173c7d21e5d7cd6520343ac98dabee17ac4098d36185667a1ca5894"
+    },
+    {
+     "from": "2024-12-20",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-900705435?data=2024-12-20",
+     "sha256": "095b82febe544f471bb6e7ddef8d10ef3f294429389fe8440852f40eb24aa0ab"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2017-017",
+   "short": "DLR 17/2017/M",
+   "title": "Decreto Legislativo Regional n.º 17/2017/M: Criação e regulamentação das carreiras especiais de inspeção de pescas e de agricultura da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-107494061",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 23,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-107494061?data=2017-06-09",
+     "sha256": "30533159f92afc256bbd0f34aa8270736d95a18a32b11089819cf16f2ff48eef"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 24,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-107494061?data=2025-12-31",
+     "sha256": "97df3bcebc7cb5c25f24a477d513ae9464e6f9487df3020d9f9b5ca8afd66b05"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2017-018",
+   "short": "DLR 18/2017/M",
+   "title": "Decreto Legislativo Regional n.º 18/2017/M: Sistema regional de gestão territorial (Região Autónoma da Madeira)",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-140413888",
+   "versions": [
+    {
+     "from": "2017-07-02",
+     "units": 173,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-140413888?data=2017-07-02",
+     "sha256": "6a693338d942180bc0d698f9305ea2144abbc1752f780997bfc36c2dd7fd1292"
+    },
+    {
+     "from": "2020-08-15",
+     "units": 173,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-140413888?data=2020-08-15",
+     "sha256": "dcf70e707ef8ec133d070b053d4bd3c51a9115102e028d8818657889b3952fff"
+    },
+    {
+     "from": "2023-08-02",
+     "units": 173,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-140413888?data=2023-08-02",
+     "sha256": "13f3996e10573085f9a0802fe494f405ed11502d08ac490229bd2cc637c0cf31"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 173,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-140413888?data=2025-12-31",
+     "sha256": "c51a1c75cf231b8365ee9039947f58ed08d2a86c63ad0749d6124c874b7d5bba"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2017-032",
+   "short": "DLR 32/2017/M",
+   "title": "Decreto Legislativo Regional n.º 32/2017/M: Define o estatuto e regime jurídico das vias públicas de comunicação terrestre da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-186865390",
+   "versions": [
+    {
+     "from": "2017-09-16",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-186865390?data=2017-09-16",
+     "sha256": "1ff504e3ffe1ad5777a43b30cb9bedada431f674f6514d593b8483b7eaec1bed"
+    },
+    {
+     "from": "2022-07-30",
+     "units": 40,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-186865390?data=2022-07-30",
+     "sha256": "5e7516167cd6855480e4636e1960b54d55d9a02b890b97fff83677d0db5a07fa"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2018-002",
+   "short": "DLR 2/2018/M",
+   "title": "Decreto Legislativo Regional n.º 2/2018/M: Orçamento da Região Autónoma da Madeira para 2018",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-114872592",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 79,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-114872592?data=2018-01-10",
+     "sha256": "3d04103cf29c1b72ea140cad90b7ed65f49b88a6c8b42aff94cc1e3b4455ff38"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2018-011",
+   "short": "DLR 11/2018/M",
+   "title": "Decreto Legislativo Regional n.º 11/2018/M: Adaptação da lei que aprovou a Lei Geral do Trabalho em Funções Públicas à administração regional autónoma da Madeira  ",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-115893761",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 46,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-115893761?data=2018-09-01",
+     "sha256": "bf6788a874096e8356c4c58d2638ff7ba468d4e8d8b2f352f95a179e1104f574"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 47,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-115893761?data=2020-02-01",
+     "sha256": "2fbb50cce92fbeee03556f13add6d523ab833626c739ccfacd3571fe05f9ade4"
+    },
+    {
+     "from": "2021-12-31",
+     "units": 47,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-115893761?data=2021-12-31",
+     "sha256": "1b5a6ccfe726ddd0edcb4264cdad363a1921eb15d8bf48aa5c0a41589e540321"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 47,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-115893761?data=2022-12-30",
+     "sha256": "072add98fd8b4572ac760f65d7ccd8a50e2aa8e53840411086a668dac767e504"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 47,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-115893761?data=2025-07-03",
+     "sha256": "9be69a6dc48c788d9ab4813f88e11b157a4c6ecedd1553c7a8e228ac0c90a5f5"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 47,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-115893761?data=2025-12-31",
+     "sha256": "c1a7b721fa71977aec9e63503967688a4b70b0a79fff16b9585cfcb9add99b17"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2018-015",
+   "short": "DLR 15/2018/M",
+   "title": "Decreto Legislativo Regional n.º 15/2018/M: Carreira especial de técnico de espaços verdes da Região Autónoma da Madeira ",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-216491385",
+   "versions": [
+    {
+     "from": "2018-08-25",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-216491385?data=2018-08-25",
+     "sha256": "657755d7138dba3c8422fb9db0c5b820e6560732816ab2f0bace48253f360df3"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-216491385?data=2023-08-01",
+     "sha256": "e545ac7192a15ad1a06d2ef208804a3c0153f130cfb3a27fa9807115642a46d4"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 27,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-216491385?data=2025-08-01",
+     "sha256": "7d2120d6d7f4ceea1a225ee21355cd765aac3f449b2195be2dcc1ce10b1734ed"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-216491385?data=2025-12-31",
+     "sha256": "9d5156cf2e90a5049ae3a719e14f7527b24b60148d7eff6af03616e2c26a0104"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2018-017",
+   "short": "DLR 17/2018/M",
+   "title": "Decreto Legislativo Regional n.º 17/2018/M: Carreira especial de sapador florestal da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-116126464",
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-116126464?data=2018-08-21",
+     "sha256": "d81ffac5a418343d8ee25f7599c71975379ab523a10bc47bd52a54203b9e37f8"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-116126464?data=2023-08-01",
+     "sha256": "50329bd52d96b95884be597052d6338c151648de74fb4e41f2f6a9b36dde9d3f"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-116126464?data=2025-09-01",
+     "sha256": "1f225f10c74b9fae822793602dd4d5b19001a7fb470aeb7d54bb65fea268f89f"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-116126464?data=2025-12-31",
+     "sha256": "acbd63e75ecf1f39360d2c00fde550415457b6da7a338f2540c46bc8661f8070"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2018-021",
+   "short": "DLR 21/2018/M",
+   "title": "Decreto Legislativo Regional n.º 21/2018/M: Criação do Estatuto Social do Bombeiro da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-117049675",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 20,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-117049675?data=2018-11-23",
+     "sha256": "e3c01e959520409ebaeb109fc04f4ba98fbe7b6cc4f46847501f6b1894c76e0e"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-117049675?data=2024-07-30",
+     "sha256": "bce64fc5437f3a6705bb4e8d5a4b9422ee1fedafc78fd89089a766b7bb9346b2"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2018-025",
+   "short": "DLR 25/2018/M",
+   "title": "Decreto Legislativo Regional n.º 25/2018/M: Princípios gerais da prestação digital de serviços públicos e da transparência em organismos públicos",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-949921138",
+   "versions": [
+    {
+     "from": "2018-12-29",
+     "units": 35,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-949921138?data=2018-12-29",
+     "sha256": "ecb1b242e67d8b9a07915644ae654996b711ff966da5020a6792560b2b3451d8"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 34,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-949921138?data=2025-12-31",
+     "sha256": "0ecfbff15a43d4ade83a2bca042d862e26d4b13dc950331550a3b53dd489c032"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2019-007",
+   "short": "DLR 7/2019/M",
+   "title": "Decreto Legislativo Regional n.º 7/2019/M: Estabelecer as regras e procedimentos a serem adotados pelo Serviço de Saúde da Região Autónoma da Madeira, E. P. E. - SESARAM, E. P. E. - no âmbito do processo de descongelamento das carreiras de enfermagem",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-170285389",
+   "versions": [
+    {
+     "from": "2019-08-06",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-170285389?data=2019-08-06",
+     "sha256": "f868507a05808d8ce7137fdf4351c1f9ba7cdc80b82e2afcef1667d8732db3ce"
+    },
+    {
+     "from": "2021-08-27",
+     "units": 10,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-170285389?data=2021-08-27",
+     "sha256": "1fe08a4512a9164981e1bebc478a48109eb1ae33e3830c93896724a3e1862546"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2019-008",
+   "short": "DLR 8/2019/M",
+   "title": "Decreto Legislativo Regional n.º 8/2019/M: Estabelece as regras e procedimentos a serem adotados pelo Serviço de Saúde da Região Autónoma da Madeira, E. P. E. - SESARAM, E. P. E. - no âmbito do processo de descongelamento das carreiras dos técnicos superiores das áreas de diagnóstico e terapêutica",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-163551381",
+   "versions": [
+    {
+     "from": "2019-08-07",
+     "units": 9,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-163551381?data=2019-08-07",
+     "sha256": "bbcc8b380774e39cec0e0772ab16137d2f3d42418a3f4af773932b6dd0980ce9"
+    },
+    {
+     "from": "2021-05-18",
+     "units": 10,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-163551381?data=2021-05-18",
+     "sha256": "cdbcdeabc37fe3baef6e99566a52aaa9e5d904703e2dc03735e5759641d63f8c"
+    },
+    {
+     "from": "2023-08-04",
+     "units": 11,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-163551381?data=2023-08-04",
+     "sha256": "195e90dde36b616e0d773e80176346a3f7a3c0693b5134ef6016622203137a1f"
+    },
+    {
+     "from": "2026-05-04",
+     "units": 11,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-163551381?data=2026-05-04",
+     "sha256": "fdf639da886dc1c982aeb12a6b2ec317b459aefe8ca9da09dcfbacef45e72503"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2019-010",
+   "short": "DLR 10/2019/M",
+   "title": "Decreto Legislativo Regional n.º 10/2019/M: Quinta alteração ao Decreto Legislativo Regional n.º 17/2014/M, de 16 de dezembro, que reestrutura o setor público empresarial regional na área da gestão das águas e dos resíduos, mediante a fusão das empresas concessionárias, e cria um único sistema multimunicipal na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-123930805",
+   "versions": [
+    {
+     "from": "2019-08-14",
+     "units": 79,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-123930805?data=2019-08-14",
+     "sha256": "b86bb61493bcb4d180295a4bf42a2c5a9d53c87ad88b7ae20cde374bf88ccff4"
+    },
+    {
+     "from": "2019-08-15",
+     "units": 79,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-123930805?data=2019-08-15",
+     "sha256": "b86bb61493bcb4d180295a4bf42a2c5a9d53c87ad88b7ae20cde374bf88ccff4"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2019-013",
+   "short": "DLR 13/2019/M",
+   "title": "Decreto Legislativo Regional n.º 13/2019/M: Estatutos do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., o regime da prestação do trabalho médico nos serviços de urgência e de atendimento permanente do SESARAM, E. P. E., e o desempenho de funções dos trabalhadores do SESARAM, E. P. E., no Serviço de Proteção Civil, IP-RAM",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-124151597",
+   "versions": [
+    {
+     "from": "2019-08-23",
+     "units": 45,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-124151597?data=2019-08-23",
+     "sha256": "457fb9a64ebb284d70b84a225b87f12bce67ef624cb078209accee84a5b74e5b"
+    },
+    {
+     "from": "2019-08-23",
+     "units": 45,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-124151597?data=2019-08-23",
+     "sha256": "457fb9a64ebb284d70b84a225b87f12bce67ef624cb078209accee84a5b74e5b"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 45,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-124151597?data=2020-02-01",
+     "sha256": "2067d8163f1f4cabdf7a5b1f1c699c2af12146bc3e4bdb826b9e37b729ed08f1"
+    },
+    {
+     "from": "2020-07-14",
+     "units": 47,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-124151597?data=2020-07-14",
+     "sha256": "678aae082c4434c59f7ea65e4e2ffd1e765707fd041aa10e01c84a68a280b31d"
+    },
+    {
+     "from": "2023-06-29",
+     "units": 48,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-124151597?data=2023-06-29",
+     "sha256": "6de7f9df132a7bd7e3f42098355dc104ed867f9288476f861f12ee1a77258bdc"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2020-001-a",
+   "short": "DLR 1-A/2020/M",
+   "title": "Decreto Legislativo Regional n.º 1-A/2020/M: Aprova o Orçamento da Região Autónoma da Madeira para 2020",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-128771638",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 87,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-128771638?data=2020-02-01",
+     "sha256": "0730ccb486a3167ee0213a68474982756936146f7306a927f3aa69c77cea37cf"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 87,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-128771638?data=2020-02-01",
+     "sha256": "0730ccb486a3167ee0213a68474982756936146f7306a927f3aa69c77cea37cf"
+    },
+    {
+     "from": "2020-07-29",
+     "units": 87,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-128771638?data=2020-07-29",
+     "sha256": "28bd0920c7430c60e7201209dd637043432d8f5801f88046da8841d3c93f6897"
+    },
+    {
+     "from": "2020-08-11",
+     "units": 87,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-128771638?data=2020-08-11",
+     "sha256": "67e891dd7abd7401a22727ef8a9b66bae68232cef869700c26df5b80bf0d4b4f"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2020-007",
+   "short": "DLR 7/2020/M",
+   "title": "Decreto Legislativo Regional n.º 7/2020/M: Define e caracteriza a sidra, o vinagre de sidra e o vinagre de maçã produzidos na Região Autónoma da Madeira e estabelece as regras aplicáveis à sua colocação no mercado",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-215918787",
+   "versions": [
+    {
+     "from": "2020-07-08",
+     "units": 41,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-215918787?data=2020-07-08",
+     "sha256": "bfbfaa7f562957c66f32d0fe1f3a9647c1a3abf2b13b916e9e3d33f3388b3656"
+    },
+    {
+     "from": "2023-07-20",
+     "units": 41,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-215918787?data=2023-07-20",
+     "sha256": "cb011aba0020df3ee331af3d787e7a067624e9f862a15f69f56f1cf07796dcf1"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2020-010",
+   "short": "DLR 10/2020/M",
+   "title": "Decreto Legislativo Regional n.º 10/2020/M: Programa de Apoio à Aquisição e ao Arrendamento de Habitação - PRAHABITAR",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-187258952",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 31,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-187258952?data=2020-07-28",
+     "sha256": "e9d7b4212daf292bd1ddbb89a94b35dd0ef58a42ac5026ac7081a0010703152d"
+    },
+    {
+     "from": "2022-08-15",
+     "units": 22,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-187258952?data=2022-08-15",
+     "sha256": "288843700372b3ba11f439e738620b479eca36c524448e8820569b5bf67e6999"
+    },
+    {
+     "from": "2024-02-03",
+     "units": 22,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-187258952?data=2024-02-03",
+     "sha256": "5c2e917ec9db22c440b15c640fd9d3373341cc61bce96e77ef916813c18bd401"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2020-012",
+   "short": "DLR 12/2020/M",
+   "title": "Decreto Legislativo Regional n.º 12/2020/M: Alteração do diploma que aprova o Orçamento da Região Autónoma da Madeira para 2020 ",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-139918114",
+   "versions": [
+    {
+     "from": "2020-08-11",
+     "units": 23,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-139918114?data=2020-08-11",
+     "sha256": "f1165676764d17921d3a29b71747784867c028e9832f33092a0def01c8833ba8"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 34,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-139918114?data=2025-12-31",
+     "sha256": "a8141a1ecbcc2d37b05f36c080e6ea45aaef09c0e802fe281876abbf67c43e51"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2020-014",
+   "short": "DLR 14/2020/M",
+   "title": "Decreto Legislativo Regional n.º 14/2020/M: Adapta à Região Autónoma da Madeira a Lei n.º 45/2018, de 10 de agosto, que estabelece o regime jurídico da atividade de transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-853548051",
+   "versions": [
+    {
+     "from": "2020-10-03",
+     "units": 18,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-853548051?data=2020-10-03",
+     "sha256": "fe1fff72064c4326bfe8cc88f070f6b3b4235a554c6e822e20f28bb613521c63"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2020-018",
+   "short": "DLR 18/2020/M",
+   "title": "Decreto Legislativo Regional n.º 18/2020/M: Aprova o Orçamento da Região Autónoma da Madeira para 2021",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-166161611",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 107,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-166161611?data=2021-01-01",
+     "sha256": "9ff163a52d4e61f6e9862a20a6237d29a2de4fc43defe3801bef4cf7674c0089"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 107,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-166161611?data=2021-07-01",
+     "sha256": "c39cf4df572082b0aaf694c33f7d73c0cb9e8ae0de866e37cb273173b98e2b95"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2021-002",
+   "short": "DLR 2/2021/M",
+   "title": "Decreto Legislativo Regional n.º 2/2021/M: Cria o Prémio +Valor Madeira, da Assembleia Legislativa da Região Autónoma da Madeira - Mérito em Estudos e Trabalhos de Investigação e Desenvolvimento Regional",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-183403847",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 14,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-183403847?data=2021-02-18",
+     "sha256": "4df30c98c1b615d4cab42194f5c989046c5d64fde5c9e644d586be752e13c973"
+    },
+    {
+     "from": "2022-05-14",
+     "units": 15,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-183403847?data=2022-05-14",
+     "sha256": "6fd197f071122986a6e11f3252bc742f1123c5abdbc162c84f5d516cf1a8ba9f"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2021-004",
+   "short": "DLR 4/2021/M",
+   "title": "Decreto Legislativo Regional n.º 4/2021/M: Revisão das carreiras especiais da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-205638838",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 56,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-205638838?data=2021-03-10",
+     "sha256": "2bda852d03f5457ad42d1b6e1855e3dfaec0f5c79474d7904f9908bfb48701a8"
+    },
+    {
+     "from": "2022-12-31",
+     "units": 56,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-205638838?data=2022-12-31",
+     "sha256": "b7ec961b09770cb4a8b92a366009bcf07d76829b5c3bf874252d0d646a95b19e"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 56,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-205638838?data=2024-07-30",
+     "sha256": "bc68b1a5b2387129ef8760f98d84f41b8594bae0f5f4fced290c1ae9f271e2e6"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 56,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-205638838?data=2025-07-03",
+     "sha256": "678255f8e3edf602b822280c3ef54442d1b6a01f631ab240bdd3ab7f8ee048cc"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2021-005",
+   "short": "DLR 5/2021/M",
+   "title": "Decreto Legislativo Regional n.º 5/2021/M: Regime legal da carreira especial de vigilante da natureza",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-159219314",
+   "versions": [
+    {
+     "from": "2021-03-16",
+     "units": 44,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-159219314?data=2021-03-16",
+     "sha256": "a1825e4b0ff9d353475af65bf05a4915d20b18524beb6b95e1d36bcf5b3a45d0"
+    },
+    {
+     "from": "2023-08-03",
+     "units": 44,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-159219314?data=2023-08-03",
+     "sha256": "e87a674307e610893420d5006a81b8bf79896983318374e6db33fd9b76abaee0"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 44,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-159219314?data=2025-09-01",
+     "sha256": "fd23c04230d902c1c40a5f38d5ee1bb04e32d239611d1e4f7bf9a67d146aa9a8"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 46,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-159219314?data=2025-12-31",
+     "sha256": "c24b0b6a41e189ad5e6a54d53d7e96f3b0c6ef42397d726d5972c6f8f1d3df55"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2021-011",
+   "short": "DLR 11/2021/M",
+   "title": "Decreto Legislativo Regional n.º 11/2021/M: Carreira de médico dentista no SESARAM, EPERAM",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-214927269",
+   "versions": [
+    {
+     "from": "2021-05-23",
+     "units": 27,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-214927269?data=2021-05-23",
+     "sha256": "ea8771f5afffbc765e71d8c2095aca57680b9036237d194029f6bde6a11bd990"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-214927269?data=2026-10-30",
+     "sha256": "179393ef9a61fa3cf42564b411b3d5f2fd974c5b9b8407502a474408e52aa303"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2021-012",
+   "short": "DLR 12/2021/M",
+   "title": "Decreto Legislativo Regional n.º 12/2021/M: Figura do Provedor do Animal na Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-874403783",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-874403783?data=2021-05-21",
+     "sha256": "9f19c02e18b73cba951c2d833860d356c6e04f41c46f79a8b6484c459f1f5527"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-874403783?data=2024-08-01",
+     "sha256": "e8eb796d2c406ea669c4687aeee281bfe2d51aef408fb2dee29b3b05801003ca"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 29,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-874403783?data=2025-07-03",
+     "sha256": "4559f67aaf25360bd3bbcb85871097fdf5d269ef8569ed7d2063e7c3148cb4ee"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2021-013",
+   "short": "DLR 13/2021/M",
+   "title": "Decreto Legislativo Regional n.º 13/2021/M:  Regime jurídico do pessoal não docente das organizações escolares da rede pública da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-164922519",
+   "versions": [
+    {
+     "from": "2021-06-10",
+     "units": 41,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-164922519?data=2021-06-10",
+     "sha256": "74f241d8a8a5b628f6f17ccb5a09e210de985593b66f7630afd75b85fbcf558a"
+    },
+    {
+     "from": "2023-07-27",
+     "units": 43,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-164922519?data=2023-07-27",
+     "sha256": "d0ba98a870ae778bad62f309e3eab9fdf0a6d7fa31dee92bb3b96a5fdb64b676"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2021-014",
+   "short": "DLR 14/2021/M",
+   "title": "Decreto Legislativo Regional n.º 14/2021/M: Estabelece o regime jurídico do pessoal não docente das organizações escolares da rede pública da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-165650671",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 41,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-165650671?data=2021-06-15",
+     "sha256": "dd353eaac6847a78cbb470a500aafef0393067006fd27a429f639dbd7d40347a"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2021-028-a",
+   "short": "DLR 28-A/2021/M",
+   "title": "Decreto Legislativo Regional n.º 28-A/2021/M: Orçamento da Região Autónoma da Madeira para 2022",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-176886539",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 103,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-176886539?data=2021-12-31",
+     "sha256": "0ba91dc8d66cd9d84e6452b632468059eab499815ab659c3d284e4be6e1aa1e7"
+    },
+    {
+     "from": "2022-07-28",
+     "units": 104,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-176886539?data=2022-07-28",
+     "sha256": "23cf654a379d4a2d2674888e2cb60ab87beddb0696f570bb9da85712a9ca9c48"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 118,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-176886539?data=2022-12-30",
+     "sha256": "555c945923e7685d3164f1940c186daf6be93398a66af186a6bbfa261d5da2a5"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2022-012",
+   "short": "DLR 12/2022/M",
+   "title": "Decreto Legislativo Regional n.º 12/2022/M: Adapta à Região Autónoma da Madeira a Lei n.º 39/2012, de 28 de agosto, e estabelece o regime jurídico regional da responsabilidade técnica pela direção e orientação do exercício físico e das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da promoção da condição física e da saúde",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-184105539",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 24,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-184105539?data=2022-05-31",
+     "sha256": "e1b5720bab9fe311fea2e124d4a886efe6f83e128b2a9118705e56761ced6dd1"
+    },
+    {
+     "from": "2022-05-31",
+     "units": 24,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-184105539?data=2022-05-31",
+     "sha256": "e1b5720bab9fe311fea2e124d4a886efe6f83e128b2a9118705e56761ced6dd1"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2022-024",
+   "short": "DLR 24/2022/M",
+   "title": "Decreto Legislativo Regional n.º 24/2022/M: Regime jurídico dos percursos pedestres da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-923350361",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-923350361?data=2022-12-20",
+     "sha256": "7d3d819f975025ade5997fc866ea9d202bb97defd9898a2eefc50855ed9b090b"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 21,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-923350361?data=2025-07-03",
+     "sha256": "414f2d49706b4add6a6ed8f2a2d005de32326465426a7256674404ee8f50583b"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2022-026",
+   "short": "DLR 26/2022/M",
+   "title": "Decreto Legislativo Regional n.º 26/2022/M: Aprova o Orçamento da Região Autónoma da Madeira para o ano de 2023",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-206056856",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 108,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-206056856?data=2022-12-30",
+     "sha256": "f79ee08ceacd5126f69361448769c4ee6046b41c09534d8405c16b64bdb13945"
+    },
+    {
+     "from": "2026-10-30",
+     "units": 122,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-206056856?data=2026-10-30",
+     "sha256": "6e0988a6dfbdbc3796f68f4a833041fcf28936d606121a6f1886f824f096a4f6"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2023-001",
+   "short": "DLR 1/2023/M",
+   "title": "Decreto Legislativo Regional n.º 1/2023/M: REEQUILIBRAR - Programa de Apoio às Famílias com Crédito à Habitação",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-839477436",
+   "versions": [
+    {
+     "from": "2023-01-08",
+     "units": 19,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-839477436?data=2023-01-08",
+     "sha256": "b7645cbbc60c552a0b0a9a428f51641fd663f46274056374782b577d639b7edf"
+    },
+    {
+     "from": "2024-01-30",
+     "units": 19,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-839477436?data=2024-01-30",
+     "sha256": "9fd0b8981d69166d279f2be7117c99618d03d234d9c6a5dc786207ea9f76c772"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2023-017",
+   "short": "DLR 17/2023/M",
+   "title": "Decreto Legislativo Regional n.º 17/2023/M: Aprova o regime jurídico aplicável ao controlo, detenção, introdução na natureza e repovoamento de espécies exóticas na Madeira e assegura a execução, na ordem jurídica regional, do Regulamento (UE) n.º 1143/2014, relativo à prevenção e gestão da introdução e propagação de espécies exóticas invasoras",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-211665953",
+   "versions": [
+    {
+     "from": "2023-04-16",
+     "units": 44,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-211665953?data=2023-04-16",
+     "sha256": "37a916cdac889c6d8cb8a8edb339269f4a8c09a62006028413f2190289bc3db6"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2023-023",
+   "short": "DLR 23/2023/M",
+   "title": "Decreto Legislativo Regional n.º 23/2023/M: Cria regras excecionais para a avaliação do desempenho referente aos biénios de 2019-2020 e de 2021-2022, com a atribuição de 4 pontos a todos os profissionais em exercício de funções no SESARAM, EPERAM, avaliados através do sistema denominado SIADAP-RAM, e define as regras a aplicar na avaliação do desempenho e mudanças de posição remuneratória dos dirigentes superiores ou equiparados, intermédios ou equiparados do SESARAM, EPERAM",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-214927236",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 17,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-214927236?data=2023-06-29",
+     "sha256": "9dc5bbe7594d2f12db9d4693bd49d71c331daa9784d1975b3a2bc6708c94560c"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 19,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-214927236?data=2025-07-03",
+     "sha256": "29cd415114bf177729a4d23104a5fba7c7c3be1e092c72a24849c3a8cb239dd8"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2023-025",
+   "short": "DLR 25/2023/M",
+   "title": "Decreto Legislativo Regional n.º 25/2023/M: Criação do programa de incentivos à promoção de habitação económica denominado Casa Própria",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923474876",
+   "versions": [
+    {
+     "from": "2023-07-15",
+     "units": 37,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923474876?data=2023-07-15",
+     "sha256": "c1fd71c79121725270630046d56338b1e065724d9c2d4a3cc7217f54d0a2a745"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 37,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923474876?data=2025-07-03",
+     "sha256": "b8545fd0b04c58fb8859014bf52b4c1933af18bcdd8d77a1fd8b385029c23588"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2023-036",
+   "short": "DLR 36/2023/M",
+   "title": "Decreto Legislativo Regional n.º 36/2023/M: Procece à primeira alteração ao Decreto Legislativo Regional n.º 5/2021/M, de 11 de março, que aprovou o regime legal da carreira especial de vigilante da natureza da Região Autónoma da Madeira",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-216598419",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 11,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-216598419?data=2023-08-07",
+     "sha256": "3b967b5e9226ec32c677fa836bcac480ce97162930a08557b03be79ac77e7e53"
+    },
+    {
+     "from": "2023-09-07",
+     "units": 11,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-216598419?data=2023-09-07",
+     "sha256": "3b967b5e9226ec32c677fa836bcac480ce97162930a08557b03be79ac77e7e53"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2023-037",
+   "short": "DLR 37/2023/M",
+   "title": "Decreto Legislativo Regional n.º 37/2023/M: Estabelece a carreira especial dos tripulantes de ambulância de transporte não urgente no Serviço de Saúde da Região Autónoma da Madeira, EPERAM",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923492700",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923492700?data=2023-08-07",
+     "sha256": "b91efc2144044e232df7190866d0d683c550bdbd373f801081aeb56f35cd7a23"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 28,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923492700?data=2025-07-03",
+     "sha256": "c5b170ff5d1559e08d8e725e213f2edb3a40a782013b2acdae4cdaa97295c1b6"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2023-038",
+   "short": "DLR 38/2023/M",
+   "title": "Decreto Legislativo Regional n.º 38/2023/M: Estabelece a carreira especial de técnico auxiliar de saúde do SESARAM, EPERAM",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923492738",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923492738?data=2023-08-07",
+     "sha256": "94c6f281a05e7d76cc2782830e9a3b8b6fc9e434ae13ddedf8751c04410db457"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 26,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923492738?data=2025-07-03",
+     "sha256": "8f8be66d393165ab5f97eccf06527f5b91402330affd341d528303ac65590119"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2024-004",
+   "short": "DLR 4/2024/M",
+   "title": "Decreto Legislativo Regional n.º 4/2024/M: Programa de habitação pública apoiada denominado «Programa de Renda Reduzida»",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-923474972",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-923474972?data=2024-04-03",
+     "sha256": "1c584ff5601352c554a27b9af9761113064aa385935175c157ca457c49efcf49"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-923474972?data=2025-07-03",
+     "sha256": "df7f149b6631be182d6ac24e0f906141370f6dd5fb9aefb69b3d4be6fdb1e411"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 38,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-923474972?data=2025-12-31",
+     "sha256": "d2ebcb29a74d1aa25f51638e59c447eeb8434f4f16fdfa867da0aab3f5f0260d"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2024-006",
+   "short": "DLR 6/2024/M",
+   "title": "Decreto Legislativo Regional n.º 6/2024/M: Orçamento da Região Autónoma da Madeira para o ano de 2024",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-873785819",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 124,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-873785819?data=2024-07-30",
+     "sha256": "432e8cee461c5fc430fe3cc14740a6d163316bdd3be3a5a15eceae45b4df7a2a"
+    },
+    {
+     "from": "2024-08-12",
+     "units": 124,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-873785819?data=2024-08-12",
+     "sha256": "432e8cee461c5fc430fe3cc14740a6d163316bdd3be3a5a15eceae45b4df7a2a"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2024-013",
+   "short": "DLR 13/2024/M",
+   "title": "Decreto Legislativo Regional n.º 13/2024/M: Cria o Instituto de Mobilidade e Transportes, IP-RAM",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-927416026",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 35,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-927416026?data=2025-01-01",
+     "sha256": "020fd53e511beb958af9af2c6a922ad2ae64f77929ba21f9a6306a12109bdfb2"
+    },
+    {
+     "from": "2025-08-02",
+     "units": 35,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-927416026?data=2025-08-02",
+     "sha256": "8f0c0eec6ef93c1efafe82ceabc79179416a40e3e75e3d992b3c60bf4d3320da"
+    },
+    {
+     "from": "2026-07-31",
+     "units": 35,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-927416026?data=2026-07-31",
+     "sha256": "e8f5a6105586253268dd9b221a4f6fd5bbc3feaaa9e349bd014d381beddeaad6"
+    }
+   ]
+  },
+  {
+   "slug": "dlr-2025-002",
+   "short": "DLR 2/2025/M",
+   "title": "Decreto Legislativo Regional n.º 2/2025/M: Orçamento da Região Autónoma da Madeira para o ano de 2025",
+   "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2025-923290723",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 130,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2025-923290723?data=2025-07-03",
+     "sha256": "7a7684ad22c12edea8cd9aca3ddf4d26dc6118c29204bc6fffc4aa16ea1db988"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 143,
+     "source_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2025-923290723?data=2025-12-31",
+     "sha256": "e32e0a6beedd21a7a146c9507836117c4e08a47cfb0a5bfdc85e5bca6089bad0"
+    }
+   ]
+  }
+ ]
+}

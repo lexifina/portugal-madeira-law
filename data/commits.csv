@@ -1,0 +1,313 @@
+day,kind,law,acts,files,branch
+1984-03-31,start,,dlr-1984-001,6,main
+1985-11-30,start,,dlr-1985-021,5,main
+1989-09-08,start,,dlr-1989-024,65,main
+1993-02-21,law,decreto-legislativo-regional-2-93-m,dlr-1989-024,27,main
+1993-02-21,unexplained,,dlr-1989-024,3,main
+1994-09-14,start,decreto-legislativo-regional-22-94-m,dlr-1994-022,7,main
+1996-09-07,start,decreto-legislativo-regional-23-96-m,dlr-1996-023,6,main
+1998-04-02,start,decreto-legislativo-regional-3-98-m,dlr-1998-003,12,main
+1999-08-27,start,decreto-legislativo-regional-23-99-m,dlr-1999-023,29,main
+1999-09-05,start,lei-130-99,estatuto,227,main
+2000-03-14,start,decreto-legislativo-regional-5-2000-m,dlr-2000-005,12,main
+2000-06-26,law,lei-12-2000,estatuto,1,main
+2000-06-26,unexplained,,estatuto,1,main
+2001-03-07,start,decreto-legislativo-regional-2-2001-m,dlr-2001-002,8,main
+2001-03-09,start,decreto-legislativo-regional-3-2001-m,dlr-2001-003,8,main
+2001-05-11,start,decreto-legislativo-regional-14-2001-m,dlr-2001-014,4,main
+2001-05-11,law,decreto-legislativo-regional-14-2001-m,dlr-2000-005,2,main
+2001-06-30,law,declaracao-rectificacao-13-o-2001,dlr-2001-014,1,main
+2001-08-29,start,decreto-legislativo-regional-28-2001-m,dlr-2001-028,95,main
+2002-01-01,law,decreto-legislativo-regional-29-a-2001-m,dlr-2001-002 dlr-2001-003,3,main
+2002-07-22,law,decreto-legislativo-regional-12-2002-m,dlr-2001-028,5,main
+2002-11-17,law,decreto-legislativo-regional-20-2002-m,dlr-1998-003,3,main
+2003-04-08,start,decreto-legislativo-regional-4-2003-m,dlr-2003-004,27,main
+2003-08-24,start,decreto-legislativo-regional-26-2003-m,dlr-2003-026,21,main
+2004-01-01,law,decreto-legislativo-regional-30-a-2003-m,dlr-2001-002 dlr-2001-003,5,main
+2004-05-01,start,decreto-legislativo-regional-5-2004-m,dlr-2004-005,16,main
+2004-08-25,start,decreto-legislativo-regional-27-2004-m,dlr-2004-027,43,main
+2005-02-19,law,decreto-legislativo-regional-1-2005-m,dlr-2001-003,1,main
+2005-08-06,law,decreto-legislativo-regional-10-a-2000-m,dlr-1989-024,26,main
+2005-08-06,law,decreto-legislativo-regional-14-2005-m,dlr-1989-024,26,main
+2005-08-06,unexplained,,dlr-1989-024,11,main
+2006-01-01,law,decreto-legislativo-regional-21-a-2005-m,dlr-2001-002 dlr-2001-003,3,main
+2006-04-25,start,decreto-legislativo-regional-14-2006-m,dlr-2006-014,29,main
+2006-07-15,law,decreto-legislativo-regional-27-2006-m,dlr-2004-005,6,main
+2006-07-20,start,decreto-legislativo-regional-28-2006-m,dlr-2006-028,63,main
+2006-08-18,start,decreto-legislativo-regional-33-2006-m,dlr-2006-033,10,main
+2006-08-18,start,decreto-legislativo-regional-35-2006-m,dlr-2006-035,15,main
+2006-08-19,start,decreto-legislativo-regional-37-2006-m,dlr-2006-037,13,main
+2007-01-01,law,decreto-legislativo-regional-3-2007-m,dlr-2001-002 dlr-2001-003,2,main
+2007-03-20,start,decreto-legislativo-regional-9-2007-m,dlr-2007-009,33,main
+2007-11-13,start,decreto-legislativo-regional-18-2007-m,dlr-2007-018,23,main
+2007-11-17,start,decreto-legislativo-regional-17-2007-m,dlr-2007-017,40,main
+2008-03-01,start,decreto-legislativo-regional-6-2008-m,dlr-2008-006,112,main
+2008-03-01,law,declaracao-rectificacao-21-2008,dlr-2008-006,5,main
+2008-06-28,start,decreto-legislativo-regional-22-2008-m,dlr-2008-022,22,main
+2008-06-30,law,decreto-legislativo-regional-23-2008-m,dlr-2003-004,5,main
+2008-08-13,start,decreto-legislativo-regional-28-2008-m,dlr-2008-028,30,main
+2008-08-15,start,decreto-legislativo-regional-34-2008-m,dlr-2008-034,17,main
+2008-08-15,law,declaracao-rectificacao-60-2008,dlr-2008-034,3,main
+2009-01-01,law,decreto-legislativo-regional-45-2008-m,dlr-2001-002 dlr-2001-003 dlr-2008-034,3,main
+2009-03-31,start,decreto-legislativo-regional-10-2009-m,dlr-2009-010,38,main
+2009-05-07,start,decreto-legislativo-regional-12-2009-m,dlr-2009-012,25,main
+2009-07-01,start,decreto-legislativo-regional-16-2009-m,dlr-2009-016,39,main
+2009-07-05,start,decreto-legislativo-regional-17-2009-m,dlr-2009-017,28,main
+2009-08-13,law,decreto-legislativo-regional-23-2009-m,dlr-2006-037,9,main
+2009-08-22,start,decreto-legislativo-regional-27-2009-m,dlr-2009-027,82,main
+2009-09-01,start,decreto-legislativo-regional-21-2009-m,dlr-2009-021,14,main
+2009-09-30,start,decreto-legislativo-regional-28-2009-m,dlr-2009-028,71,main
+2010-01-01,law,decreto-legislativo-regional-34-2009-m,dlr-2001-002 dlr-2008-034,2,main
+2010-01-05,start,decreto-legislativo-regional-33-2009-m,dlr-2009-033,76,main
+2010-05-27,law,decreto-legislativo-regional-8-2010-m,dlr-2009-017,5,main
+2010-05-27,law,decreto-regulamentar-regional-2-2010-m,dlr-2001-003,1,main
+2010-06-26,start,decreto-legislativo-regional-11-2010-m,dlr-2010-011,18,main
+2010-08-06,start,decreto-legislativo-regional-14-2010-m,dlr-2010-014,19,main
+2010-08-06,law,decreto-legislativo-regional-14-2010-m,dlr-2001-003,1,main
+2010-08-10,start,decreto-legislativo-regional-12-2010-m,dlr-2010-012,35,main
+2010-08-19,law,declaracao-rectificacao-21-2008,dlr-2008-006,2,main
+2010-08-19,law,decreto-legislativo-regional-17-2010-m,dlr-2008-006,3,main
+2010-08-19,unexplained,,dlr-2008-006,16,main
+2010-08-20,start,decreto-legislativo-regional-19-2010-m,dlr-2010-019,28,main
+2010-08-25,start,decreto-legislativo-regional-20-2010-m,dlr-2010-020,21,main
+2010-08-25,start,decreto-legislativo-regional-21-2010-m,dlr-2010-021,8,main
+2010-08-25,start,decreto-legislativo-regional-22-2010-m,dlr-2010-022,36,main
+2011-01-11,start,decreto-legislativo-regional-1-2011-m,dlr-2011-001,9,main
+2011-01-11,law,decreto-legislativo-regional-29-2009-m,dlr-2006-028,5,main
+2011-01-11,law,decreto-legislativo-regional-2-2011-m,dlr-2001-003 dlr-2006-028 dlr-2008-034 dlr-2010-012 dlr-2010-019,5,main
+2011-02-23,law,decreto-legislativo-regional-3-2011-m,dlr-2003-026,9,main
+2011-03-17,law,decreto-legislativo-regional-7-2011-m,dlr-2006-037,8,main
+2011-03-17,unexplained,,dlr-2006-037,1,main
+2011-04-28,law,decreto-legislativo-regional-10-2011-m,dlr-2008-022,1,main
+2011-08-12,law,decreto-legislativo-regional-17-2011-m,dlr-2006-037,1,main
+2011-12-31,start,decreto-legislativo-regional-21-2011-m,dlr-2011-021,6,main
+2012-01-01,law,decreto-legislativo-regional-20-2011-m,dlr-2001-002 dlr-2001-003,3,main
+2012-02-06,law,declaracao-retificacao-9-2012,dlr-2011-021,1,main
+2012-03-16,start,,dlr-1992-002,4,main
+2012-03-16,start,decreto-legislativo-regional-1-2012-m,dlr-2012-001,7,main
+2012-03-31,law,decreto-legislativo-regional-5-2012-m,dlr-2006-028 dlr-2008-034,2,main
+2012-04-21,start,decreto-legislativo-regional-7-2012-m,dlr-2012-007,98,main
+2012-07-07,law,decreto-legislativo-regional-13-2012-m,dlr-2006-035,1,main
+2012-07-10,law,decreto-legislativo-regional-14-2012-m,dlr-2008-022,7,main
+2012-08-14,law,decreto-legislativo-regional-16-2012-m,dlr-1989-024,43,main
+2012-08-21,start,decreto-legislativo-regional-18-2012-m,dlr-2012-018,20,main
+2012-08-29,law,decreto-legislativo-regional-20-2012-m,dlr-2008-006,3,main
+2012-08-30,law,decreto-legislativo-regional-20-2012-m,dlr-2008-006,68,main
+2012-08-31,law,decreto-legislativo-regional-24-2012-m,dlr-2007-017,12,main
+2012-09-04,start,decreto-legislativo-regional-27-2012-m,dlr-2012-027,12,main
+2012-10-12,law,declaracao-retificacao-57-2012,dlr-1989-024,2,main
+2012-11-17,start,decreto-legislativo-regional-34-2012-m,dlr-2012-034,35,main
+2012-12-14,law,decreto-legislativo-regional-38-2012-m,dlr-2007-018,20,main
+2012-12-28,law,decreto-legislativo-regional-40-2012-m,dlr-2009-010,13,main
+2013-01-01,law,decreto-legislativo-regional-30-2012-m,dlr-2007-009,25,main
+2013-01-01,law,decreto-legislativo-regional-39-2012-m,dlr-2009-021,2,main
+2013-01-01,law,decreto-legislativo-regional-42-2012-m,dlr-2001-003 dlr-2006-028 dlr-2008-034,7,main
+2013-01-03,law,decreto-legislativo-regional-2-2013-m,dlr-2007-017,2,main
+2013-02-06,start,decreto-legislativo-regional-5-2013-m,dlr-2013-005,14,main
+2013-02-24,start,decreto-legislativo-regional-9-2013-m,dlr-2013-009,11,main
+2013-03-20,law,decreto-legislativo-regional-8-2013-m,dlr-2009-028,21,main
+2013-03-20,unexplained,,dlr-2009-028,6,main
+2013-03-26,law,decreto-legislativo-regional-12-2013-m,dlr-2009-017,11,main
+2013-04-17,law,decreto-legislativo-regional-14-2013-m,dlr-2008-028,13,main
+2013-06-04,start,,dlr-2008-023,1,main
+2013-06-08,start,decreto-legislativo-regional-17-2013-m,dlr-2013-017,9,main
+2013-06-26,start,decreto-legislativo-regional-21-2013-m,dlr-2013-021,60,main
+2013-07-16,law,decreto-legislativo-regional-23-2013-m,dlr-1994-022,4,main
+2013-07-30,law,decreto-legislativo-regional-26-2013-m,dlr-2004-027,4,main
+2013-08-07,law,decreto-legislativo-regional-28-2013-m,dlr-2008-034,1,main
+2013-08-23,start,decreto-legislativo-regional-29-2013-m,dlr-2013-029,34,main
+2014-01-01,law,decreto-legislativo-regional-31-a-2013-m,dlr-2001-002 dlr-2006-028,2,main
+2014-02-01,law,decreto-legislativo-regional-31-2013-m,dlr-2010-012,23,main
+2014-08-21,law,decreto-legislativo-regional-10-2014-m,dlr-1989-024,1,main
+2014-11-05,start,decreto-legislativo-regional-12-2014-m,dlr-2014-012,16,main
+2014-12-17,start,decreto-legislativo-regional-17-2014-m,dlr-2014-017,71,main
+2015-01-01,law,decreto-legislativo-regional-18-2014-m,dlr-2001-002 dlr-2006-028,4,main
+2015-01-27,law,decreto-legislativo-regional-2-2015-m,dlr-1989-024,2,main
+2015-08-14,law,decreto-legislativo-regional-6-2015-m,dlr-2001-028 dlr-2004-027 dlr-2006-028 dlr-2010-012 dlr-2012-034 dlr-2014-017,13,main
+2015-08-21,start,decreto-legislativo-regional-7-2015-m,dlr-2015-007,19,main
+2015-12-03,start,decreto-legislativo-regional-9-2015-m,dlr-2015-009,98,main
+2015-12-22,law,decreto-legislativo-regional-12-2015-m,dlr-2009-027,53,main
+2015-12-31,start,decreto-legislativo-regional-17-2015-m,dlr-2015-017,76,main
+2015-12-31,law,decreto-legislativo-regional-17-2015-m,dlr-1992-002 dlr-2001-003 dlr-2012-001,4,main
+2016-01-01,start,decreto-legislativo-regional-11-2015-m,dlr-2015-011,18,main
+2016-01-01,law,decreto-legislativo-regional-42-a-2016-m,dlr-2010-012,2,main
+2016-02-04,start,decreto-legislativo-regional-5-2016-m,dlr-2016-005,14,main
+2016-03-11,law,decreto-legislativo-regional-12-2016-m,dlr-2010-021,5,main
+2016-03-12,law,decreto-legislativo-regional-14-2016-m,dlr-2010-022,27,main
+2016-03-14,start,decreto-legislativo-regional-11-2016-m,dlr-2016-011,38,main
+2016-03-21,law,decreto-legislativo-regional-16-2016-m,dlr-2014-012,1,main
+2016-05-14,start,decreto-legislativo-regional-21-2016-m,dlr-2016-021,29,main
+2016-05-21,law,decreto-legislativo-regional-22-2016-m,dlr-2016-011,25,main
+2016-07-03,start,decreto-legislativo-regional-24-2016-m,dlr-2016-024,51,main
+2016-07-07,law,decreto-legislativo-regional-27-2016-m,dlr-2004-005,13,main
+2016-07-11,start,decreto-legislativo-regional-27-2016-m,dlr-2016-027,18,main
+2016-07-16,start,decreto-legislativo-regional-28-2016-m,dlr-2016-028,64,main
+2016-07-16,law,decreto-legislativo-regional-29-2016-m,dlr-2012-034,15,main
+2016-07-21,law,decreto-legislativo-regional-33-2016-m,dlr-2001-003,1,main
+2016-08-12,start,decreto-legislativo-regional-35-2016-m,dlr-2016-035,2,main
+2016-08-18,law,decreto-legislativo-regional-38-2016-m,dlr-2014-017,2,main
+2016-08-19,start,decreto-legislativo-regional-39-2016-m,dlr-2016-039,20,main
+2016-08-24,law,declaracao-retificacao-15-2016,dlr-2004-005 dlr-2016-027,2,main
+2016-12-30,law,decreto-legislativo-regional-42-2016-m,dlr-2015-017 dlr-2016-021,5,main
+2016-12-30,unexplained,,dlr-2016-021,2,main
+2016-12-31,law,decreto-legislativo-regional-42-a-2016-m,dlr-2001-003 dlr-2004-027 dlr-2007-017 dlr-2014-017,8,main
+2017-01-17,law,decreto-legislativo-regional-2-2017-m,dlr-2011-001,1,main
+2017-03-09,start,decreto-legislativo-regional-28-2012-m,dlr-2012-028,22,main
+2017-05-24,law,decreto-legislativo-regional-16-2012-m,dlr-1989-024,1,main
+2017-05-24,law,decreto-legislativo-regional-13-2017-m,dlr-1989-024,98,main
+2017-06-07,law,decreto-legislativo-regional-16-2017-m,dlr-1996-023,1,main
+2017-06-07,unexplained,,dlr-1996-023,2,main
+2017-06-09,start,decreto-legislativo-regional-17-2017-m,dlr-2017-017,23,main
+2017-06-09,law,decreto-legislativo-regional-17-2017-m,dlr-2010-019,1,main
+2017-06-28,law,decreto-legislativo-regional-19-2017-m,dlr-2009-012,18,main
+2017-07-02,start,decreto-legislativo-regional-18-2017-m,dlr-2017-018,173,main
+2017-08-02,law,decreto-legislativo-regional-20-2017-m,dlr-1998-003,3,main
+2017-08-02,law,decreto-legislativo-regional-22-2017-m,dlr-2015-011,1,main
+2017-08-04,law,decreto-legislativo-regional-24-2017-m,dlr-2012-007,9,main
+2017-09-16,start,decreto-legislativo-regional-32-2017-m,dlr-2017-032,38,main
+2018-01-01,law,decreto-legislativo-regional-2-2018-m,dlr-2006-028,3,main
+2018-01-10,start,decreto-legislativo-regional-2-2018-m,dlr-2018-002,79,main
+2018-01-10,law,decreto-legislativo-regional-2-2018-m,dlr-2001-002 dlr-2013-029 dlr-2014-017 dlr-2016-024,6,main
+2018-01-13,law,decreto-legislativo-regional-3-2018-m,dlr-2016-021,5,main
+2018-02-09,law,decreto-legislativo-regional-4-2018-m,dlr-2010-020,23,main
+2018-03-16,law,decreto-legislativo-regional-6-2018-m,dlr-2008-034,12,main
+2018-04-18,law,decreto-legislativo-regional-7-2018-m,dlr-2008-006,1,main
+2018-06-30,law,decreto-legislativo-regional-9-2018-m,dlr-2016-028,15,main
+2018-08-07,law,decreto-legislativo-regional-12-2018-m,dlr-2001-028 dlr-2008-034 dlr-2015-011,10,main
+2018-08-21,start,decreto-legislativo-regional-17-2018-m,dlr-2018-017,26,main
+2018-08-21,law,decreto-legislativo-regional-17-2018-m,dlr-2009-016,2,main
+2018-08-25,start,decreto-legislativo-regional-15-2018-m,dlr-2018-015,28,main
+2018-09-01,start,decreto-legislativo-regional-11-2018-m,dlr-2018-011,46,main
+2018-09-01,law,decreto-legislativo-regional-11-2018-m,dlr-2012-027,8,main
+2018-11-23,start,decreto-legislativo-regional-21-2018-m,dlr-2018-021,20,main
+2018-11-23,law,decreto-legislativo-regional-21-2018-m,dlr-2010-021,8,main
+2018-12-29,start,decreto-legislativo-regional-25-2018-m,dlr-2018-025,35,main
+2019-01-01,law,decreto-legislativo-regional-26-2018-m,dlr-2001-002 dlr-2012-034 dlr-2016-024,3,main
+2019-03-20,law,decreto-legislativo-regional-2-2019-m,dlr-2006-035,2,main
+2019-08-06,start,decreto-legislativo-regional-7-2019-m,dlr-2019-007,9,main
+2019-08-07,start,decreto-legislativo-regional-8-2019-m,dlr-2019-008,9,main
+2019-08-14,start,decreto-legislativo-regional-10-2019-m,dlr-2019-010,79,main
+2019-08-14,law,decreto-legislativo-regional-10-2019-m,dlr-2014-017,5,main
+2019-08-15,law,declaracao-retificacao-44-2019,dlr-2019-010,1,main
+2019-08-23,start,decreto-legislativo-regional-13-2019-m,dlr-2019-013,45,main
+2019-08-23,law,decreto-legislativo-regional-13-2019-m,dlr-2013-017,5,main
+2019-08-23,law,decreto-legislativo-regional-8-2020-m,dlr-2019-013,1,main
+2019-09-11,law,decreto-legislativo-regional-14-2019-m,dlr-2015-007,6,main
+2020-02-01,start,decreto-legislativo-regional-1-a-2020-m,dlr-2020-001-a,87,main
+2020-02-01,law,decreto-legislativo-regional-1-a-2020-m,dlr-1989-024 dlr-2004-027 dlr-2006-028 dlr-2008-034 dlr-2018-011 dlr-2019-013,8,main
+2020-02-01,law,declaracao-retificacao-9-2020,dlr-2020-001-a,1,main
+2020-02-10,law,decreto-legislativo-regional-12-2019-m,dlr-2012-018,1,main
+2020-03-26,law,decreto-legislativo-regional-4-2020-m,dlr-2015-009,9,main
+2020-07-08,start,decreto-legislativo-regional-7-2020-m,dlr-2020-007,41,main
+2020-07-14,law,decreto-legislativo-regional-8-2020-m,dlr-2019-013,16,main
+2020-07-28,start,decreto-legislativo-regional-10-2020-m,dlr-2020-010,31,main
+2020-07-29,law,decreto-legislativo-regional-9-2020-m,dlr-2020-001-a,2,main
+2020-07-30,law,decreto-legislativo-regional-11-2020-m,dlr-2009-033,56,main
+2020-08-11,start,decreto-legislativo-regional-12-2020-m,dlr-2020-012,23,main
+2020-08-11,law,decreto-legislativo-regional-12-2020-m,dlr-2001-002 dlr-2001-028 dlr-2003-026 dlr-2007-018 dlr-2020-001-a,14,main
+2020-08-15,law,decreto-legislativo-regional-13-2020-m,dlr-2017-018,1,main
+2020-10-03,start,decreto-legislativo-regional-14-2020-m,dlr-2020-014,18,main
+2020-11-17,law,decreto-legislativo-regional-15-2020-m,dlr-2008-022,7,main
+2021-01-01,start,decreto-legislativo-regional-18-2020-m,dlr-2020-018,107,main
+2021-01-01,law,decreto-legislativo-regional-18-2020-m,dlr-2001-002 dlr-2009-027 dlr-2016-024,3,main
+2021-02-18,start,decreto-legislativo-regional-2-2021-m,dlr-2021-002,14,main
+2021-02-20,law,decreto-legislativo-regional-3-2021-m,dlr-2010-011,12,main
+2021-03-10,start,decreto-legislativo-regional-4-2021-m,dlr-2021-004,56,main
+2021-03-10,law,decreto-legislativo-regional-4-2021-m,dlr-2006-028,25,main
+2021-03-16,start,decreto-legislativo-regional-5-2021-m,dlr-2021-005,44,main
+2021-05-01,start,,dlr-1994-011,41,main
+2021-05-01,law,decreto-legislativo-regional-5-2021-m,dlr-2009-016,2,main
+2021-05-15,law,decreto-legislativo-regional-9-2021-m,dlr-2016-028,8,main
+2021-05-18,law,decreto-legislativo-regional-10-2021-m,dlr-2019-008,3,main
+2021-05-21,start,decreto-legislativo-regional-12-2021-m,dlr-2021-012,29,main
+2021-05-23,start,decreto-legislativo-regional-11-2021-m,dlr-2021-011,27,main
+2021-06-10,start,decreto-legislativo-regional-13-2021-m,dlr-2021-013,41,main
+2021-06-15,start,decreto-legislativo-regional-14-2021-m,dlr-2021-014,41,main
+2021-07-01,law,decreto-legislativo-regional-15-2021-m,dlr-2010-012 dlr-2020-018,3,main
+2021-08-27,law,decreto-legislativo-regional-22-2021-m,dlr-2019-007,2,main
+2021-12-31,start,decreto-legislativo-regional-28-a-2021-m,dlr-2021-028-a,103,main
+2021-12-31,law,decreto-legislativo-regional-28-a-2021-m,dlr-2009-010 dlr-2018-011,2,main
+2022-01-14,law,decreto-legislativo-regional-3-2022-m,dlr-2009-033,8,main
+2022-01-18,law,decreto-legislativo-regional-4-2022-m,dlr-2010-019,1,main
+2022-03-23,law,decreto-legislativo-regional-7-2022-m,dlr-2006-014,3,main
+2022-05-14,law,decreto-legislativo-regional-9-2022-m,dlr-2021-002,7,main
+2022-05-31,start,decreto-legislativo-regional-12-2022-m,dlr-2022-012,24,main
+2022-05-31,law,declaracao-retificacao-3-2022-m,dlr-2022-012,1,main
+2022-07-28,law,decreto-legislativo-regional-14-2022-m,dlr-2021-028-a,5,main
+2022-07-30,law,decreto-legislativo-regional-16-2022-m,dlr-2017-032,4,main
+2022-08-02,law,decreto-legislativo-regional-17-2022-m,dlr-2009-017,7,main
+2022-08-15,law,decreto-legislativo-regional-20-2022-m,dlr-2020-010,20,main
+2022-08-18,law,decreto-legislativo-regional-21-2022-m,dlr-2009-033,7,main
+2022-10-01,law,decreto-legislativo-regional-19-2022-m,dlr-2013-029,35,main
+2022-11-23,law,decreto-legislativo-regional-23-2022-m,dlr-2015-011,1,main
+2022-12-20,start,decreto-legislativo-regional-24-2022-m,dlr-2022-024,21,main
+2022-12-30,start,decreto-legislativo-regional-26-2022-m,dlr-2022-026,108,main
+2022-12-30,law,decreto-legislativo-regional-26-2022-m,dlr-2001-002 dlr-2001-003 dlr-2008-034 dlr-2018-011 dlr-2021-028-a,5,main
+2022-12-30,unexplained,,dlr-2021-028-a,14,main
+2022-12-31,law,decreto-legislativo-regional-28-2022-m,dlr-2006-028 dlr-2021-004,21,main
+2023-01-08,start,decreto-legislativo-regional-1-2023-m,dlr-2023-001,19,main
+2023-01-10,law,decreto-legislativo-regional-3-2023-m,dlr-2013-021,1,main
+2023-01-17,law,decreto-legislativo-regional-6-2023-m,dlr-2016-024,11,main
+2023-02-16,law,decreto-legislativo-regional-12-2023-m,dlr-1989-024,2,main
+2023-04-11,law,decreto-legislativo-regional-16-2023-m,dlr-2016-028,1,main
+2023-04-16,start,decreto-legislativo-regional-17-2023-m,dlr-2023-017,44,main
+2023-05-12,law,decreto-legislativo-regional-19-2023-m,dlr-2016-005,7,main
+2023-06-29,start,decreto-legislativo-regional-23-2023-m,dlr-2023-023,17,main
+2023-06-29,law,decreto-legislativo-regional-23-2023-m,dlr-2019-013,2,main
+2023-07-15,start,decreto-legislativo-regional-25-2023-m,dlr-2023-025,37,main
+2023-07-20,law,decreto-legislativo-regional-26-2023-m,dlr-2020-007,1,main
+2023-07-27,law,decreto-legislativo-regional-29-2023-m,dlr-2021-013,4,main
+2023-07-27,law,decreto-legislativo-regional-30-2023-m,dlr-2008-006,2,main
+2023-08-01,law,decreto-legislativo-regional-31-2023-m,dlr-2018-015,2,main
+2023-08-01,law,decreto-legislativo-regional-32-2023-m,dlr-2018-017,3,main
+2023-08-02,law,decreto-legislativo-regional-33-2023-m,dlr-2016-024,14,main
+2023-08-02,law,decreto-legislativo-regional-34-2023-m,dlr-2017-018,11,main
+2023-08-03,law,decreto-legislativo-regional-35-2023-m,dlr-1989-024,2,main
+2023-08-03,law,decreto-legislativo-regional-36-2023-m,dlr-2021-005,3,main
+2023-08-03,unexplained,,dlr-1989-024,1,main
+2023-08-04,law,decreto-legislativo-regional-39-2023-m,dlr-2009-016,29,main
+2023-08-04,law,decreto-legislativo-regional-40-2023-m,dlr-2019-008,2,main
+2023-08-07,start,decreto-legislativo-regional-36-2023-m,dlr-2023-036,11,main
+2023-08-07,start,decreto-legislativo-regional-37-2023-m,dlr-2023-037,28,main
+2023-08-07,start,decreto-legislativo-regional-38-2023-m,dlr-2023-038,26,main
+2023-09-07,law,declaracao-retificacao-3-2023-m,dlr-2023-036,1,main
+2024-01-30,law,decreto-legislativo-regional-1-2024-m,dlr-2023-001,3,main
+2024-02-03,law,decreto-legislativo-regional-2-2024-m,dlr-2020-010,2,main
+2024-04-03,start,decreto-legislativo-regional-4-2024-m,dlr-2024-004,38,main
+2024-07-30,start,decreto-legislativo-regional-4-90-m,dlr-1990-004,9,main
+2024-07-30,start,decreto-legislativo-regional-6-2024-m,dlr-2024-006,124,main
+2024-07-30,law,decreto-legislativo-regional-6-2024-m,dlr-2001-002 dlr-2001-003 dlr-2006-028 dlr-2007-017 dlr-2009-017 dlr-2009-027 dlr-2012-001 dlr-2012-034 dlr-2013-029 dlr-2015-011 dlr-2016-024 dlr-2018-021 dlr-2021-004,18,main
+2024-08-01,law,decreto-legislativo-regional-6-2024-m,dlr-2021-012,3,main
+2024-08-12,law,declaracao-retificacao-1-2024-m-1,dlr-2024-006,1,main
+2024-10-24,law,decreto-legislativo-regional-7-2024-m,dlr-2001-003,1,main
+2024-12-05,law,decreto-legislativo-regional-12-2024-m,dlr-2013-009,12,main
+2024-12-12,law,decreto-legislativo-regional-15-2024-m,dlr-2006-037,1,main
+2024-12-20,law,decreto-legislativo-regional-18-2024-m,dlr-2016-039,4,main
+2025-01-01,start,decreto-legislativo-regional-13-2024-m,dlr-2024-013,35,main
+2025-01-01,law,decreto-legislativo-regional-13-2024-m,dlr-2010-019,1,main
+2025-01-01,law,decreto-legislativo-regional-23-2024-m,dlr-2009-027,60,main
+2025-01-01,unexplained,,dlr-2009-027,2,main
+2025-07-03,start,decreto-legislativo-regional-2-2025-m,dlr-2025-002,130,main
+2025-07-03,law,decreto-legislativo-regional-2-2025-m,dlr-1990-004 dlr-2001-002 dlr-2001-003 dlr-2010-014 dlr-2016-021 dlr-2016-035 dlr-2018-011 dlr-2021-004 dlr-2021-012 dlr-2022-024 dlr-2023-023 dlr-2023-025 dlr-2023-037 dlr-2023-038 dlr-2024-004,37,main
+2025-07-03,unexplained,,dlr-2010-014,9,main
+2025-07-03,unexplained,,dlr-2016-035,17,main
+2025-07-29,law,decreto-legislativo-regional-3-2025-m,dlr-2001-003,1,main
+2025-08-01,law,decreto-legislativo-regional-2-2025-m,dlr-2018-015,1,main
+2025-08-02,start,decreto-legislativo-regional-2-2016-m,dlr-2016-002,24,main
+2025-08-02,law,decreto-legislativo-regional-5-2025-m,dlr-2010-019 dlr-2024-013,11,main
+2025-09-01,law,decreto-legislativo-regional-2-2025-m,dlr-2013-029 dlr-2018-017 dlr-2021-005,5,main
+2025-12-31,law,declaracao-retificacao-1-2025-m-1,dlr-2025-002,1,main
+2025-12-31,law,decreto-legislativo-regional-8-2025-m,dlr-1992-002 dlr-2001-002 dlr-2001-003 dlr-2008-034 dlr-2012-001 dlr-2013-005 dlr-2013-029 dlr-2016-021 dlr-2017-017 dlr-2017-018 dlr-2018-011 dlr-2018-015 dlr-2018-017 dlr-2018-025 dlr-2020-012 dlr-2021-005 dlr-2024-004 dlr-2025-002,38,main
+2025-12-31,unexplained,,dlr-2013-005,12,main
+2025-12-31,unexplained,,dlr-2018-015,1,main
+2025-12-31,unexplained,,dlr-2020-012,13,main
+2025-12-31,unexplained,,dlr-2025-002,28,main
+2026-04-30,law,decreto-legislativo-regional-8-2026-m,dlr-2016-028,24,main
+2026-05-04,law,decreto-legislativo-regional-2-2026-m,dlr-2019-008,1,main
+2026-07-31,law,decreto-legislativo-regional-13-2026-m,dlr-2024-013,7,main
+2026-10-30,law,decreto-legislativo-regional-17-2016-m,dlr-2008-028,1,main
+2026-10-30,law,declaracao-retificacao-15-2016,dlr-2016-027,1,main
+2026-10-30,law,declaracao-retificacao-1-2023-m,dlr-2022-026,1,main
+2026-10-30,law,decreto-legislativo-regional-23-2023-m,dlr-2021-011,3,main
+2026-10-30,unexplained,,dlr-2016-027,11,main
+2026-10-30,unexplained,,dlr-2022-026,13,main
