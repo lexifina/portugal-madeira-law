@@ -1,0 +1,11 @@
+# Artigo 5.º
+### Provimento
+1 - Os cargos de direção superior da administração regional autónoma da Madeira são providos, por livre nomeação, em regime de comissão de serviço, pelo período de três anos, renovável por iguais períodos, de entre indivíduos licenciados no mínimo há 10 ou 8 anos, consoante se trate de cargos de direção superior de 1.º ou de 2.º grau, vinculados ou não à Administração Pública, que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, de acordo com o seguinte:
+a) O cargo de diretor regional e o de subdiretor regional são providos por despacho conjunto do Presidente do Governo Regional e do membro do Governo Regional competente;
+b) O cargo de secretário-geral da Presidência do Governo Regional é provido nos termos estabelecidos na respetiva lei orgânica.
+2 - O provimento nos cargos referidos no número anterior produz efeitos à data do despacho de nomeação, salvo se outra data for expressamente fixada.
+3 - O despacho de nomeação, devidamente fundamentado, é publicado no Jornal Oficial da Região Autónoma da Madeira, juntamente com uma nota relativa ao currículo académico e profissional do nomeado.
+4 - Com a designação, os dirigentes superiores assumem os objetivos anuais e plurianuais definidos para o serviço, constantes do Quadro de Avaliação e Responsabilização (QUAR), reapreciado na altura, se necessário, sobre o qual assenta a avaliação do respetivo serviço.
+5 - O disposto no artigo 33.º da Lei n.º 49/99, de 22 de junho, aplica-se a todos os que exerçam as funções de dirigente máximo dos serviços, que se encontrem nessas funções até à data da entrada em vigor do presente diploma e que preencham os correspondentes requisitos até à cessação da respetiva comissão de serviço.
+6 - O provimento nos cargos de direção intermédia da administração regional autónoma da Madeira será feito por despacho do membro do Governo Regional competente, em comissão de serviço, pelo período de três anos, renovável por iguais períodos.
+7 - A formação a que se refere o artigo 12.º da Lei n.º 2/2004, de 15 de janeiro, é obrigatória para os dirigentes cuja primeira nomeação em funções de direção venha a ocorrer a partir da entrada em vigor do presente diploma.
